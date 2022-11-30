@@ -16,11 +16,11 @@
 =152  \\$aRDA-FR
 =154  \\$axa
 =231  \\$7ba0yba0y$8freger$tNosferatu, eine Symphonie des Grauens$cfilm
-=333  \\$aAdultes, tout public 
+=333  \\$aAdultes, tout public
 =370  \\$aFilm muet en noir et blanc avec des intertitres.$cAdaptation sans autorisation du livre de Bram Stoker "Dracula", et objet de procès pour plagiat intenté par Florence Stoker, veuve de l'auteur, entre 1922 et 1925.
 =378  \\$aEn 1838 dans la ville fictive de Wisborg, Thomas Hutter, un jeune clerc de notaire ayant fait un heureux mariage avec Ellen, doit partir pour la Transylvanie afin de vendre une propriété au comte Orlok qui désire avoir une résidence dans la ville. Après un périple sur une terre d’ombres, le jeune homme est accueilli au sein d’un sinistre château par le comte. Durant la transaction, Orlok aperçoit une miniature d’Ellen qui le fascine et décide d’acquérir le bâtiment – proche de la maison du couple – qui lui est proposé. Hutter, hôte du comte, ne tardera pas à découvrir la véritable nature de celui-ci. Alors Nosferatu cheminera vers sa nouvelle propriété, répandant dans son sillage une épidémie de peste. Ellen, bientôt en proie aux mains griffues de Nosferatu qui la convoite, laissera le comte faire d’elle sa victime et sacrifie son sang au vampire pour sauver la ville frappée par la peste.$bWikipedia$zfre
 =431  \\$7ba0yba0y$8frefre$tNosferatu, le vampire$cfilm
-=441  \1$3FRBNF11917269$aMurnau, Friedrich Wilhelm (1888-1931)$tNosferatu, eine Symphonie des Grauens$7ba0yba0y$8freger 
+=441  \1$3FRBNF11917269$aMurnau, Friedrich Wilhelm (1888-1931)$tNosferatu, eine Symphonie des Grauens$7ba0yba0y$8freger
 =441  \1$3FRBNF11917269$aMurnau, Friedrich Wilhelm (1888-1931)$t tNosferatu, le vampire$7ba0yba0y$8frefre
 =501  \1$3FRBNF11917269$7ba0yba0y$8freger$oISNI 0000 0001 2276 4261$aMurnau$bFriedrich Wilhelm$f1888-1931$4300
 =501  \1$3FRBNF13770288$7ba0yba0y$8freger$oISNI 0000 0000 6308 3959$aGaleen$bHenrik$f1882-1949$4010$4690
@@ -29,17 +29,17 @@
 =501  \1$3FRBNF14225384$7ba0yba0y$8freger$oISNI 0000 0000 6309 6717$aSchröder$bGreta$f1891-1967$4005
 =501  \1$3FRBNF12171467$7ba0yba0y$8frefre$oISNI 0000 0001 1605 7085$aErdmann$bHans$f1882-1942$4230
 =511  02$7ba0yba0y$8freger$oISNI 0000 0001 0382 2956$aPrana Film$4630
-=531  \\$5xxm$3UMLRM0007$7ba0yba0y$8freeng$aNosferatu, Phantom der Nacht$cfilm 
+=531  \\$5xxm$3UMLRM0007$7ba0yba0y$8freeng$aNosferatu, Phantom der Nacht$cfilm
 =531  \\$5xxm$3UMLRM0129$7ba0yba0y$8freeng$aShadow of the vampire$cfilm
 =531  \\$5xxm$3UMLRM0090$7ba0yba0y$8freeng$aNosferatu, the wrath of Malachi$cjeu vidéo
 =541  \1$5xxa$p$pEst une adaptation dans un autre mode de création de [œuvre]$3UMLRM0004$aStoker, Bram (1847-1912)$tDracula$7ba0yba0y$8freeng
-=608  \\$3FRBNF11931407$aFilms de vampire$2rameau-Genre 
+=608  \\$3FRBNF11931407$aFilms de vampire$2rameau-Genre
 =640  5\$0Date de tournage$aDE$f#192108###$i#192110###
-=640  6\$0Date de sortie en salle$aDE$f#19220304# 
-=640  6\$0Date de sortie en salle$aFR$f#19221027# 
+=640  6\$0Date de sortie en salle$aDE$f#19220304#
+=640  6\$0Date de sortie en salle$aFR$f#19221027#
 =801  \0$a FR$bFR-751131015$c20220924
 =810  \\$aWikipédia : https://fr.wikipedia.org/wiki/Nosferatu_le_vampire (2020-12-28)
-=810  \\$aNosferatu / Friedrich W. Murnau. - [Sannois] : RDM vidéo [éditeur, distributeur], [DL 2012]. - [Image animée : (video] 
+=810  \\$aNosferatu / Friedrich W. Murnau. - [Sannois] : RDM vidéo [éditeur, distributeur], [DL 2012]. - [Image animée : (video]
 =810  \\$aData.bnf.fr - https://data.bnf.fr/ark:/12148/cb11943761j
 =810  \\$aCiné-ressources : catalogue collectif des bibliothèques et archives de cinéma : http://www.cineressources.net (2012-03-09)
 =810  \\$a Registre des visas et classification : https://www.cnc.fr/professionnels/visas-et-classification/31210 (2020-12-28)
@@ -132,7 +132,7 @@
 =154  \\$axb
 =242  \1$3UMLRM0004$7ba0yba0y$8freeng$aStoker, Bram (1847-1912)$tDracula$mAnglais$nTexte noté
 =542  \1$5xxn$pA pour traduction$3UMLRM0056$7ba0yba0y$8freeng$aStoker, Bram (1847-1912)$tDracula$mFrançais$wPaul-Margueritte$nTexte noté
-=542  \1$5xxn$pA pour traduction$3UMLRM0020$7ba0yba0y$8freeng$aStoker, Bram (1847-1912)$tDracula$mFrançais$wMolitor$nTexte noté 
+=542  \1$5xxn$pA pour traduction$3UMLRM0020$7ba0yba0y$8freeng$aStoker, Bram (1847-1912)$tDracula$mFrançais$wMolitor$nTexte noté
 =542  \1$5xxn$pA pour traduction$3UMLRM0041$7ba0yba0y$8freeng$aStoker, Bram (1847-1912)$tDracula$mFrançais$wSirgent$nTexte noté
 =542  \1$5xxn$pA pour traduction$3UMLRM0050$7ba0yba0y$8freeng$aStoker, Bram (1847-1912)$tDracula$mFrançais$wFinné$nTexte noté
 =542  \1$5xxn$pAbrégé en$3UMLRM0053$7ba0yba0y$8freeng$aStoker, Bram (1847-1912)$tDracula$lVersion abrégée$wChicheportiche$mFrançais$nTexte noté
@@ -160,7 +160,7 @@
 =231  \\$7ba0yba0y$8freger$a Nosferatu, Phantom der Nacht$cfilm
 =333  \\$aAdultes, tout public
 =370  \\$cD'après le roman de Bram Stoker et le film de F.-W. Murnau
-=378  \\$aAu XIXe siècle, Jonathan Harker se rend dans les Carpathes afin de négocier la vente d'une maison qu'un certain comte Dracula veut acquérir. Harker tombe rapidement sous l'emprise de ce dernier, qui se rendra ensuite en Allemagne, accompagné de milliers de rats pour y transmettre la peste.. 
+=378  \\$aAu XIXe siècle, Jonathan Harker se rend dans les Carpathes afin de négocier la vente d'une maison qu'un certain comte Dracula veut acquérir. Harker tombe rapidement sous l'emprise de ce dernier, qui se rendra ensuite en Allemagne, accompagné de milliers de rats pour y transmettre la peste..
 =378  \\$aUne chauve-souris s'agrippe aux rideaux de la chambre et Lucy hurle de terreur. Le lendemain, Jonathan Harker, son fiancé, reçoit de l'étrange Renfield l'ordre de se rendre en Transylvanie, chez le comte Dracula qui désire acquérir une maison dans la ville de Wismar. Malgré la soudaine peur de Lucy, Jonathan entreprend ce long périple. Après s'être heurté à l'angoisse des gens de la région, il rencontre le comte, inquiétant homme blanchâtre au crâne rasé et aux ongles pointus. Le lendemain, il découvre sur son cou comme deux piqûres. Plus tard Dracula, qui a admiré sur médaillon le long cou de Lucy, quitte son château dans son cercueil. Persuadé que sa fiancée court un grand danger, Jonathan tente de le prendre de vitesse. Mais c'est un homme sans mémoire, rendu fou par la fièvre qui parvient à Wismar, jusque dans les bras de Lucy qu'il ne reconnaît pas. Pendant ce temps, un bateau, sans marins où, seul, le capitaine gît mort, attaché sur le gouvernail, entre dans Wismar. À bord, les rats s'égaient dans la ville, porteurs de peste, tandis que l'ombre gigantesque de Dracula hante la maison où Lucy soigne son époux. Alors que la population découvre dans la mort toute proche une raison de vivre mieux, Lucy, qui a déjà lutté avec Dracula, l'attire dans sa chambre et s'offre en victime expiatoire à la soif du monstre. Les premiers rayons du soleil foudroient le vampire. Mais, lorsque le docteur Van Helsing, qui opposait toujours la force de la science à l'instinct de Lucy, enfonce un pieu dans le coeur du comte, il est arrêté pour meurtre et emmené dans une prison qui n'existe plus. Alors, Jonathan se lève de son fauteuil, il demande qu'on enlève le cercle d'hosties consacrées que Lucy avait tracé pour le protéger. Et il s'élance, nouveau disciple du Non Mort, afin de répandre le Mal sur terre.$bLes fiches du cinéma$zfre
 =431  \\$7ba0yba0y$8frefre$a Nosferatu, fantôme de la nuit$cfilm
 =441  \1$3FRBNF11907441$7ba0yba0y$8freger$aHerzog, Werner (1942-....)$tNosferatu, Phantom der Nacht
@@ -328,7 +328,7 @@
 =501  \1$3FRBNF16718404$7ba0yba0y$8fre###$oISNI 0000 0004 1990 1570$aZiane-Bruneel$bNadia$f1963-....$4340
 =501  \1$3FRBNF12202765$7ba0yba0y$8frefre$oISNI 0000 0000 0064 6937$aSendre-Haïdar$bMichèle$4205
 =541  \1$5xxr$pEst une sélection de [œuvre]$3UMLRM0004$7ba0yba0y$8freeng$aStoker, Bram (1847-1912)$tDracula
-=640  6\$0Date de première publication$f#2014##### 
+=640  6\$0Date de première publication$f#2014#####
 =676  \\$a823$v23
 =801  \0$aFR$bFR-751131010$c20221005$gRDA-FR
 =810  \\$aDracula / Bram Stoker ; traduction de Lucienne Molitor ; choix des extraits et appareil pédagogique établi par Nadia Bruneel-Ziane,... ; lexique établi par Michèle Sendre. – [Paris] : Magnard, impr. 2014. – [Texte noté : sans médiation]. – ISBN 978-2-210-74066-2
@@ -345,7 +345,7 @@
 =147  0\$aa
 =152  \\$aRDA-FR
 =154  \\$axb
-=242  \1$3UMLRM0031$7ba0yba0y$8freeng$aStoker, Bram (1847-1912)$tDracula$cChoix$kBruneel-Ziane$mFrançais$wMolitor$nTexte noté 
+=242  \1$3UMLRM0031$7ba0yba0y$8freeng$aStoker, Bram (1847-1912)$tDracula$cChoix$kBruneel-Ziane$mFrançais$wMolitor$nTexte noté
 =502  \1$3FRBNF12626285$7ba0yba0y$8frefre$oISNI 0000 0000 0891 6874$aMolitor$bLucienne$4730
 =542  \1$5xxp$pEst une sélection de [expression]$3UMLRM0020$7ba0yba0y$8freeng$aStoker, Bram (1847-1912)$tDracula$mFrançais$wMolitor$nTexte noté
 =640  6\$0Date de première publication$f#2014#####
@@ -425,7 +425,7 @@
 =501  \1$3FRBNF14473026$7ba0yba0y$8frefre$oISNI 0000 0000 4894 7827$aCassou-Noguès$bAnne$4340
 =501  \1$3FRBNF14473027$7ba0yba0y$8frefre$oISNI 0000 0003 8316 7553$aLangenhagen$bMarie-Aude de$f1975-....$4340
 =541  \1$5xxr$pEst une sélection de [œuvre]$3UMLRM0004$7ba0yba0y$8freeng$aStoker, Bram (1847-1912)$tDracula
-=640  6\$0Date de première publication$f#2004##### 
+=640  6\$0Date de première publication$f#2004#####
 =676  \\$a823$v23
 =801  \0$aFR$bFR-751131010$c20221005$gRDA-FR
 =810  \\$aDracula / Bram Stoker ; traduction par Jacques Finné ; présentation, notes, choix des extraits et dossier par Anne Cassou-Noguès et Marie-Ande de Langenhagen. – Paris : Flammarion, 2004. – [Texte noté : sans médiation]. – ISBN 2-08-072188-7
@@ -444,7 +444,7 @@
 =152  \\$aRDA-FR
 =154  \\$axb
 =242  \1$3UMLRM0037$7ba0yba0y$8freeng$aStoker, Bram (1847-1912)$tDracula$cChoix$kCassou-Noguès ; Langenhagen$mFrançais$wFinné$nTexte noté$o2006
-=371  \\$fÉdition revue avec ajout d’un glossaire 
+=371  \\$fÉdition revue avec ajout d’un glossaire
 =502  \1$311902797$7ba0yba0y$8frefre$oISNI 0000 0001 2023 6609$aFinné$bJacques$f1944-....$4730
 =542  \1$5xxp$pEst une sélection de [expression]$3UMLRM0050$7ba0yba0y$8freeng$aStoker, Bram (1847-1912)$tDracula$mFrançais$wFinné$nTexte noté
 =640  6\$0Date de première publication$f#2006#####
@@ -504,7 +504,7 @@
 =502  \1$3FRBNF11902797$7ba0yba0y$8frefre$oISNI 0000 0001 2023 6609$aFinné$bJacques$f1944-....$4730
 =542  \1$5xxo$pEst une traduction de$3UMLRM0005$7ba0yba0y$8freeng$aStoker, Bram (1847-1912)$tDracula$mAnglais$nTexte noté
 =542  \1$5xxq$pA pour sélection [expression]$3 MLRM0172$7ba0yba0y$8freeng$aStoker, Bram (1847-1912)$tDracula$cChoix$kCassou-Noguès ; Langenhagen$mFrançais$wFinné$nTexte noté$o2004
-=542  \1$5xxq$pA pour sélection [expression]$3UMLRM0038$7ba0yba0y$8freeng$aStoker, Bram (1847-1912)$tDracula$cChoix$kCassou-Noguès ; Langenhagen$mFrançais$wFinné$nTexte noté$o2006 
+=542  \1$5xxq$pA pour sélection [expression]$3UMLRM0038$7ba0yba0y$8freeng$aStoker, Bram (1847-1912)$tDracula$cChoix$kCassou-Noguès ; Langenhagen$mFrançais$wFinné$nTexte noté$o2006
 =542  \1$5xxq$pA pour sélection [expression]$3UMLRM0047$7ba0yba0y$8freeng$aStoker, Bram (1847-1912)$tDracula$cChoix$kCassou-Noguès ; Langenhagen$mFrançais$wFinné$nTexte noté$o2017
 =640  6\$0Date de première publication$f#1979#####
 =801  \0$aFR$bFR-751052119$c20220930
@@ -541,7 +541,7 @@
 =145  \\$ai$baxxe\\
 =152  \\$aRDA-FR
 =154  \\$axb
-=242  \1$3UMLRM0004$7ba0yba0y$8freeng$aStoker, Bram (1847-1912)$tDracula$mFrançais$wPaul-Margueritte$nTexte noté 
+=242  \1$3UMLRM0004$7ba0yba0y$8freeng$aStoker, Bram (1847-1912)$tDracula$mFrançais$wPaul-Margueritte$nTexte noté
 =371  \\$fPremière traduction française sous forme d’une version écourtée publiée sous le titre "Dracula, l'homme de la nuit".
 =442  \1$7ba0yba0y$8frefre$aStoker, Bram (1847-1912)$tDracula, l'homme de la nuit$nTexte noté
 =502  \1$3FRBNF12630239$7ba0yba0y$8frefre$oISNI 0000 0000 7998 1809$aPaul-Margueritte$bÈve$4730
@@ -563,7 +563,7 @@
 =145  \\$ai$baxxe\\
 =152  \\$aRDA-FR
 =154  \\$axb
-=242  \1$3UMLRM0004$7ba0yba0y$8freeng$aStoker, Bram (1847-1912)$tDracula$mFrançais$wPaul-Margueritte$lVersion abrégée$nTexte noté 
+=242  \1$3UMLRM0004$7ba0yba0y$8freeng$aStoker, Bram (1847-1912)$tDracula$mFrançais$wPaul-Margueritte$lVersion abrégée$nTexte noté
 =371  \\$fVersion abrégée suivant le découpage du film « Dracula » de Tod Browning
 =442  \1$7ba0yba0y$8frefre$aStoker, Bram (1847-1912)$tDracula, l'homme de la nuit$lVersion abrégée$nTexte noté
 =502  \1$3FRBNF12630239$7ba0yba0y$8frefre$oISNI 0000 0000 7998 1809$aPaul-Margueritte$bÈve$4730
@@ -586,7 +586,7 @@
 =152  \\$aRDA-FR
 =154  \\$axb
 =242  \1$3UMLRM0004$7ba0yba0y$8freeng$aStoker, Bram (1847-1912)$tDracula$mEspagnol$nTexte noté
-=442  \1$7ba0yba0y$8frespa$aStoker, Bram (1847-1912)$tDrácula$nTexte noté 
+=442  \1$7ba0yba0y$8frespa$aStoker, Bram (1847-1912)$tDrácula$nTexte noté
 =542  \1$5xxo$pEst une traduction de$3UMLRM0005$7ba0yba0y$8freeng$aStoker, Bram (1847-1912)$tDracula$mAnglais$nTexte noté
 =640  6\$0Date de première publication$f#2017#####
 =801  \0$aFR$bFR-751052119$c20220929
@@ -676,7 +676,7 @@
 =441  \1$3FRBNF11925586$oISNI 0000 0001 2122 2356$aStoker, Bram (1847-1912)$tDraculas Gast$7ba0yba0y$8freger
 =501  \1$3FRBNF11925586$7ba0yba0y$8freeng$oISNI 0000 0001 2122 2356$aStoker$bBram$f1847-1912$4070
 =541  \1$5xxh$pAntépisode de$3UMLRM0004$7ba0yba0y$8freeng$aStoker, Bram (1847-1912)$tDracula
-=608  \\$3FRBNF11931787$aNouvelle fantastique$2rameauGenre 
+=608  \\$3FRBNF11931787$aNouvelle fantastique$2rameauGenre
 =640  6\$0Date de première publication$f#1914#####
 =640  5\$0Date d’écriture$f#18900308#$i#18970526#
 =676  \\$a823$v23
@@ -697,7 +697,7 @@
 =145  \\$ai$baxxe\\
 =152  \\$aRDA-FR
 =154  \\$axb
-=242  \1$3UMLRM0075$7ba0yba0y$8freeng$aStoker, Bram (1847-1912)$tDracula’s guest$mFrançais$wFinné$nTexte noté 
+=242  \1$3UMLRM0075$7ba0yba0y$8freeng$aStoker, Bram (1847-1912)$tDracula’s guest$mFrançais$wFinné$nTexte noté
 =442  \1$7ba0yba0y$8frefre$aStoker, Bram (1847-1912)$tL’invité de Dracula$mFrançais$wFinné$nTexte noté
 =502  \1$3FRBNF11902797$7ba0yba0y$8frefre$oISNI 0000 0001 2023 6609$aFinné$b Jacques$4730
 =542  \1$5xxo$pEst une traduction de$7ba0yba0y$8freeng$aStoker, Bram (1847-1912)$tDracula’s guest$mAnglais$nTexte noté
@@ -739,7 +739,7 @@
 =511  02$7ba0yba0y$8freeng$aOsiris Films$cFirme$4630
 =511  02$3FRBNF13879718$7ba0yba0y$8freeng$oISNI 0000 0001 0659 910$aColumbia pictures$4630
 =531  \\$5xxr$pOeuvre étudiée dans$3UMLRM0081$7ba0yba0y$8freeng$a"Dracula" : l'oeuvre de Bram Stoker et le film de Francis F. Coppola
-=541  \1$5xxa$pEst une adaptation dans un autre mode de création de [œuvre]$3UMLRM0004$7ba0yba0y$8freeng$aStoker, Bram (1847-1912)$tDracula 
+=541  \1$5xxa$pEst une adaptation dans un autre mode de création de [œuvre]$3UMLRM0004$7ba0yba0y$8freeng$aStoker, Bram (1847-1912)$tDracula
 =608  \\$3FRBNF11980577$aFilms d'horreur$2rameau-Genre
 =640  5\$0Dates de tournage$f#19911014#$i#19920131#
 =640  0\$0Date de copyright$f#1992#####
@@ -764,7 +764,7 @@
 =147  0\$ag$ec$hc
 =152  \\$aRDA-FR
 =154  \\$axb
-=232  \\$3UMLRM0078$7ba0yba0y$8freeng$aBram Stoker's Dracula$cfilm$mAnglais 
+=232  \\$3UMLRM0078$7ba0yba0y$8freeng$aBram Stoker's Dracula$cfilm$mAnglais
 =371  \\$aDolby Digital$fFilm en version originale anglaise, non sous-titrée
 =640  0\$0Date de copyright$f#1992#####
 =801  \0$aFR$bFR-141186101$c20220721
@@ -783,16 +783,16 @@
 =145  0\$ai\
 =152  \\$aRDA-FR\
 =154  \\$axa\
-=231  \\$a"Dracula" : l'oeuvre de Bram Stoker et le film de Francis F. Coppola$7ba0yba0y$8frefre 
+=231  \\$a"Dracula" : l'oeuvre de Bram Stoker et le film de Francis F. Coppola$7ba0yba0y$8frefre
 =370  \\$aTextes en français et en anglais$aBibliographie (7 pages) et en notes
 =378  \\$aPrésente des contributions proposant des éclairages divers sur ces deux œuvres étudiées de manière autonome ou en regard l'une de l'autre, ainsi que des approches critiques différenciées et complémentaires entre les deux auteurs, les deux œuvres et les deux époques, celles de la fin des XIXe et XXe siècles$bElectre$zfre
 =501  \1$3FRBNF123453434$oISNI 0000 0001 2281 8514$aMénégaldo$bGilles$f1947-....$4651
 =501  \1$3FRBNF121791444$oISNI 0000 0000 3932 4716$aSipière$bDominique$4651
 =531  \\$5xxr$pEst une étude de [œuvre]$3UMLRM0078$7ba0yba0y$8freeng$aBram Stoker's Dracula$cfilm
 =541  \1$5xxr$pEst une étude de [œuvre]$3UMLRM0004$7ba0yba0y$8freeng$aStoker, Bram (1847-1912)$tDracula
-=640  6\$0Date de première publication$f#2005##### 
-=676  \\$a823.8 (critique)$v 23 
-=801  \0$aFR$b FR-751045101$c20220926 
+=640  6\$0Date de première publication$f#2005#####
+=676  \\$a823.8 (critique)$v 23
+=801  \0$aFR$b FR-751045101$c20220926
 =810  \\$a "Dracula" [Texte imprimé] : l'oeuvre de Bram Stoker et le film de Francis F. Coppola / ouvrage dirigé par Gilles Menegaldo et Dominique Sipière. - Paris : Ellipses, impr. 2005. [Texte noté : sans médiation]- ISBN 2-7298-2533-9
 
 =LDR  00759cx\\a2200193\\\4500
@@ -806,9 +806,9 @@
 =145  0\$ai$baxxe\\\
 =152  \\$aRDA-FR\
 =154  \\$axb\
-=232  \\$3UMLRM0081$a"Dracula" : l'oeuvre de Bram Stoker et le film de Francis F. Coppola$mFrançais-Anglais$nTexte noté 
-=640  6\$0Date de première publication$f#2005##### 
-=801  \0$aFR$bFR-751045101$c20220926 
+=232  \\$3UMLRM0081$a"Dracula" : l'oeuvre de Bram Stoker et le film de Francis F. Coppola$mFrançais-Anglais$nTexte noté
+=640  6\$0Date de première publication$f#2005#####
+=801  \0$aFR$bFR-751045101$c20220926
 =810  \\$a. "Dracula" [Texte imprimé] : l'oeuvre de Bram Stoker et le film de Francis F. Coppola / ouvrage dirigé par Gilles Menegaldo et Dominique Sipière. – Paris : Ellipses, 2005.– [Texte noté : sans médiation]. – ISBN 2-7298-2533-9
 
 =LDR  01200cx\\a2200301\\\4500
@@ -895,7 +895,7 @@
 =152  \\$aRDA-FR
 =242  \1$3UMLRM087$7ba0yba0y$8frefre$aValls de Gomis, Estelle (1973-...)$tLe vampire au fil des siècles : enquête autour d'un mythe$mFrançais$nTexte noté
 =801  \0$aFR$b FR-751045101$c20220809
-=810  \\$ Le vampire au fil des siècles : enquête autour d'un / Estelle Valls de Gomis. - Coudray-Macouard : Cheminements, DL 2005. – [Texte noté : sans médiation]
+=810  \\$a Le vampire au fil des siècles : enquête autour d'un / Estelle Valls de Gomis. - Coudray-Macouard : Cheminements, DL 2005. – [Texte noté : sans médiation]
 
 =LDR  01989cx\\a2200373\\\4500
 =001  UMLRM0090
@@ -918,13 +918,13 @@
 =511  02$3FRBNF15513730$7ba0yba0y$8fre###$aIdol FX AB$4635
 =511  02$3FRBNF14466131$7ba0yba0y$8freeng$aPan vision corporate games$4635
 =531  \\$5xxl$3UMLRM0001$7ba0yba0y$8freger$a Nosferatu, eine Symphonie des Grauens$cfilm
-=541  \1$5xxl$3UMLRM0004$7ba0yba0y$8freeng$aStoker, Bram (1847-1912)$t Dracula 
+=541  \1$5xxl$3UMLRM0004$7ba0yba0y$8freeng$aStoker, Bram (1847-1912)$t Dracula
 =608  \\$aJeu d'arcade ou d'action$2frTAV
 =608  \\$aJeu vidéo$2frTAV
 =608  \\$3FRBNF13318902$aJeux vidéo$2rameauGenre
-=640  6\$0Date de première mise à disposition$aUS$f#20031021# 
+=640  6\$0Date de première mise à disposition$aUS$f#20031021#
 =640  6\$0Date de première mise à disposition$aGB$f#20040514#
-=640  6\$0Date de première mise à disposition$aFR$f#20030830#  
+=640  6\$0Date de première mise à disposition$aFR$f#20030830#
 =801  \0$aFR$bFR-751043001$c20220923
 =810  \\$ajeuxvideos.com - https://www.jeuxvideo.com/jeux/pc/00011666-nosferatu-the-wrath-of-malachi.htm (2022-09-23)
 
@@ -940,14 +940,14 @@
 =147  \\$ag$eb
 =152  \\$a\RDA-FR
 =154  \\$axb
-=232  \\$3UMLRM090$7ba0yba0y$8freeng$aNosferatu, the wrath of Malachi$cjeu vidéo$wPC$mFrançais 
+=232  \\$3UMLRM090$7ba0yba0y$8freeng$aNosferatu, the wrath of Malachi$cjeu vidéo$wPC$mFrançais
 =371  \\$fPlateforme : PC$fVersion française
-=640  6\$0Date de première mise à disposition$aFR$f#20030830# 
+=640  6\$0Date de première mise à disposition$aFR$f#20030830#
 =801  \0$aFR$bFR-751131015$c20221104
 =810  \\$a jeuxvideos.com : https://www.jeuxvideo.com/jeux/pc/00011666-nosferatu-the-wrath-of-malachi.htm (2022-11-04)
 =810  \\$aNosferatu : the wrath of Malachi / Idol FX AB, Pan vision. – Version française. – Courbevoie : Neo publishing, [2003]. – [Multimédia : électronique]
-=810  \\$aWikipedia - https://fr.wikipedia.org/wiki/Nosferatu:_The_Wrath_of_Malachi (2022-09-23)$bDate et genre précis de l’œuvre 
-=810  \\$aGiant Bomb : Video game reviews, videos, forums and wiki : Nosferatu: The Wrath of Malachi (Game) - Giant Bomb (2022-11-04)$bDate et source d’inspiration de l’œuvre 
+=810  \\$aWikipedia - https://fr.wikipedia.org/wiki/Nosferatu:_The_Wrath_of_Malachi (2022-09-23)$bDate et genre précis de l’œuvre
+=810  \\$aGiant Bomb : Video game reviews, videos, forums and wiki : Nosferatu: The Wrath of Malachi (Game) - Giant Bomb (2022-11-04)$bDate et source d’inspiration de l’œuvre
 =810  \\$aNosferatu : the wrath of Malachi / Idol FX AB, Pan vision. – [Clichy] : Eidos ; Boulogne-Billancourt : Mindscape, cop. 2005. – [Multimédia : électronique]
 
 =LDR  02122cx\\a2200337\\\4500
@@ -1070,12 +1070,12 @@
 =145  0\$ai\
 =152  \\$aRDA-FR\
 =154  \\$axa\
-=241  \1$3FRBNF136162418$oISNI 0000 0001 1059 1869$aHughes, William (1964-....)$tBram Stoker’s Dracula : a reader’s guide$7ba0yba0y$8freeng 
+=241  \1$3FRBNF136162418$oISNI 0000 0001 1059 1869$aHughes, William (1964-....)$tBram Stoker’s Dracula : a reader’s guide$7ba0yba0y$8freeng
 =370  \\$aBibliographie (5 pages)$aIndex
 =501  \1$3FRBNF1361624187ba0yba0y$8freeng$oISNI 0000 0001 1059 1869$aHughes$bWilliam$f1964-….$4070
 =541  \1$5xxr$pEst une étude de [œuvre]$3UMLRM0004$7ba0yba0y$8freeng$aStoker, Bram (1847-1912)$tDracula
-=640  6\$0Date de première publication$f#2009##### 
-=676  \\$a823$v23 
+=640  6\$0Date de première publication$f#2009#####
+=676  \\$a823$v23
 =801  \0$aFR$b FR-751045101$c20220920
 =810  \\$aBram Stoker's Dracula : a reader's guide / William Hughes. – London ; New York : Continuum, cop. 2009. – [Texte noté : sans médiation]. – ISBN 9780826495365
 
@@ -1090,7 +1090,7 @@
 =145  0\$ai$baxxe\\
 =152  \\$aRDA-FR\
 =154  \\$axb\
-=242  \1$3UMLRM0111$7ba0yba0y$8freeng$aHughes, William (1964-....)$tBram Stoker’s Dracula : a reader’s guide$mAnglais$nTexte noté 
+=242  \1$3UMLRM0111$7ba0yba0y$8freeng$aHughes, William (1964-....)$tBram Stoker’s Dracula : a reader’s guide$mAnglais$nTexte noté
 =640  6\$0Date de première publication$f#2009#####
 =640  0\$0Date de copyright$f#2009#####
 =801  \0$aFR$bFR-751045101$c20220920
@@ -1115,7 +1115,7 @@
 =501  \1$3FRBNF16166639$7ba0yba0y$8freeng$oISNI 0000 0001 0923 8478$aHolt$bIan$f1964-….$4070
 =541  \1$5xxi$pSuite de$3UMLRM0004$7ba0yba0y$8freeng$aStoker, Bram (1847-1912)$tDracula
 =541  \1$5xxc$pA pour adaptation dans un autre mode de création [œuvre]$3UMLRM0186$7ba0yba0y$8frefre$aDufranne, Michel (1970-....)$aKowalski, Piotr (1973-....)$tDracula l’immortel
-=608  \\$3FRBNF17863011$aRoman fantastique$2rameauGenre 
+=608  \\$3FRBNF17863011$aRoman fantastique$2rameauGenre
 =608  \\$3FRBNF11945821$aLittérature d'épouvante$2rameauGenre
 =640  6\$0Date de première publication$f#2009#####
 =801  \0$aFR$bFR-751131015$c20221017
@@ -1155,14 +1155,14 @@
 =154  \\$axa
 =241  \1$3FRBNF15539985$oISNI 0000 0001 2020 4631$aDufranne, Michel (1970-....)$3FRBNF15072903$oISNI 0000 0001 0989 9671$aKowalski, Piotr (1973-....)$tDracula l’immortel$h2$7ba0yba0y$8frefre
 =501  \1$3FRBNF15539985$7ba0yba0y$8frefre$oISNI 0000 0001 2020 4631$aDufranne$bMichel$f1970-....$4070
-=501  \1$3FRBNF15072903$7ba0yba0y$8frepol$oISNI 0000 0001 0989 9671$aKowalski$bPiotr$f1973-....$4440 
+=501  \1$3FRBNF15072903$7ba0yba0y$8frepol$oISNI 0000 0001 0989 9671$aKowalski$bPiotr$f1973-....$4440
 =501  \0$3FRBNF16803054$7ba0yba0y$8fre###$oISNI 0000 0003 6897 4373$aSvart$f1978-....$4410
 =541  \1$5xxe$Est une partie de [œuvre]$3UMLRM0186$7ba0yba0y$8frefre$aDufranne, Michel (1970-....)$aKowalski, Piotr (1973-....)$tDracula l’immortel
 =608  \\$3FRBNF16555383$aBandes dessinées fantastiques$2rameauGenre
 =640  6\$0Date de première publication$f#20120111#
 =801  \0$aFR$bFR-751043001$c20220721
 =810  \\$aBédéthèque : https://www.bedetheque.com/serie-30273-BD-Dracula-l-Immortel.html (2022-11-09)
-=810  \\$aDracula l'immortel. 2 / scénario, Michel Dufranne ; dessin, Piotr Kowalski ; couleurs, Svart ; d'après l'ouvrage de Dacre Stoker et Ian Holt. – [Neuilly-sur-Seine] : Michel Lafon ; [Paris] : Casterman, impr. 2012. – [Texte noté. Image fixe : sans médiation]. – ISBN 978-2-203-03785-4 
+=810  \\$aDracula l'immortel. 2 / scénario, Michel Dufranne ; dessin, Piotr Kowalski ; couleurs, Svart ; d'après l'ouvrage de Dacre Stoker et Ian Holt. – [Neuilly-sur-Seine] : Michel Lafon ; [Paris] : Casterman, impr. 2012. – [Texte noté. Image fixe : sans médiation]. – ISBN 978-2-203-03785-4
 =810  \\$ahttp://ark.bnf.fr/ark:/12148/cb42659826w
 
 =LDR  00950cx\\a2200229\\\4500
@@ -1181,14 +1181,14 @@
 =242  \1$3UMLRM0117$7ba0yba0y$8frefre$aDufranne, Michel (1970-....)$aKowalski, Piotr (1973-....)$tDracula l’immortel$h2$mFrançais$nTexte noté. Image fixe
 =640  6\$0Date de première publication$f#20120111#
 =801  \0$aFR$bFR-751043001$c20220721
-=810  \\$aDracula l'immortel. 2 / scénario, Michel Dufranne ; dessin, Piotr Kowalski ; couleurs, Svart ; d'après l'ouvrage de Dacre Stoker et Ian Holt. – [Neuilly-sur-Seine] : Michel Lafon ; [Paris] : Casterman, impr. 2012. – [Texte noté. Image fixe : sans médiation]. – ISBN 978-2-203-03785-4 
+=810  \\$aDracula l'immortel. 2 / scénario, Michel Dufranne ; dessin, Piotr Kowalski ; couleurs, Svart ; d'après l'ouvrage de Dacre Stoker et Ian Holt. – [Neuilly-sur-Seine] : Michel Lafon ; [Paris] : Casterman, impr. 2012. – [Texte noté. Image fixe : sans médiation]. – ISBN 978-2-203-03785-4
 =810  \\$ahttp://ark.bnf.fr/ark:/12148/cb42659826w
 
 =LDR  04340cx\\a2200589\\\4500
 =001  UMLR0120
 =005  20221004########
 =033  \\$ahttps://www.wikidata.org/wiki/Q1254469$2Wikidata
-=052  \\$a0000-0000-295F-0000-O-0000-0000-2 
+=052  \\$a0000-0000-295F-0000-O-0000-0000-2
 =100  \\$a20221004afrey50\\\\\\ba0\
 =101  0\$aeng\
 =102  \\$aUS$aFR\
@@ -1202,33 +1202,33 @@
 =147  0\$ag$ec\
 =152  \\$aRDA-FR\
 =154  \\$axa\
-=231  \\$7ba0yba0y$8freeng$aDracula, dead and loving it$cfilm 
-=333  \\$aAdultes, tout public 
+=231  \\$7ba0yba0y$8freeng$aDracula, dead and loving it$cfilm
+=333  \\$aAdultes, tout public
 =370  \\$aPastiche inspiré du film Dracula de 1931 avec Bela Lugosi, réalisé par Tod Browning$cCopyright : Borgo Pass productions, 1996
-=378  \\$aLe comte Dracula a acheté une abbaye en Angleterre. L'avoué londonien Thomas Renfield se rend dans son lointain et sinistre château transylvanien pour lui faire signer les actes notariés. Dracula hypnotise, non sans difficulté, son hôte, et, suivi de son nouvel esclave, arrive en Angleterre. L'équipage du vaisseau a trouvé la mort durant la traversée. Renfield, seul survivant, est enfermé dans l'asile du docteur Seward, à deux pas de l'abbaye où s'est installé le vampire. A l'opéra, Dracula fait la connaissance de la fille du docteur Seward, Mina, de son fiancé Jonathan Harker et de Lucy, une amie du couple. Le soir même, il vide Lucy de son sang...$bTélérama$zfre 
+=378  \\$aLe comte Dracula a acheté une abbaye en Angleterre. L'avoué londonien Thomas Renfield se rend dans son lointain et sinistre château transylvanien pour lui faire signer les actes notariés. Dracula hypnotise, non sans difficulté, son hôte, et, suivi de son nouvel esclave, arrive en Angleterre. L'équipage du vaisseau a trouvé la mort durant la traversée. Renfield, seul survivant, est enfermé dans l'asile du docteur Seward, à deux pas de l'abbaye où s'est installé le vampire. A l'opéra, Dracula fait la connaissance de la fille du docteur Seward, Mina, de son fiancé Jonathan Harker et de Lucy, une amie du couple. Le soir même, il vide Lucy de son sang...$bTélérama$zfre
 =431  \\$7ba0yba0y$8frefre$aDracula, mort et heureux de l’être$cfilm
-=441  \1$3FRBNF138918800$7ba0yba0y$8freeng$oISNI0000 0001 0920 8877$aBrooks, Mel (1926-….)$t Dracula, dead and loving it 
-=441  \1$3FRBNF138918800$7ba0yba0y$8frefre$oISNI 0000 0001 0920 8877$aBrooks, Mel (1926-….)$tDracula, mort et heureux de l’être 
-=501  \1$3FRBNF138918800$7ba0yba0y$8freeng$oISNI 0000 0001 0920 8877$aBrooks$bMel$f1926-....$4300$4690 
-=501  \1$3FRBNF14048907X$7ba0yba0y$8freeng$oISNI 0000 0000 0277 289X$aDe Luca$bRudy$4690 
-=501  \1$3FRBNF140489094$7ba0yba0y$8freeng$oISNI 0000 0000 0321 5278$aHaberman$bSteve$4690 
-=501  \1$3FRBNF138979696$7ba0yba0y$8freeng$oISNI 0000 0001 1456 2467$aNielsen$bLeslie$f1926-2010$4005 
-=501  \1$3FRBNF140174771$7ba0yba0y$8freeng$oISNI 0000 0001 1470 316X$aMacNicol$bPeter$f1954-….$4005 
-=501  \1$3FRBNF140217393$7ba0yba0y$8freeng$oISNI 0000 0001 1627 1751$aWeber$bSteven$f1961-....$4005 
-=501  \1$3FRBNF139617337$7ba0yba0y$8freeng$oISNI 0000 0001 1743 3062$aMann$bHummie$f1955-….$4230 
+=441  \1$3FRBNF138918800$7ba0yba0y$8freeng$oISNI0000 0001 0920 8877$aBrooks, Mel (1926-….)$t Dracula, dead and loving it
+=441  \1$3FRBNF138918800$7ba0yba0y$8frefre$oISNI 0000 0001 0920 8877$aBrooks, Mel (1926-….)$tDracula, mort et heureux de l’être
+=501  \1$3FRBNF138918800$7ba0yba0y$8freeng$oISNI 0000 0001 0920 8877$aBrooks$bMel$f1926-....$4300$4690
+=501  \1$3FRBNF14048907X$7ba0yba0y$8freeng$oISNI 0000 0000 0277 289X$aDe Luca$bRudy$4690
+=501  \1$3FRBNF140489094$7ba0yba0y$8freeng$oISNI 0000 0000 0321 5278$aHaberman$bSteve$4690
+=501  \1$3FRBNF138979696$7ba0yba0y$8freeng$oISNI 0000 0001 1456 2467$aNielsen$bLeslie$f1926-2010$4005
+=501  \1$3FRBNF140174771$7ba0yba0y$8freeng$oISNI 0000 0001 1470 316X$aMacNicol$bPeter$f1954-….$4005
+=501  \1$3FRBNF140217393$7ba0yba0y$8freeng$oISNI 0000 0001 1627 1751$aWeber$bSteven$f1961-....$4005
+=501  \1$3FRBNF139617337$7ba0yba0y$8freeng$oISNI 0000 0001 1743 3062$aMann$bHummie$f1955-….$4230
 =511  02$7ba0yba0y$8freeng$aBrooksfilms$cFirme$4630
 =511  02$3FRBNF12209507$7ba0yba0y$8frefre$oISNI 0000 0001 2265 3959$aGaumont$4630
 =511  02$3FRBNF14277791$7ba0yba0y$8freeng$oISNI 0000 0000 9494 1709$aCastle Rock Entertainment$4630
-=531  \\$5xxa$pEst une parodie de$3UMLRM0154$7ba0yba0y$8fre###$tDracula$cfilm$d1931 
-=541  \1$5xxa$pEst une parodie de$3UMLRM0004$7ba0yba0y$8freeng$aStoker$bBram (1847-1912)$tDracula 
-=608  \\$3FRBNF11931407$aFilms de vampires$2rameauGenre 
-=608  \\$3FRBNF125187886$aComédies (cinéma)$2rameauGenre 
-=640  0\$0Date de copyright$f#1996##### 
-=640  6\$0Date de sortie en salle$aUS$f#19951222# 
-=640  6\$0Date de sortie en salle$aFR$f#19960410# 
-=640  5\$0Date de tournage$f#19950508#$i#19950726# 
-=801  \0$aFR$bFR-751052119$c20221004 
-=810  \\$a Dracula, mort et heureux de l'être = Dracula dead and loving it / un film de Mel Brooks ; Leslie Nielsen, Peter MacNicol, Steven Weber... [et autres], [acteurs] ; musique, Hummie Mann ; histoire de Rudy De Luca & Steve Haberman ; scénario de Mel Brooks & Rudy De Luca & Steve Haberman ; produit et réalisé par Mel Brooks. – Neuilly-sur-Seine : Gaumont vidéo [éditeur] ; Boulogne-Billancourt : Paramount home entertainment France [distributeur], 2009. – [Image animée : vidéo]. – Référence commerciale : FG 315 880 (EDV 1504) 
+=531  \\$5xxa$pEst une parodie de$3UMLRM0154$7ba0yba0y$8fre###$tDracula$cfilm$d1931
+=541  \1$5xxa$pEst une parodie de$3UMLRM0004$7ba0yba0y$8freeng$aStoker$bBram (1847-1912)$tDracula
+=608  \\$3FRBNF11931407$aFilms de vampires$2rameauGenre
+=608  \\$3FRBNF125187886$aComédies (cinéma)$2rameauGenre
+=640  0\$0Date de copyright$f#1996#####
+=640  6\$0Date de sortie en salle$aUS$f#19951222#
+=640  6\$0Date de sortie en salle$aFR$f#19960410#
+=640  5\$0Date de tournage$f#19950508#$i#19950726#
+=801  \0$aFR$bFR-751052119$c20221004
+=810  \\$a Dracula, mort et heureux de l'être = Dracula dead and loving it / un film de Mel Brooks ; Leslie Nielsen, Peter MacNicol, Steven Weber... [et autres], [acteurs] ; musique, Hummie Mann ; histoire de Rudy De Luca & Steve Haberman ; scénario de Mel Brooks & Rudy De Luca & Steve Haberman ; produit et réalisé par Mel Brooks. – Neuilly-sur-Seine : Gaumont vidéo [éditeur] ; Boulogne-Billancourt : Paramount home entertainment France [distributeur], 2009. – [Image animée : vidéo]. – Référence commerciale : FG 315 880 (EDV 1504)
 =810  \\$a Wikipedia : https://en.wikipedia.org/wiki/Dracula:_Dead_and_Loving_It (2022-10-04)
 =810  \\$aIMDB (Internet movie database) : https://www.imdb.com/title/tt0112896/ (2022-11-10)
 =810  \\$aCiné-ressources : catalogue collectif des bibliothèques et archives de cinéma : http://www.cineressources.net (2022-11-10)
@@ -1246,14 +1246,14 @@
 =147  1\$ag$ec$hc
 =152  \\$a\RDA-FR\
 =154  \\$axb\
-=232  \\$3UMLRM0120$7ba0yba0y$8freeng$aDracula, dead and loving it$cfilm$mFrançais$o2009 
+=232  \\$3UMLRM0120$7ba0yba0y$8freeng$aDracula, dead and loving it$cfilm$mFrançais$o2009
 =371  \\$aEncodage du son : Dolby surround 2.0$fVersion remastérisée : nouveau master numérique haute définition$fSous-titrage optionnel en français$fCopyright : Gaumont vidéo, 2009
-=432  \\$7ba0yba0y$8frefre$aDracula, mort et heureux de l’être$cfilm$mFrançais$o2009 
-=640  0\$0Date de copyright$f#2009##### 
-=801  \0$aFR$bFR-751052119$c20221004 
+=432  \\$7ba0yba0y$8frefre$aDracula, mort et heureux de l’être$cfilm$mFrançais$o2009
+=640  0\$0Date de copyright$f#2009#####
+=801  \0$aFR$bFR-751052119$c20221004
 =810  \\$a Dracula, mort et heureux de l'être = Dracula dead and loving it / un film de Mel Brooks ; Leslie Nielsen, Peter MacNicol, Steven Weber... [et autres], [acteurs] ; musique, Hummie Mann ; histoire de Rudy De Luca & Steve Haberman ; scénario de Mel Brooks & Rudy De Luca & Steve Haberman ; produit et réalisé par Mel Brooks. – Neuilly-sur-Seine : Gaumont vidéo [éditeur] ; Boulogne-Billancourt : Paramount home entertainment France [distributeur], 2009. – [Image animée : vidéo]. – Référence commerciale : FG 315 880 (EDV 1504)
-=LDR  02432\\h2á€00361\45\
-00
+
+=LDR  02432nx\\h2200361\\\4500
 =001  UMLRM0126
 =005  20220921######.D
 =100  \\$a20220921afrey50\\\\\\ba0
@@ -1266,14 +1266,14 @@
 =152  \\$aRDA-FR\
 =154  \\$axa
 =241  \1$3FRBNF11925586X$oISNI 0000 0001 2122 2356$aStoker, Bram (1847-1912)$tManuscrits$cChoix$kEighteen-Bisang ; Miller$7ba0yba0y$8freeng
-=370  \\$aReproductions en fac-similé des ébauches manuscrites de Bram Stoker accompagnées de leur transcription, ainsi que ses notes tapuscrites 
+=370  \\$aReproductions en fac-similé des ébauches manuscrites de Bram Stoker accompagnées de leur transcription, ainsi que ses notes tapuscrites
 =378  \\$aBram Stoker's initial notes and outlines for his landmark horror novel Dracula were auctioned at Sotheby's in London in 1913 and eventually made their way to the Rosenbach Museum and Library, where they are housed today. This comprehensive work reproduces the handwritten notes both in facsimile and in annotated transcription. It also includes Stoker's typewritten research notes$bLoC$zeng
 =431  \\$7ba0yba0y$8freeng$aBrams Stoker’s notes for Dracula
 =441  \1$3FRBNF11925586X$oISNI 0000 0001 2122 2356$aStoker, Bram (1847-1912)$t[Notes pour "Dracula"]$kEighteen-Bisang ; Miller$7ba0yba0y$8freeng
-=501  \1$3FRBNF11925586$7ba0yba0y$8freeng$oISNI 0000 0001 2122 2356$aStoker$bBram$f1847-1912$4070 
-=501  \1$3FRBNF16259396$7ba0yba0y$8freeng$oISNI 0000 0001 0976 8225$aEighteen-Bisang$bRobert$4651 
+=501  \1$3FRBNF11925586$7ba0yba0y$8freeng$oISNI 0000 0001 2122 2356$aStoker$bBram$f1847-1912$4070
+=501  \1$3FRBNF16259396$7ba0yba0y$8freeng$oISNI 0000 0001 0976 8225$aEighteen-Bisang$bRobert$4651
 =501  \1$3FRBNF12679015$7ba0yba0y$8freeng$oISNI 0000 0000 8170 1706$aMiller$bElizabeth Russel$f1939-....$4651
-=541  \1$5xxk$pEst une œuvre préparatoire pour$3UMLRM0004$7ba0yba0y$8freeng$aStoker, Bram (1847-1912)$t Dracula 
+=541  \1$5xxk$pEst une œuvre préparatoire pour$3UMLRM0004$7ba0yba0y$8freeng$aStoker, Bram (1847-1912)$t Dracula
 =608  \\$3FRBNF11979168$aNotes, esquisses, etc.$2rameau-Forme
 =608  \\$3FRBNF11956260$aFac-similés$2rameau-Forme
 =640  6\$0Date de première publication$f#2008#####
@@ -1281,7 +1281,7 @@
 =801  \0$aFR$bFR-751052119$c20220921
 =810  \\$aWikidata : https://www.wikidata.org/wiki/Q41542. (2022-09-13)$bDate de création : 8 mars 1890 - 26 mai 1897
 =810  \\$aBrams Stoker’s notes for Dracula : a facsimile edition / Bram Stoker ; annotated and transcribed by Robert Eighteen-Bisang and Elizabeth Miller. – Jefferson (N.C.) : McFarland & Company Inc. Publishers, 2008. – [Texte noté : sans mediation]. – ISBN 978-0-7864-3410-7
-=810  \\$aCatalogue de la Bibliothèque du Congrès : https://lccn.loc.gov/2008019450$bRésumé 
+=810  \\$aCatalogue de la Bibliothèque du Congrès : https://lccn.loc.gov/2008019450$bRésumé
 =LDR  01026cx\\a2200218\\\4500
 =001  UMLRM0127
 =005  20220921######.D
@@ -1293,8 +1293,8 @@
 =145  0\$ai$baxxe\\
 =152  \\$aRDA-FR\
 =154  \\$axb
-=242  \1$3UMLRM0126$7ba0yba0y$8freeng$aStoker, Bram (1847-1912)$tManuscrits$cChoix$kEighteen-Bisang ; Miller$mAnglais$nTexte noté 
-=502  \1$3FRBNF16259396$7ba0yba0y$8freeng$oISNI 0000 0001 0976 8225$aEighteen-Bisang$bRobert$4340 
+=242  \1$3UMLRM0126$7ba0yba0y$8freeng$aStoker, Bram (1847-1912)$tManuscrits$cChoix$kEighteen-Bisang ; Miller$mAnglais$nTexte noté
+=502  \1$3FRBNF16259396$7ba0yba0y$8freeng$oISNI 0000 0001 0976 8225$aEighteen-Bisang$bRobert$4340
 =502  \1$3FRBNF12679015$7ba0yba0y$8freeng$oISNI 0000 0000 8170 1706$aMiller$bElizabeth Russel$f1939-....$4340
 =640  6\$0Date de première publication$f#2008#####
 =801  \0$aFR$bFR-751052119$c20220921
@@ -1341,7 +1341,7 @@
 =640  6\$0Date de copyright$f#2000#####
 =640  5\$0Date de tournage$f#19990418#$i#19990528#
 =801  \0$aFR$bFR-751131015$c20221020
-=810  \\$aL'ombre du vampire = Shadow of the vampire / E. Elias Merhige, [réalisateur] ; John Malkovitch, Willem Dafoe, Cary Elwes... [et autres], [acteurs]. – Paris : Studio Canal+ [éditeur] ; Antony : Universal pictures vidéo France SA [distributeur], 2001 (DL). – [Image animée : vidéo]. 
+=810  \\$aL'ombre du vampire = Shadow of the vampire / E. Elias Merhige, [réalisateur] ; John Malkovitch, Willem Dafoe, Cary Elwes... [et autres], [acteurs]. – Paris : Studio Canal+ [éditeur] ; Antony : Universal pictures vidéo France SA [distributeur], 2001 (DL). – [Image animée : vidéo].
 =810  \\$aWikipedia : https://fr.wikipedia.org/wiki/L%27Ombre_du_vampire (2022-10-20)
 =810  \\$aCiné-ressources : catalogue collectif des bibliothèques et archives de cinéma : http://www.cineressources.net (2022-10-20)
 =810  \\$aIMDB (Internet movie database) : https://www.imdb.com/title/tt0189998 (2022-10-20)
@@ -1356,7 +1356,7 @@
 =147  1\$ah$ec$hc
 =152  \\$a\RDA-FR
 =154  \\$axb
-=232  \\$3UMLRM0129$7ba0yba0y$8freeng$aShadow of the vampire$cfilm$mFrançais 
+=232  \\$3UMLRM0129$7ba0yba0y$8freeng$aShadow of the vampire$cfilm$mFrançais
 =371  \\$fFilm en version française
 =432  \\$7ba0yba0y$8frefre$aL'ombre du vampire$cfilm$mfrançais
 =640  6\$0Date de première publication$f#2001#####
@@ -1449,11 +1449,11 @@
 =541  \1$5xxr$pUtilise la musique [œuvre]$3UMLRM0165$7ba0yba0y$8frefre$aMahler, Gustav (1860-1911)$tSymphonies$cChoix$kGodden
 =608  \\$3FRBNF13545625$aFilms de danse$2rameauGenre
 =608  \\$3FRBNF11980577$aFilms d’horreur$2rameauGenre
-=640  6\$0Première diffusion$aCA$f#20020228# 
+=640  6\$0Première diffusion$aCA$f#20020228#
 =640  6\$0Date de sortie en salle$aFR$f#20031231#
 =640  6\$0Date de copyright$f#2002#####
 =801  \0$aFR$bFR-751131015$c20221021
-=810  \\$aDracula : pages tirées du journal d'une vierge/ un film de Guy Maddin, [réalisateur] ; musique de Gustav Mahler. – [Paris] : ED distribution [éditeur, distributeur], [DL 2005]. – [Image animée : vidéo]. 
+=810  \\$aDracula : pages tirées du journal d'une vierge/ un film de Guy Maddin, [réalisateur] ; musique de Gustav Mahler. – [Paris] : ED distribution [éditeur, distributeur], [DL 2005]. – [Image animée : vidéo].
 =810  \\$aWikipedia : https://fr.wikipedia.org/wiki/Dracula,_pages_tir%C3%A9es_du_journal_d%27une_vierge (2022-10-21)
 =810  \\$aCiné-ressources : catalogue collectif des bibliothèques et archives de cinéma : http://www.cineressources.net (2022-10-21)
 =810  \\$aIMDB (Internet movie database) : https://www.imdb.com/title/tt0293113/ (2022-10-21)
@@ -1473,7 +1473,7 @@
 =532  \\$5xxq$3UMLRM0167$7ba0yba0y$8fre###$aGuy Maddin$kED Distribution$mAnglais ; sous-titrage en français$nImage animée
 =640  6\$0Date de première publication$f#2005#####
 =801  \0$aFR$bFR-751131015$c20221021
-=810  \\$aDracula : pages tirées du journal d'une vierge/ un film de Guy Maddin, [réalisateur] ; musique de Gustav Mahler. – [Paris] : ED distribution [éditeur, distributeur], [DL 2005]. – [Image animée : vidéo]. 
+=810  \\$aDracula : pages tirées du journal d'une vierge/ un film de Guy Maddin, [réalisateur] ; musique de Gustav Mahler. – [Paris] : ED distribution [éditeur, distributeur], [DL 2005]. – [Image animée : vidéo].
 =810  \\$aWikipedia : https://fr.wikipedia.org/wiki/Dracula,_pages_tir%C3%A9es_du_journal_d%27une_vierge (2022-10-21)
 =810  \\$aCiné-ressources : catalogue collectif des bibliothèques et archives de cinéma : http://www.cineressources.net (2022-10-21)
 =810  \\$aIMDB (Internet movie database) : https://www.imdb.com/title/tt0293113/ (2022-10-21)
@@ -1510,7 +1510,7 @@
 =152  \\$aRDA-FR
 =154  \\$axb
 =242  \1$3UMLRM0138$aJeanneteau, Daniel (1963-....)$aDeratte, Laure (19..-....)$t[Maquette de décor en volume pour "Nosferatu"]$nImage fixe$7ba0yba0y$8frefre
-=371  \\$fMaquette montée 
+=371  \\$fMaquette montée
 =640  5\$0Date d’achèvement de l’expression$f#2001#####
 =801  \0$aFR$bFR-751045101$c20221025
 =810  \\$a[Maquette de décor en volume pour "Nosferatu"]/ [Daniel Jeanneteau et Laure Deratte]. – [2001]. – [Image fixe : sans médiation]
@@ -1592,7 +1592,7 @@
 =640  5\$0Dates de composition$f#1993####$i#19940504#
 =640  6\$0Première représentation (création)$pFR$dLyon$eAuditorium Maurice Ravel$f#19941013#
 =801  \\$aFR$bFR-751131015$c20220725
-=810  \\$a IRCAM : http://brahms.ircam.fr/works/work/14024 (2010-08-19) 
+=810  \\$a IRCAM : http://brahms.ircam.fr/works/work/14024 (2010-08-19)
 =810  \\$a Oxford music online : http://www.oxfordmusiconline.com (2010-08-19)
 =810  \\$a7 solos pour orchestre / Pascal Dusapin ; Orchestre philharmonique de Liège Wallonie Bruxelles ; Pascal Rophé. – [France] : Naïve, P 2010. – [Musique exécutée : audio]. – Naïve MO 782180
 
@@ -1620,7 +1620,7 @@
 =640  5\$0Date d’achèvement$f#19950514#
 =640  6\$0Première représentation (création)$pFR$dLyon$eAuditorium Maurice Ravel$f#19960111#
 =801  \\$aFR$bFR-751131015$c20220725
-=810  \\$a IRCAM : http://brahms.ircam.fr/works/work/14024 (2010-08-19) 
+=810  \\$a IRCAM : http://brahms.ircam.fr/works/work/14024 (2010-08-19)
 =810  \\$a Oxford music online : http://www.oxfordmusiconline.com (2010-08-19)
 =810  \\$a7 solos pour orchestre / Pascal Dusapin ; Orchestre philharmonique de Liège Wallonie Bruxelles ; Pascal Rophé. – [France] : Naïve, P 2010. – [Musique exécutée : audio]. – Naïve MO 782180
 
@@ -1646,7 +1646,7 @@
 =640  5\$0Date de composition$f#199406###
 =640  6\$0Première représentation (création)$pUS$dLas Vegas$eArtemus Ham$f#19950601#
 =801  \\$aFR$bFR-751131015$c20220725
-=810  \\$a IRCAM : http://brahms.ircam.fr/works/work/14024 (2010-08-19) 
+=810  \\$a IRCAM : http://brahms.ircam.fr/works/work/14024 (2010-08-19)
 =810  \\$a Oxford music online : http://www.oxfordmusiconline.com (2010-08-19)
 =810  \\$aConcerto[s] / Pascal Dusapin. ; Alain Trudel, trombone ; Juliette Hurel, flûte ; Sonia Wieder-Atherton, violoncelle ; Orchestre national de Montpellier, Orchestre de Paris ; Pascal Rophé, Christophe Eschenbach, direction d’orchestre. – [France] : Naïve, [DL 2010]. – [Musique exécutée : audio]. – Naïve MO782181
 
@@ -1672,7 +1672,7 @@
 =640  5\$0Date d’achèvement$f#19960925#
 =640  6\$0Première représentation (création)$pFR$dCaen$eGrand Auditorium$f#19970318#$hFestival Aspects des musiques d'aujourd'hui
 =801  \\$aFR$bFR-751131015$c20220725
-=810  \\$a IRCAM : http://brahms.ircam.fr/works/work/14024 (2010-08-19) 
+=810  \\$a IRCAM : http://brahms.ircam.fr/works/work/14024 (2010-08-19)
 =810  \\$a Oxford music online : http://www.oxfordmusiconline.com (2010-08-19)
 =810  \\$aConcerto[s] / Pascal Dusapin. ; Alain Trudel, trombone ; Juliette Hurel, flûte ; Sonia Wieder-Atherton, violoncelle ; Orchestre national de Montpellier, Orchestre de Paris ; Pascal Rophé, Christophe Eschenbach, direction d’orchestre. – [France] : Naïve, [DL 2010]. – [Musique exécutée : audio]. – Naïve MO782181
 
@@ -1720,7 +1720,7 @@
 =502  \1$3FRBNF13893539$7ba0yba0y$8frefre$oISNI 0000 0000 6309 2513$aKontarsky$bBernhard$f1937-....$4250
 =512  02$3FRBNF11945309$7ba0yba0y$8frefre$oISNI 0000 0001 2375 3986$aOpéra national de Paris$bBallet$4275
 =512  02$3FRBNF13905502$7ba0yba0y$8frefre$oISNI 0000 0001 2323 6161$aOpéra national de Paris$bOrchestre$4545
-=541  \1$5x|r$pIncorpore [expression/oeuvre]$3UMLRM0142$7ba0yba0y$8frefre$aGallotta, Jean-Claude (1950-....)$tNosferatu 
+=541  \1$5x|r$pIncorpore [expression/oeuvre]$3UMLRM0142$7ba0yba0y$8frefre$aGallotta, Jean-Claude (1950-....)$tNosferatu
 =801  \0$aFR$bFR-751131015$c20220920
 =810  \\$aMémopéra : http://www.memopera.fr(2013-03-15)
 =810  \\$a Jean-Claude Gallotta, Nosferatu, ballet de l'Opéra: [chorégraphie de Jean-Claude Gallotta, musiques de Pascal Dusapin] : [programme, 6 mai 2006, Opéra national de Paris, Opéra Bastille] / Opéra national de Paris. – Paris : Opéra national de Paris, copyright 2005. – [Texte noté. Image fixe : sans médiation]
@@ -1738,7 +1738,7 @@
 =152  \\$aRDA-FR
 =154  \\$axa
 =241  \1$3FRBNF11902797$oISNI 0000 0001 2023 6609$aFinné, Jacques (1944-….)$3FRBNF11914577$oISNI 0000 0000 8357 1052$aMarigny, Jean (1939-....)$tDictionnaire des littératures vampiriques$7ba0yba0y$8frefre
-=370  \\$aBibliographie (5 pages) 
+=370  \\$aBibliographie (5 pages)
 =501  \1$3FRBNF11902797$7ba0yba0y$8frefre$oISNI 0000 0001 2023 6609$aFinné$Jacques$f1944-….$4070
 =501  \1$3FRBNF11914577$7ba0yba0y$8frefre$oISNI 0000 0000 8357 1052$aMarigny$bJean$f1939-....$4070
 =606  \\$3FRBNF11945972$7ba0yba0y$8frefre$aVampires$3FRBNF11996647$aDans la littérature$2rameau
@@ -1767,7 +1767,7 @@
 =608  \\$3FRBNF119758323$aIllustrations$2rameauForme
 =640  6\$0Date de première publication$f#1968#####
 =801  \0$aFR$bFR-751045101$c20220927
-=810  \\$aDracula / Bram Stoker ; illustrations originales de Philippe Druillet ; introduction de Tony Faivre. - Paris : Éditions Opta, 1968. - [Texte noté. Image fixe : sans 
+=810  \\$aDracula / Bram Stoker ; illustrations originales de Philippe Druillet ; introduction de Tony Faivre. - Paris : Éditions Opta, 1968. - [Texte noté. Image fixe : sans
 
 =LDR  00672nx\\a2200181\\\4500
 =001  UMLRM0151
@@ -1852,7 +1852,7 @@
 =531  \\$5xxr$pA pour selection [oeuvre]$3UMLRM0152$7ba0yba0y$8frefre$a[Photographies extraites du film "Dracula" de Tod Browning]$kTallandier$d1932
 =531  \\$5xxc$pA pour remake$3UMLRM0163$7ba0yba0y$8frespa$aDrácula$cfilm$d1931$fespagnol
 =531  \\$5xxc$pA pour parodie$3UMLRM0120$7ba0yba0y$8freeng$aDracula, dead and loving it$cfilm
-=541  \1$5xxa$pEst une adaptation dans un autre mode de création de [œuvre]$3UMLRM155$7ba0yba0y$8fre###$aDeane, Hamilton (1879-1958)$aBalderston, John L. (1889-1954)$tDracula 
+=541  \1$5xxa$pEst une adaptation dans un autre mode de création de [œuvre]$3UMLRM155$7ba0yba0y$8fre###$aDeane, Hamilton (1879-1958)$aBalderston, John L. (1889-1954)$tDracula
 =541  \1$5xxl$3UMLRM0004$7ba0yba0y$8fre###$aStoker$bBram (1847-1912)$tDracula
 =541  \1$5xxf$pA pour complément$3UMLRM0156$7ba0yba0y$8fre###$aGlass, Philip (1937-....)$tDracula
 =608  \\$3FRBNF11980577$aFilms d’horreur$2rameauGenre
@@ -1909,7 +1909,7 @@
 =152  \\$aRDA-FR\
 =154  \\$axa
 =241  \1$3FRBNF13894531$oISNI 0000 0001 2136 7029$aGlass, Philip (1937-....)$tDracula$7ba0yba0y$8fre###
-=370  \\$aMusique composée pour le film du même titre de Tod Browning, réalisé en 1931$aRéunit : Dracula ; Journey to the inn ; The inn ; The crypt ; Carriage without a driver ; The castle ; The drawing room ; Excellent, Mr. Renfield ; The three consorts of Dracula ; The storm ; Horrible tragedy ; London fog ; In the theatre ; Lucy's bitten ; Steward sanatorium ; Renfield ; In his cell ; When the dream comes ; Dracula enters ; Or a wolf ; Women in white ; Renfield in the drawing room ; Dr. van Helsing and Dracula ; Mina's 
+=370  \\$aMusique composée pour le film du même titre de Tod Browning, réalisé en 1931$aRéunit : Dracula ; Journey to the inn ; The inn ; The crypt ; Carriage without a driver ; The castle ; The drawing room ; Excellent, Mr. Renfield ; The three consorts of Dracula ; The storm ; Horrible tragedy ; London fog ; In the theatre ; Lucy's bitten ; Steward sanatorium ; Renfield ; In his cell ; When the dream comes ; Dracula enters ; Or a wolf ; Women in white ; Renfield in the drawing room ; Dr. van Helsing and Dracula ; Mina's
 =501  \1$3FRBNF13894531$7ba0yba0y$8freeng$oISNI 0000 0001 2136 7029$aGlass$bPhilip$f1937-....$4230
 =531  \\$5xxg$pEst un complément de]$3UMLRM154$aDracula$cfilm$d1931$7ba0yba0y$8fre###
 =608  \\$3FRBNF11937299$aMusique de film$2rameauGenre
@@ -1957,7 +1957,7 @@
 =640  6\$0Date de première publication$f#20130917#
 =801  \\$aFR$bFR-751131015$c202014#####
 =810  \\$aDracula / Tod Browning, [réalisateur] ; scénario de Garrett Fort ; d’après le roman de Bram Stoker et la pièce de Hamilton Deane et John L. Balderston ; Bela Lugosi, David Manners, Helen Chandler... [et autres], [acteurs]. – [Paris] : Universal StudioCanal vidéo [éditeur, distributeur], 2014 ; - [Images animées : vidéo]. - 830 098-5 (EDV 764)
-=810  \\$aIMDB (Internet movie database) : https://www.imdb.com/title/tt0021814 (2022-10-18))$bDate de publication de la version Blu-ray : September 17, 2013 
+=810  \\$aIMDB (Internet movie database) : https://www.imdb.com/title/tt0021814 (2022-10-18))$bDate de publication de la version Blu-ray : September 17, 2013
 =810  \\$aServin, Javier. A Tale of Two Draculas: the history, preservation, restoration and legacy of Universal Studios’ English and Spanish language “Dracula” : https://jservin85.wordpress.com/preservation-and-restoration/restoration-of-dracula/ (2022-11-13)
 
 =LDR  01206nx\\a2200241\\\4500
@@ -1992,12 +1992,12 @@
 =152  \\$aRDA-FR
 =154  \\$axb
 =232  \\$3UMLRM0163$7ba0yba0y$8frespa$aDrácula$cfilm$d1931$fespagnol$lVersion restaurée
-=371  \\$aSurround (Dolby Digital 2.0)$fVersion restaurée 
-=640  6\$Date de première publication$f#20130917# 
+=371  \\$aSurround (Dolby Digital 2.0)$fVersion restaurée
+=640  6\$Date de première publication$f#20130917#
 =801  \\$aFR$bFR-751131015$c20221013
 =810  \\$aDracula / Tod Browning, [réalisateur] ; scénario de Garrett Fort ; d’après le roman de Bram Stoker et la pièce de Hamilton Deane et John L. Balderston ; Bela Lugosi, David Manners, Helen Chandler... [et autres], [acteurs]. – [Paris] : Universal StudioCanal vidéo [éditeur, distributeur], 2014 ; - [Images animées : vidéo]. - 830 098-5 (EDV 764)
 =810  \\$aWikipédia : https://fr.wikipedia.org/wiki/Dr%C3%A1cula (2022-10-13)
-=810  \\$aIMDB (Internet movie database) : https://www.imdb.com/title/tt0021815/ (2022-10-13) 
+=810  \\$aIMDB (Internet movie database) : https://www.imdb.com/title/tt0021815/ (2022-10-13)
 =810  \\$aServin, Javier. A Tale of Two Draculas: the history, preservation, restoration and legacy of Universal Studios’ English and Spanish language “Dracula” : https://jservin85.wordpress.com/preservation-and-restoration/restoration-of-dracula/
 
 =LDR  01695nx\\a2200349\\\4500
@@ -2016,14 +2016,14 @@
 =231  \\$7ba0yba0y$8frespa$aDrácula$cfilm$d1931$fespagnol
 =370  \\$cAdapté de la pièce de théâtre de Hamilton Deane et John L. Balderston "Dracula"
 =431  \\$7ba0yba0y$8fre###$aDracula$cfilm$d1931$mVersion espagnole
-=441  \\$3FRBNF14691107$oISNI 0000 0000 7844 0445$aMelford, George (1877-1961)$tDrácula$7ba0yba0y$8frespa 
-=501  \1$3FRBNF14691107$7ba0yba0y$8freeng$oISNI 0000 0000 7844 0445$aMelford$bGeorge$f1877-1961$4300 
-=501  \1$7ba0yba0y$8frespa$aFernández Cué$bBaltasar$f1878-1966$4690 
+=441  \\$3FRBNF14691107$oISNI 0000 0000 7844 0445$aMelford, George (1877-1961)$tDrácula$7ba0yba0y$8frespa
+=501  \1$3FRBNF14691107$7ba0yba0y$8freeng$oISNI 0000 0000 7844 0445$aMelford$bGeorge$f1877-1961$4300
+=501  \1$7ba0yba0y$8frespa$aFernández Cué$bBaltasar$f1878-1966$4690
 =501  \1$7ba0yba0y$8frespa$oISNI 0000 0000 4816 7409$aVillarías$bCarlos$f1892-1976$4005
 =501  \1$3FRBNF14702511$7ba0yba0y$8fre###$oISNI 0000 0003 6953 0387$a‏Tovar‏$bLupita$f1910-2016$4005
 =501  \1$7ba0yba0y$8fre###$aNorton$bBarry$f1905-1956$4$4005
 =531  \\$5xxa$pEst un remake de$3UMLRM0154$aDracula$cfilm$d1931$7ba0yba0y$8fre###
-=541  \1$5xxa$pEst une adaptation dans un autre mode de création de [œuvre]$3UMLRM155$7ba0yba0y$8fre###$aDeane, Hamilton (1879-1958)$aBalderston, John L. (1889-1954)$tDracula 
+=541  \1$5xxa$pEst une adaptation dans un autre mode de création de [œuvre]$3UMLRM155$7ba0yba0y$8fre###$aDeane, Hamilton (1879-1958)$aBalderston, John L. (1889-1954)$tDracula
 =541  \1$5xxl$3UMLRM0004$7ba0yba0y$8fre###$aStoker$bBram (1847-1912)$tDracula
 =640  5\$0Dates de tournage$f#19301010#$i#19301108#
 =640  6\$0Date de première sortie en salle$aES$dMadrid$f#19310320#
@@ -2153,7 +2153,7 @@
 =152  \\$aRDA-FR
 =154  \\$axb
 =242  \1$3UMLRM0169$aGauriat, Vincent$tDracula, pages tirées du journal d’une vierge, un film de Guy Maddin$nImage fixe$7ba0yba0y$8frefre
-=371  \\$fTechnique utilisée : offset 
+=371  \\$fTechnique utilisée : offset
 =640  6\$0Date de première publication$f#2003#####
 =801  \0$aFR$bFR-751045101$c20221024
 =810  \\$aDracula, pages tirées du journal d’une vierge, un film de Guy Maddin. – [Paris] : ED distribution, [2003] (Aubervilliers : Imprimerie Karcher). – [Texte noté. Image fixe : sans médiation]
@@ -2174,7 +2174,7 @@
 =502  \1$311902797$7ba0yba0y$8frefre$oISNI0000 0001 2023 6609$aFinné$bJacques$f1944-....$4730
 =542  \1$5xxp$pEst une sélection de [expression]$3UMLRM0050$7ba0yba0y$8freeng$aStoker, Bram (1847-1912)$tDracula$mFrançais$wFinné$nTexte noté
 =640  6\$0Date de première publication$f#2004#####
-=801  \0$aFR$bFR-751131010$c20221005 
+=801  \0$aFR$bFR-751131010$c20221005
 =810  \\$aDracula / Bram Stoker ; traduction par Jacques Finné ; présentation, notes, choix des extraits et dossier par Anne Cassou-Noguès et Marie-Ande de Langenhagen. – Paris : Flammarion, 2004. – [Texte noté : sans médiation]. – ISBN 2-08-072188-7
 
 =LDR  01510nx\\a2200313\\\4500
@@ -2247,13 +2247,13 @@
 =531  \\$5xxe$aHorror of Dracula$cfilm$7ba0yba0y$8freeng
 =531  \\$5xxe$aThe brides of Dracula$cfilm$7ba0yba0y$8freeng
 =531  \\$5xxe$aDracula, prince of darkness$cfilm$7ba0yba0y$8freeng
-=531  \\$5xxe$3UMLRM0105$aDracula has risen from the grave$cfilm$7ba0yba0y$8freeng 
+=531  \\$5xxe$3UMLRM0105$aDracula has risen from the grave$cfilm$7ba0yba0y$8freeng
 =531  \\$5xxe$aTaste the blood of Dracula$cfilm$7ba0yba0y$8freeng
 =531  \\$5xxe$aScars of Dracula$cfilm$7ba0yba0y$8freeng
 =531  \\$5xxe$aDracula A.D. 1972$cfilm$7ba0yba0y$8freeng
 =531  \\$5xxe$aThe satanic sites of Dracula$cfilm$7ba0yba0y$8freeng
 =531  \\$5xxe$aThe legend of the 7 golden vampires$cfilm$7ba0yba0y$8freeng
-=541  \1$5xxl$3UMLRM0004$7ba0yba0y$8freeng$aStoker, Bram (1847-1912)$tDracula 
+=541  \1$5xxl$3UMLRM0004$7ba0yba0y$8freeng$aStoker, Bram (1847-1912)$tDracula
 =801  \\$aFR$bFR-751131015$c20221104
 =810  \\$aWikipédia : https://fr.wikipedia.org/wiki/Dracula_(s%C3%A9rie_de_films) (2022-11-04)
 
@@ -2290,7 +2290,7 @@
 =432  \\$7ba0yba0y$8frefre$aL'ombre du vampire$cfilm$mAnglais ; sous titrage en français
 =640  6\$0Date de première publication$f#2001#####
 =801  \0$aFR$bFR-751131015$c20221108
-=810  \\$aL'ombre du vampire = Shadow of the vampire / E. Elias Merhige, [réalisateur] ; Steven Katz, scénario ; Dan Jones, [compositeur] ; John Malkovitch, Willem Dafoe, Cary Elwes... [et autres], [acteurs]. – Paris : Studio Canal+ [éditeur] ; Antony : Universal pictures vidéo France SA [distributeur], 2001 (DL). – [Image animée : vidéo]. – Référence commerciale : 1962412 (Studio Canal) 
+=810  \\$aL'ombre du vampire = Shadow of the vampire / E. Elias Merhige, [réalisateur] ; Steven Katz, scénario ; Dan Jones, [compositeur] ; John Malkovitch, Willem Dafoe, Cary Elwes... [et autres], [acteurs]. – Paris : Studio Canal+ [éditeur] ; Antony : Universal pictures vidéo France SA [distributeur], 2001 (DL). – [Image animée : vidéo]. – Référence commerciale : 1962412 (Studio Canal)
 =810  \\$aWikipedia : https://fr.wikipedia.org/wiki/L%27Ombre_du_vampire (2022-11-08)
 =810  \\$aCiné-ressources : catalogue collectif des bibliothèques et archives de cinéma : http://www.cineressources.net (2022-11-08)
 =810  \\$aIMDB (Internet movie database) : https://www.imdb.com/title/tt0189998 (2022-11-08)
@@ -2311,9 +2311,9 @@
 =154  \\$axa
 =241  \1$3FRBNF15539985$oISNI 0000 0001 2020 4631$aDufranne, Michel (1970-....)$3FRBNF15072903$oISNI 0000 0001 0989 9671$aKowalski, Piotr (1973-....)$tDracula l’immortel$7ba0yba0y$8frefre
 =501  \1$3FRBNF15539985$7ba0yba0y$8frefre$oISNI 0000 0001 2020 4631$aDufranne$bMichel$f1970-....$4070
-=501  \1$3FRBNF15072903$7ba0yba0y$8frepol$oISNI 0000 0001 0989 9671$aKowalski$bPiotr$f1973-....$4440 
+=501  \1$3FRBNF15072903$7ba0yba0y$8frepol$oISNI 0000 0001 0989 9671$aKowalski$bPiotr$f1973-....$4440
 =501  \0$3FRBNF16803054$7ba0yba0y$8fre###$oISNI 0000 0003 6897 4373$aSvart$f1978-....]$4410
-=541  \1$5xxa$pEst une adaptation dans un autre mode de création de [œuvre]$3UMLRM0114$7ba0yba0y$8freeng$aStoker, Dacre$aHolt, Ian (1964-….)$tDracula, the un-dead 
+=541  \1$5xxa$pEst une adaptation dans un autre mode de création de [œuvre]$3UMLRM0114$7ba0yba0y$8freeng$aStoker, Dacre$aHolt, Ian (1964-….)$tDracula, the un-dead
 =541  \1$5xxe$pA pour partie [œuvre]$7ba0yba0y$8frefre$aDufranne, Michel (1970-....)$aKowalski, Piotr (1973-....)$tDracula l’immortel$h1
 =541  \1$5xxe$pA pour partie [œuvre]$3UMLRM0117$7ba0yba0y$8frefre$aDufranne, Michel (1970-....)$aKowalski, Piotr (1973-....)$tDracula l’immortel$h2
 =541  \1$5xxe$pA pour partie [œuvre]$7ba0yba0y$8frefre$aDufranne, Michel (1970-....)$aKowalski, Piotr (1973-....)$tDracula l’immortel$h3
@@ -2321,7 +2321,7 @@
 =640  6\$0Date de première publication$f#2011#####$i#2012#####
 =801  \0$aFR$bFR-751043001$c20220721
 =810  \\$aBédéthèque : https://www.bedetheque.com/serie-30273-BD-Dracula-l-Immortel.html (2022-11-09)
-=810  \\$aDracula l'immortel. 2 / scénario, Michel Dufranne ; dessin, Piotr Kowalski ; couleurs, Svart ; d'après l'ouvrage de Dacre Stoker et Ian Holt. – [Neuilly-sur-Seine] : Michel Lafon ; [Paris] : Casterman, impr. 2012. – [Texte noté. Image fixe : sans médiation]. – ISBN 978-2-203-03785-4 
+=810  \\$aDracula l'immortel. 2 / scénario, Michel Dufranne ; dessin, Piotr Kowalski ; couleurs, Svart ; d'après l'ouvrage de Dacre Stoker et Ian Holt. – [Neuilly-sur-Seine] : Michel Lafon ; [Paris] : Casterman, impr. 2012. – [Texte noté. Image fixe : sans médiation]. – ISBN 978-2-203-03785-4
 =810  \\$ahttp://ark.bnf.fr/ark:/12148/cb42527702b
 
 =LDR  01597cx\\a2200301\\\4500
@@ -2362,10 +2362,10 @@
 =147  1\$ag$ec$hc
 =152  \\$a\RDA-FR\
 =154  \\$axb\
-=232  \\$3UMLRM0120$7ba0yba0y$8freeng$aDracula, dead and loving it$cfilm$mAnglais ; sous-titrage optionnel en français$o2009 
+=232  \\$3UMLRM0120$7ba0yba0y$8freeng$aDracula, dead and loving it$cfilm$mAnglais ; sous-titrage optionnel en français$o2009
 =371  \\$aEncodage du son : Dolby surround 2.0$fVersion remastérisée : nouveau master numérique haute définition$fSous-titrage optionnel en français$fCopyright : Gaumont vidéo, 2009
-=640  0\$0Date de copyright$f#2009##### 
-=801  \0$aFR$bFR-751052119$c20221004 
+=640  0\$0Date de copyright$f#2009#####
+=801  \0$aFR$bFR-751052119$c20221004
 =810  \\$a Dracula, mort et heureux de l'être = Dracula dead and loving it / un film de Mel Brooks ; Leslie Nielsen, Peter MacNicol, Steven Weber... [et autres], [acteurs] ; musique, Hummie Mann ; histoire de Rudy De Luca & Steve Haberman ; scénario de Mel Brooks & Rudy De Luca & Steve Haberman ; produit et réalisé par Mel Brooks. – Neuilly-sur-Seine : Gaumont vidéo [éditeur] ; Boulogne-Billancourt : Paramount home entertainment France [distributeur], 2009. – [Image animée : vidéo]. – Référence commerciale : FG 315 880 (EDV 1504)
 
 =LDR  02272nx\\a2200361\\\4500
@@ -2452,7 +2452,7 @@
 =152  \\$aRDA-FR
 =154  \\$axa
 =241  \1$3FRBNF11902797$oISNI 0000 0001 2023 6609$aFinné, Jacques (1944-….)$tBibliographie de Dracula $7ba0yba0y$8frefre
-=300  \\$aNotes bibliographiques 
+=300  \\$aNotes bibliographiques
 =501  \1$3 FRBNF11902797$7ba0yba0y$8frefre$oISNI 0000 0001 2023 6609$aFinné$Jacques$f1944-….$4070
 =600  \0$3FRBNF11962841$7ba0yba0y$8frefre$aDracula$cpersonnage fictif
 =606  \\$3FRBNF11945972$7ba0yba0y$8frefre$aVampires$3FRBNF11996647$aDans la littérature$2rameau
@@ -2473,7 +2473,7 @@
 =145  0\$ai$baxxe\\
 =152  \\$aRDA-FR
 =154  \\$axb
-=242  \1$3UMLRM0195$7ba0yba0y$8frefre$aFinné, Jacques (1944-….)$tBibliographie de Dracula$mFrançais$nTexte noté 
+=242  \1$3UMLRM0195$7ba0yba0y$8frefre$aFinné, Jacques (1944-….)$tBibliographie de Dracula$mFrançais$nTexte noté
 =640  0\$0Date de copyright$f#1986#####
 =801  \0$aFR$b FR-751045101$c20221116
 =810  \\$aBibliographie de Dracula / Jacques Finné. – Lausanne :  L’âge d'homme, cop. 1986. – [Texte noté : sans médiation]
@@ -2488,8 +2488,7 @@
 =145  0\$ai$baxxe\\
 =152  \\$aRDA-FR
 =154  \\$axb
-=242  \1$3UMLRM0149$7ba0yba0y$8frefre$aFinné, Jacques (1944-….)$aMarigny, Jean (1939-....)$tDictionnaire des littératures vampiriques$mFrançais$nTexte noté 
+=242  \1$3UMLRM0149$7ba0yba0y$8frefre$aFinné, Jacques (1944-….)$aMarigny, Jean (1939-....)$tDictionnaire des littératures vampiriques$mFrançais$nTexte noté
 =640  0\$0Date de première publication$f#2020#####
 =801  \0$aFR$b FR-751045101$c20221116
 =810  \\$aDictionnaire des littératures vampiriques / Jacques Finné, Jean Marigny ; préface d'Alain Pozzuoli. – Dinan : Terre de brume, 2020. – [Texte noté : sans médiation] . – ISBN 978-2-84362-674-6
-
