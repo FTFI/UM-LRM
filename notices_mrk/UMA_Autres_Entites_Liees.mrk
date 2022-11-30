@@ -1,10 +1,10 @@
-=LDR  00834cx  d2200193   45  
+=LDR  00834cx\\d2200193\\\4500
 =001  FRBNF138761797
 =003  http://catalogue.bnf.fr/ark:/12148/cb13876179d
 =005  20060921
-=100  \\$a19890601afrey50      ba0
+=100  \\$a19890601afrey50\\\\\\ba0
 =102  \\$aXX
-=106  \\$a1  
+=106  \\$a1\\
 =126  \\$a2
 =152  \\$c2
 =216  \\$7ba0yba0y$8fre   $9   $aLivraphone
@@ -14,28 +14,28 @@
 =516  \\$5z$0Voir aussi$314039058$aLivraphone vox libri
 =801  \\$aFR$bFR-751131015$c20060921
 
-=LDR  00343nx  a22001453  45  
+=LDR  00343nx\\a22001453\\4500
 =001  FRBNF114472535
 =003  http://catalogue.bnf.fr/ark:/12148/cb11447253n
-=100  \\$a19970701cfrey50      ba0
+=100  \\$a19970701cfrey50\\\\\\ba0
 =101  \\$aund
 =102  \\$aXX
 =105  \\$aa
-=106  \\$a1  
+=106  \\$a1\\
 =152  \\$c2
 =200  \|$7ba0yba0y$8fre   $9   $aFaivre$bTony
 =801  \\$aFR$bFR-751131015$c19970701
 
-=LDR  01142cx  d2200277   45  
+=LDR  01142cx\\d2200277\\\4500
 =001  FRBNF138766730
 =003  http://catalogue.bnf.fr/ark:/12148/cb13876673q
 =005  20210628
 =039  \\$oOPP$a14272798$d20090306
 =039  \\$oOPP$a13853956$d20090306
-=100  \\$a19890601afrey50      ba0
+=100  \\$a19890601afrey50\\\\\\ba0
 =102  \\$aUS
-=103  \\$a 19640214           
-=106  \\$a1  
+=103  \\$a\19640214\\\\\\\\\\\
+=106  \\$a1\\
 =126  \\$a2
 =152  \\$c2
 =216  \\$7ba0yba0y$8fre   $9   $aNonesuch
@@ -49,12 +49,12 @@
 =810  \\$aRate your music - https://rateyourmusic.com/label/nonesuch_records (2020-12-31)
 =856  \\$uhttps://rateyourmusic.com/label/nonesuch_records/$e2020-12-31
 
-=LDR  01395cx  j2200265   45  
+=LDR  01395cx\\j2200265\\\4500
 =001  FRBNF119759959
 =003  http://catalogue.bnf.fr/ark:/12148/cb11975995h
 =005  20121016
 =039  \\$oOPL$a002123731
-=100  \\$a19850702afrey50      ba0
+=100  \\$a19850702afrey50\\\\\\ba0
 =106  \\$a220
 =152  \\$brameau$c2
 =250  \\$7ba0yba0y$8fre   $9   $a20e siècle
@@ -71,12 +71,12 @@
 =822  1\$a20th century$2LCSH$uhttp://id.loc.gov/authorities/subjects/sh2002012476$d2017-02-09
 =822  1\$aHistory--20th century$2LCSH$uhttp://id.loc.gov/authorities/subjects/sh2002006165$d2017-02-09
 
-=LDR  08435cx  l2201417   45  
+=LDR  08435cx\\l2201417\\\4500
 =001  FRBNF119810108
 =003  http://catalogue.bnf.fr/ark:/12148/cb119810102
 =005  20181004
 =039  \\$oOPL$a002189507
-=100  \\$a19850707afrey50      ba0
+=100  \\$a19850707afrey50\\\\\\ba0
 =106  \\$a211
 =152  \\$brameau$c2
 =180  \\$ab
@@ -189,23 +189,23 @@
 =822  12$aOrchestral music$2LCSH$uhttp://id.loc.gov/authorities/subjects/sh85095326$d2018-10-03
 =822  12$aOrchestre, Musique d'$2RVMLaval$d2018-10-03
 
-=LDR  00360cx  j2200133   45  
+=LDR  00360cx\\j2200133\\\4500
 =001  FRBNF119628415
 =003  http://catalogue.bnf.fr/ark:/12148/cb11962841c
 =005  19890712
 =039  \\$oOPL$a001937595
-=100  \\$a19840430afrey50      ba0
+=100  \\$a19840430afrey50\\\\\\ba0
 =106  \\$a210
 =152  \\$brameau$c2
 =200  \|$7ba0yba0y$8fre   $9   $aDracula$cpersonnage fictif
 =801  \\$aFR$bFR-751131015$c19890712
 
-=LDR  00686cx  l2200193   45  
+=LDR  00686cx\\l2200193\\\4500
 =001  FRBNF123108018
 =003  http://catalogue.bnf.fr/ark:/12148/cb12310801q
 =005  20120103
 =039  \\$oOPL$a008947898
-=100  \\$a19930517afrey50      ba0
+=100  \\$a19930517afrey50\\\\\\ba0
 =106  \\$a211
 =152  \\$brameau$c2
 =180  \\$ab
@@ -216,12 +216,12 @@
 =822  12$aConcertos (violoncelle)$2RVMLaval$d2012-01-03
 =822  1\$aConcertos (Violoncello)$2LCSH$uhttp://id.loc.gov/authorities/subjects/sh85030584$d2017-02-09
 
-=LDR  03966cx  j2200625   45  
+=LDR  03966cx\\j2200625\\\4500
 =001  FRBNF119365081
 =003  http://catalogue.bnf.fr/ark:/12148/cb119365082
 =005  20200626
 =039  \\$oOPL$a001582906
-=100  \\$a19810522afrey50      ba0
+=100  \\$a19810522afrey50\\\\\\ba0
 =106  \\$a210
 =152  \\$brameau$c2
 =250  \\$7ba0yba0y$8fre   $9   $aLittérature$xThèmes, motifs
@@ -268,12 +268,12 @@
 =822  12$aComparative literature--Themes, motives$2LCSH$uhttp://id.loc.gov/authorities/subjects/sh85077545$d2019-10-08
 =822  12$aLittérature comparée--Thèmes, motifs$2RVMLaval$d2019-10-08
 
-=LDR  00674cx  l2200193   45  
+=LDR  00674cx\\l2200193\\\4500
 =001  FRBNF123107172
 =003  http://catalogue.bnf.fr/ark:/12148/cb12310717t
 =005  20120102
 =039  \\$oOPL$a008946764
-=100  \\$a19930517afrey50      ba0
+=100  \\$a19930517afrey50\\\\\\ba0
 =106  \\$a211
 =152  \\$brameau$c2
 =180  \\$ab
@@ -284,29 +284,29 @@
 =822  12$aConcertos (trombone)$2RVMLaval$d2012-01-02
 =822  1\$aConcertos (Trombone)$2LCSH$uhttp://id.loc.gov/authorities/subjects/sh85030380$d2017-02-09
 
-=LDR  00411cx  b2200157   45  
+=LDR  00411cx\\b2200157\\\4500
 =001  FRBNF140108885
 =003  http://catalogue.bnf.fr/ark:/12148/cb14010888c
 =005  20060320
-=100  \\$a19980507afrey50      ba0
+=100  \\$a19980507afrey50\\\\\\ba0
 =102  \\$aFR
 =105  \\$ce$cd$dh
-=106  \\$a1  
-=150  \\$ay$bb6  
+=106  \\$a1\\
+=150  \\$ay$bb6\\
 =210  ||$7ba0yba0y$8fre   $920 $aEd distribution
 =303  \\$a3, square Caulaincourt, 75018 Paris
 =801  \\$aFR$bFR-751131015$c20060320
 
-=LDR  21192cx  b2204597   45  
+=LDR  21192cx\\b2204597\\\4500
 =001  FRBNF138904633
 =003  http://catalogue.bnf.fr/ark:/12148/cb13890463t
 =005  20040213
 =010  \\$a0000000123648983$2ISNI$d20131217
 =039  \\$oOPP$a14290460$d20170731
-=100  \\$a19890601afrey50      ba0
+=100  \\$a19890601afrey50\\\\\\ba0
 =102  \\$aGB
 =105  \\$ce$dg$cs$aa
-=106  \\$a1  
+=106  \\$a1\\
 =150  \\$ay
 =152  \\$c2
 =210  ||$7ba0yba0y$8fre   $9 0 $aWEA Europe
@@ -680,14 +680,14 @@
 =516  \\$5z$0Édite : $313991125$aElektra-Sire-Hifi
 =801  \\$aFR$bFR-751131015$c20040213
 
-=LDR  01032cx  b2200217   45  
+=LDR  01032cx\\b2200217\\\4500
 =001  FRBNF138890500
 =003  http://catalogue.bnf.fr/ark:/12148/cb13889050b
 =005  20030312
-=100  \\$a19890601afrey50      ba0
+=100  \\$a19890601afrey50\\\\\\ba0
 =102  \\$aFR
 =105  \\$ce$cs$cd$dg
-=106  \\$a1  
+=106  \\$a1\\
 =150  \\$ay
 =210  ||$7ba0yba0y$8fre   $9 0 $aLivraphone
 =300  0\$aProducteur, éditeur et distributeur phonographique d'oeuvres littéraires. - Société créée en 1986 par Arnaud Mathon. - Anciennes adresses (1986-2000) :  6 rue d'Alger, 75001 Paris. Tél. 42.96.54.32. Fax 42.96.09.56 puis 114 rue de la Croix Nivert, 75015 Paris. Tél. 01.48.28.89.19. Fax 01.48.28. 69.49. - Site Internet : http://www.livraphone.fr
@@ -698,15 +698,15 @@
 =516  \\$5z$0Edite et distribue : $314039058$aLivraphone vox libri
 =801  \\$aFR$bFR-751131015$c20030312
 
-=LDR  00605cx  a2200217   45  
+=LDR  00605cx\\a2200217\\\4500
 =001  FRBNF155519020
 =003  http://catalogue.bnf.fr/ark:/12148/cb155519025
 =005  20070727
-=100  \\$a20070727afrey50      ba0
+=100  \\$a20070727afrey50\\\\\\ba0
 =102  \\$aUS
-=103  \\$a 19591008           
+=103  \\$a\19591008\\\\\\\\\\\
 =105  \\$aa
-=106  \\$a1  
+=106  \\$a1\\
 =120  \\$ab
 =152  \\$c2
 =200  \|$7ba0yba0y$8fre   $9 0 $aKatz$bStephen$f1959-....
@@ -716,15 +716,15 @@
 =810  \\$aIMDB - http://us.imdb.com (2007-07-27)
 =856  \\$uhttp://us.imdb.com$e2007-07-27
 
-=LDR  00523cx  b2200193   45  
+=LDR  00523cx\\b2200193\\\4500
 =001  FRBNF155137309
 =003  http://catalogue.bnf.fr/ark:/12148/cb15513730h
 =005  20070720
-=100  \\$a20070302afrey50      ba0
+=100  \\$a20070302afrey50\\\\\\ba0
 =102  \\$aSE
 =105  \\$aa
-=106  \\$a1  
-=150  \\$ay$bc6  
+=106  \\$a1\\
+=150  \\$ay$bc6\\
 =152  \\$c2
 =210  ||$7ba0yba0y$8fre   $920 $aIdol FX AB
 =300  0\$aDéveloppeur de jeux vidéo
@@ -732,16 +732,16 @@
 =801  \\$aFR$bFR-751131015$c20070720
 =810  \\$aFBI [Ressource électronique] : hostage rescue, 2004
 
-=LDR  00551cx  a2200217   45  
+=LDR  00551cx\\a2200217\\\4500
 =001  FRBNF139397275
 =003  http://catalogue.bnf.fr/ark:/12148/cb13939727w
 =005  20061027
 =010  \\$a0000000051856942$2VIAF$d20130731
-=100  \\$a19910626afrey50      ba0
+=100  \\$a19910626afrey50\\\\\\ba0
 =102  \\$aGB
-=103  \\$a 19031001  19890425 
+=103  \\$a\19031001\\19890425\
 =105  \\$ai
-=106  \\$a1  
+=106  \\$a1\\
 =120  \\$ab
 =152  \\$c2
 =200  \|$7ba0yba0y$8fre   $9 0 $aCoulouris$bGeorge$f1903-1989
@@ -750,15 +750,15 @@
 =801  \\$aFR$bFR-751131015$c20061027
 =810  \\$aTulard
 
-=LDR  00677nx  b2200205   45  
+=LDR  00677nx\\b2200205\\\4500
 =001  FRBNF144661310
 =003  http://catalogue.bnf.fr/ark:/12148/cb14466131n
-=100  \\$a20030404afrey50      ba0
+=100  \\$a20030404afrey50\\\\\\ba0
 =102  \\$aSE
-=103  \\$a 1998               
+=103  \\$a\1998\\\\\\\\\\\\\\\
 =105  \\$aa
-=106  \\$a1  
-=150  \\$ay$bc6  
+=106  \\$a1\\
+=150  \\$ay$bc6\\
 =152  \\$c2
 =210  ||$7ba0yba0y$8fre   $920 $aPan vision corporate games
 =300  0\$aDéveloppeur de jeux multimédia
@@ -767,12 +767,12 @@
 =810  \\$aAlexandra Ledermann 3 [Ressource électronique] / Pan vision. Ubi soft, 2002
 =856  \\$uhttp://corporate.panvision.com/start.html$e2003-04-04
 
-=LDR  01047cx  j2200265   45  
+=LDR  01047cx\\j2200265\\\4500
 =001  FRBNF119459723
 =003  http://catalogue.bnf.fr/ark:/12148/cb119459727
 =005  20131010
 =039  \\$oOPL$a001709727
-=100  \\$a19820527afrey50      ba0
+=100  \\$a19820527afrey50\\\\\\ba0
 =106  \\$a211
 =152  \\$brameau$c2
 =250  \\$7ba0yba0y$8fre   $9   $aVampires
@@ -789,16 +789,16 @@
 =822  1\$aGhouls and ogres$2LCSH$uhttp://id.loc.gov/authorities/subjects/sh85054826$d2017-02-09
 =822  12$aVampires$2LCSH$uhttp://id.loc.gov/authorities/subjects/sh85141948$d2017-02-09
 
-=LDR  00623cx  a2200205   45  
+=LDR  00623cx\\a2200205\\\4500
 =001  FRBNF146763424
 =003  http://catalogue.bnf.fr/ark:/12148/cb14676342d
 =005  20141124
-=100  \\$a20050825afrey50      ba0
+=100  \\$a20050825afrey50\\\\\\ba0
 =101  \\$afre
 =102  \\$aFR
-=103  \\$a 19..               
+=103  \\$a\19..\\\\\\\\\\\\\\\
 =105  \\$ac$aa
-=106  \\$a1  
+=106  \\$a1\\
 =120  \\$aa
 =200  \|$7ba0yba0y$8fre   $9 1 $aDeratte$bLaure$f19..-....
 =300  0\$aScénographe
@@ -806,16 +806,16 @@
 =801  \\$aFR$bFR-751131015$c20141124
 =810  \\$aMémopéra (En ligne : http://www.memopera.fr/), consulté le 15/03/2013
 
-=LDR  01278cx  a2200325   45  
+=LDR  01278cx\\a2200325\\\4500
 =001  FRBNF146911079
 =003  http://catalogue.bnf.fr/ark:/12148/cb14691107j
 =005  20071016
 =010  \\$a0000000078440445$2VIAF$d20130802
-=100  \\$a20050825afrey50      ba0
+=100  \\$a20050825afrey50\\\\\\ba0
 =102  \\$aUS
-=103  \\$a 18770219  19610425 
+=103  \\$a\18770219\\19610425\
 =105  \\$aa
-=106  \\$a1  
+=106  \\$a1\\
 =120  \\$ab
 =152  \\$c2
 =200  \|$7ba0yba0y$8fre   $9 0 $aMelford$bGeorge$f1877-1961
@@ -833,12 +833,12 @@
 =810  \\$aIMDB - http://us.imdb.com (2007-10-16)
 =856  \\$uhttp://us.imdb.com/$e2007-10-16
 
-=LDR  02202cx  l2200301   45  
+=LDR  02202cx\\l2200301\\\4500
 =001  FRBNF119770069
 =003  http://catalogue.bnf.fr/ark:/12148/cb119770062
 =005  20190624
 =039  \\$oOPL$a00213883X
-=100  \\$a19850702afrey50      ba0
+=100  \\$a19850702afrey50\\\\\\ba0
 =106  \\$a201
 =152  \\$brameau$c2
 =180  \\$aa
@@ -858,17 +858,17 @@
 =822  1\$aPlatforms$2LCSH$uhttp://id.loc.gov/authorities/subjects/sh99001676$d2017-02-09
 =822  1\$aPrograms$2LCSH$uhttp://id.loc.gov/authorities/subjects/sh93005169$d2017-02-09
 
-=LDR  00662cx  a2200217   45  
+=LDR  00662cx\\a2200217\\\4500
 =001  FRBNF16166678X
 =003  http://catalogue.bnf.fr/ark:/12148/cb16166678f
 =005  20121210
 =010  \\$a0000000110800544$2VIAF$d20130807
-=100  \\$a20091217afrey50      ba0
+=100  \\$a20091217afrey50\\\\\\ba0
 =101  \\$aeng
 =102  \\$aXX
-=103  \\$a 19..               
+=103  \\$a\19..\\\\\\\\\\\\\\\
 =105  \\$aa
-=106  \\$a1  
+=106  \\$a1\\
 =120  \\$ab
 =152  \\$c2
 =200  \|$7ba0yba0y$8fre   $9 0 $aStoker$bDacre
@@ -876,14 +876,14 @@
 =801  \\$aFR$bFR-751131015$c20121210
 =810  \\$aDracula l'immortel / Dacre Stoker et Ian Holt, DL 2009
 
-=LDR  02614cx  l2200517   45  
+=LDR  02614cx\\l2200517\\\4500
 =001  FRBNF119758323
 =003  http://catalogue.bnf.fr/ark:/12148/cb11975832b
 =005  20210920
 =039  \\$oOPL$a002121303
 =039  \\$oOPL$a001641703
 =039  \\$oOPP$a11940951$d20210730
-=100  \\$a19850702afrey50      ba0
+=100  \\$a19850702afrey50\\\\\\ba0
 =106  \\$a201
 =152  \\$brameau$c2
 =180  \\$aa
@@ -919,16 +919,16 @@
 =822  12$aIllustrations, images, etc.$2RVMLaval$d2021-07-30
 =822  12$aIllustrations$2RVMLaval$d2021-07-30
 
-=LDR  00938cx  b2200241   45  
+=LDR  00938cx\\b2200241\\\4500
 =001  FRBNF138904569
 =003  http://catalogue.bnf.fr/ark:/12148/cb13890456j
 =005  20040920
 =010  \\$a0000000121626641$2ISNI$d20150313
-=100  \\$a19890601afrey50      ba0
+=100  \\$a19890601afrey50\\\\\\ba0
 =102  \\$aFR
 =105  \\$ce$cd$ca$dh$cp$dr
-=106  \\$a1  
-=150  \\$ay$bc9  
+=106  \\$a1\\
+=150  \\$ay$bc9\\
 =210  ||$7ba0yba0y$8fre   $920 $aWarner home video France
 =303  \\$a67 av. de Wagram, 75017 Paris
 =516  \\$5z$0Édite : $313877421$7ba0yba0y$8fre   $9   $aSIGMARC
@@ -939,16 +939,16 @@
 =801  \\$aFR$bFR-751131015$c20040920
 =856  \\$uhttp://www.warner-home-video.fr$e2001-10-17
 
-=LDR  00774cx  b2200217   45  
+=LDR  00774cx\\b2200217\\\4500
 =001  FRBNF140332082
 =003  http://catalogue.bnf.fr/ark:/12148/cb14033208c
 =005  20091224
-=100  \\$a20000727afrey50      ba0
+=100  \\$a20000727afrey50\\\\\\ba0
 =102  \\$aFR
-=103  \\$a 199908             
+=103  \\$a\199908\\\\\\\\\\\\\
 =105  \\$aa$ce$cd$ca$dh$dr$cp
-=106  \\$a1  
-=150  \\$ay$bb6  
+=106  \\$a1\\
+=150  \\$ay$bb6\\
 =210  ||$7ba0yba0y$8fre   $920 $aUniversal pictures vidéo France SA
 =300  0\$aRemplace Polygram vidéo en août 1999
 =303  \\$a20 rue Hamelin, 75016 Paris
@@ -957,15 +957,15 @@
 =801  \\$aFR$bFR-751131015$c20091224
 =810  \\$aKapital New York city. Universal pictures vidéo, 2002
 
-=LDR  00712cx  b2200205   45  
+=LDR  00712cx\\b2200205\\\4500
 =001  FRBNF150624252
 =003  http://catalogue.bnf.fr/ark:/12148/cb150624251
 =005  20060608
-=100  \\$a20060504afrey50      ba0
+=100  \\$a20060504afrey50\\\\\\ba0
 =102  \\$aCA
-=103  \\$a 1938               
+=103  \\$a\1938\\\\\\\\\\\\\\\
 =106  \\$a210
-=150  \\$ay$bt   
+=150  \\$ay$bt\\\
 =152  \\$c2
 =210  ||$7ba0yba0y$8fre   $920 $aRoyal Winnipeg Ballet
 =300  1\$aCompagnie de danse
@@ -974,16 +974,16 @@
 =801  \\$aFR$bFR-751131015$c20060608
 =810  \\$aAn instinct for success : Arnold Spohr and the Royal Winnipeg Ballet / Michael Crabb, 2002
 
-=LDR  00668nx  a2200217   45  
+=LDR  00668nx\\a2200217\\\4500
 =001  FRBNF165376229
 =003  http://catalogue.bnf.fr/ark:/12148/cb165376224
 =010  \\$a0000000063259782$2VIAF$d20130808
-=100  \\$a20110920afrey50      ba0
+=100  \\$a20110920afrey50\\\\\\ba0
 =101  \\$ager
 =102  \\$aDE
-=103  \\$a 19..               
+=103  \\$a\19..\\\\\\\\\\\\\\\
 =105  \\$aa
-=106  \\$a1  
+=106  \\$a1\\
 =120  \\$ab
 =152  \\$c2
 =200  \|$7ba0yba0y$8fre   $9 0 $aEickhoff$bStefan
@@ -992,32 +992,32 @@
 =810  \\$aLibrary of Congress authorities - http://authorities.loc.gov (2011-09-20)
 =856  \\$uhttp://authorities.loc.gov$e2011-09-20
 
-=LDR  00584cx  a2200181   45  
+=LDR  00584cx\\a2200181\\\4500
 =001  FRBNF141734792
 =003  http://catalogue.bnf.fr/ark:/12148/cb14173479f
 =005  20090806
-=100  \\$a20030310afrey50      ba0
+=100  \\$a20030310afrey50\\\\\\ba0
 =102  \\$aXX
-=103  \\$a 19..               
+=103  \\$a\19..\\\\\\\\\\\\\\\
 =105  \\$ai
-=106  \\$a1  
+=106  \\$a1\\
 =120  \\$aa
 =152  \\$c2
 =200  \|$7ba0yba0y$8fre   $9 0 $aDuchiron$bMarie-Laetitia
 =801  \\$aFR$bFR-751131015$c20090806
 =810  \\$aDracula [Enregistrement sonore] : fin / Bram Stoker, aut. ; [...] Pierre Val, Florianne Galber, Marie-Laetitia Duchiron... [et al.], voix. Livraphone LIV209
 
-=LDR  00937cx  b2200265   45  
+=LDR  00937cx\\b2200265\\\4500
 =001  FRBNF139058638
 =003  http://catalogue.bnf.fr/ark:/12148/cb13905863f
 =005  20070612
 =010  \\$a0000000123084612$2VIAF$d20130731
-=100  \\$a19890601afrey50      ba0
+=100  \\$a19890601afrey50\\\\\\ba0
 =102  \\$aDE
-=103  \\$a 1969               
+=103  \\$a\1969\\\\\\\\\\\\\\\
 =105  \\$aa$ai
-=106  \\$a1  
-=150  \\$ay$bv8  
+=106  \\$a1\\
+=150  \\$ay$bv8\\
 =152  \\$c2
 =210  ||$7ba0yba0y$8fre   $920 $aPopol Vuh
 =300  0\$aGroupe de rock progressif
@@ -1029,16 +1029,16 @@
 =810  \\$aAMG - http://allmusic.com (2000-07-31)
 =856  \\$uhttp://allmusic.com$e2000-07-31
 
-=LDR  00682nx  a2200229   45  
+=LDR  00682nx\\a2200229\\\4500
 =001  FRBNF161666391
 =003  http://catalogue.bnf.fr/ark:/12148/cb16166639j
 =010  \\$a0000000109238478$2VIAF$d20130807
-=100  \\$a20091217afrey50      ba0
+=100  \\$a20091217afrey50\\\\\\ba0
 =101  \\$aeng
 =102  \\$aUS
-=103  \\$a 1964               
+=103  \\$a\1964\\\\\\\\\\\\\\\
 =105  \\$aa
-=106  \\$a1  
+=106  \\$a1\\
 =120  \\$ab
 =152  \\$c2
 =200  \|$7ba0yba0y$8fre   $9 0 $aHolt$bIan$f1964-....
@@ -1048,12 +1048,12 @@
 =810  \\$aLC authorities - http://authorities.loc.gov (2009-12-16)
 =856  \\$uhttp://authorities.loc.gov/$e2009-12-16
 
-=LDR  01012cx  l2200241   45  
+=LDR  01012cx\\l2200241\\\4500
 =001  FRBNF119314076
 =003  http://catalogue.bnf.fr/ark:/12148/cb119314077
 =005  20150402
 =039  \\$oOPL$a00152072X
-=100  \\$a19830301afrey50      ba0
+=100  \\$a19830301afrey50\\\\\\ba0
 =106  \\$a211
 =152  \\$brameau$c2
 =180  \\$ab
@@ -1068,12 +1068,12 @@
 =822  12$aFilms de vampires$2RVMLaval$d2015-04-02
 =822  1\$aVampire films$2LCSH$uhttp://id.loc.gov/authorities/subjects/sh85141947$d2017-02-09
 
-=LDR  01445cx  l2200289   45  
+=LDR  01445cx\\l2200289\\\4500
 =001  FRBNF13545625X
 =003  http://catalogue.bnf.fr/ark:/12148/cb13545625g
 =005  20160601
 =039  \\$oOPL$a014845435
-=100  \\$a20000311afrey50      ba0
+=100  \\$a20000311afrey50\\\\\\ba0
 =106  \\$a211
 =152  \\$brameau$c2
 =180  \\$ab
@@ -1092,19 +1092,19 @@
 =822  12$aFilms de danse$2RVMLaval$d2016-06-01
 =822  11$2LCSH$d2016-06-01
 
-=LDR  01506cx  b2200349   45  
+=LDR  01506cx\\b2200349\\\4500
 =001  FRBNF119453097
 =003  http://catalogue.bnf.fr/ark:/12148/cb11945309t
 =005  20121124
 =010  \\$a0000000123753986$2VIAF$d20130724
 =039  \\$oOPL$a001700849$zAMA
-=100  \\$a19820527afrey50      ba0
+=100  \\$a19820527afrey50\\\\\\ba0
 =101  \\$afre
 =102  \\$aFR
-=103  \\$a 1672               
+=103  \\$a\1672\\\\\\\\\\\\\\\
 =105  \\$aa$ai$ap
 =106  \\$a010
-=150  \\$az$bt   
+=150  \\$az$bt\\\
 =210  ||$7ba0yba0y$8fre   $920 $aOpéra national de Paris$bBallet
 =300  |\$aFondé par Pierre Beauchamp à l'initiative de Louis XIV
 =303  \\$aPalais Garnier : 8 rue Scribe, 75009 Paris
@@ -1121,12 +1121,12 @@
 =801  \\$aFR$bFR-751131015$c20121124
 =856  \\$uhttp://www.opera-de-paris.fr/ballet$e2003-06-17
 
-=LDR  02771cx  l2200517   45  
+=LDR  02771cx\\l2200517\\\4500
 =001  FRBNF133183243
 =003  http://catalogue.bnf.fr/ark:/12148/cb133183242
 =005  20200226
 =039  \\$oOPL$a001523701
-=100  \\$a19841217afrey50      ba0
+=100  \\$a19841217afrey50\\\\\\ba0
 =106  \\$a201
 =152  \\$brameau$c2
 =180  \\$aa
@@ -1164,30 +1164,30 @@
 =822  13$aBibliographical literature$2LCSH$uhttp://id.loc.gov/authorities/subjects/sh85013836$d2018-08-25
 =822  12$aBibliographie$2RVMLaval$d2018-08-25
 
-=LDR  00619cx  a2200205   45  
+=LDR  00619cx\\a2200205\\\4500
 =001  FRBNF133438103
 =003  http://catalogue.bnf.fr/ark:/12148/cb133438105
 =005  20090818
 =010  \\$a0000000385239039$2ISNI$d20160215
 =039  \\$oOPL$a014173941
-=100  \\$a19981211afrey50      ba0
+=100  \\$a19981211afrey50\\\\\\ba0
 =101  \\$afre$teng
 =102  \\$aFR
-=103  \\$a 19..               
+=103  \\$a\19..\\\\\\\\\\\\\\\
 =105  \\$aa
-=106  \\$a1  
+=106  \\$a1\\
 =120  \\$aa
 =200  \|$7ba0yba0y$8fre   $9 0 $aJouve$bMichèle$f19..-....$cangliciste
 =801  \\$aFR$bFR-751131015$c20090818
 =810  \\$aPetits plaisirs de Noël / Mary Norden ; [trad.-adapt. par Michèle et Franck Jouve], 2001
 
-=LDR  00627nx  a2200193   45  
+=LDR  00627nx\\a2200193\\\4500
 =001  FRBNF165084538
 =003  http://catalogue.bnf.fr/ark:/12148/cb16508453g
-=100  \\$a20110511afrey50      ba0
+=100  \\$a20110511afrey50\\\\\\ba0
 =102  \\$aXX
 =105  \\$ai
-=106  \\$a1  
+=106  \\$a1\\
 =120  \\$aa
 =152  \\$c2
 =200  \|$7ba0yba0y$8fre   $9 0 $aBirtwhistle$bTara
@@ -1197,14 +1197,14 @@
 =810  \\$aIMDB - http://www.imdb.fr/name/nm1039461 (2011-05-11)
 =856  \\$uhttp://www.imdb.fr/name/nm1039461/$e2011-05-11
 
-=LDR  00708cx  b2200193   45  
+=LDR  00708cx\\b2200193\\\4500
 =001  FRBNF138818369
 =003  http://catalogue.bnf.fr/ark:/12148/cb138818362
 =005  20020531
-=100  \\$a19890601afrey50      ba0
+=100  \\$a19890601afrey50\\\\\\ba0
 =102  \\$aUS
 =105  \\$ca$dh$dr
-=106  \\$a1  
+=106  \\$a1\\
 =150  \\$ay
 =152  \\$c2
 =210  ||$7ba0yba0y$8fre   $9 0 $aLions gate productions
@@ -1213,27 +1213,27 @@
 =801  \\$aFR$bFR-751131015$c20020531
 =810  \\$aLions gate entertainment (http://www.lionsgate-ent.com), 2002-05-31$aHoover's online (http://www.hoovers.com), 2002-05-31$aAmerican psycho. Lions gate productions, 2000
 
-=LDR  00612cx  a2200193   45  
+=LDR  00612cx\\a2200193\\\4500
 =001  FRBNF139382992
 =003  http://catalogue.bnf.fr/ark:/12148/cb139382994
 =005  20090505
 =039  \\$oOPP$a14684263$d20080502
-=100  \\$a19910528afrey50      ba0
+=100  \\$a19910528afrey50\\\\\\ba0
 =102  \\$aFR
-=103  \\$a 19..               
+=103  \\$a\19..\\\\\\\\\\\\\\\
 =105  \\$ai
-=106  \\$a1  
+=106  \\$a1\\
 =120  \\$ab
 =200  \|$7ba0yba0y$8fre   $9 0 $aHérisson$bPhilippe
 =300  0\$aActeur
 =801  \\$aFR$bFR-751131015$c20090505
 =810  \\$aAtala [Enregistrement sonore] / Chateaubriand ; Gérard Keindo, Jean-Pierre Lituac, Evelyne Lecucq, Philippe Hérisson, voix.- Livraphone LIV168
 
-=LDR  03345cx  l2200637   45  
+=LDR  03345cx\\l2200637\\\4500
 =001  FRBNF162422739
 =003  http://catalogue.bnf.fr/ark:/12148/cb16242273d
 =005  20211206
-=100  \\$a20101105afrey50      ba0
+=100  \\$a20101105afrey50\\\\\\ba0
 =106  \\$a201
 =152  \\$brameau$c2
 =180  \\$ab
@@ -1282,12 +1282,12 @@
 =822  12$aFilms de fiction$2RVMLaval$d2021-12-06
 =856  \\$uhttp://www.cineressources.net$e2015-03-31
 
-=LDR  01690cx  l2200361   45  
+=LDR  01690cx\\l2200361\\\4500
 =001  FRBNF11980577X
 =003  http://catalogue.bnf.fr/ark:/12148/cb11980577g
 =005  20160602
 =039  \\$oOPL$a002184086
-=100  \\$a19850707afrey50      ba0
+=100  \\$a19850707afrey50\\\\\\ba0
 =106  \\$a211
 =152  \\$brameau$c2
 =180  \\$ab
@@ -1312,12 +1312,12 @@
 =822  1\$aHorror films$2LCSH$uhttp://id.loc.gov/authorities/subjects/sh85062077$d2017-02-09
 =822  1\$aMonster films$2LCSH$uhttp://id.loc.gov/authorities/subjects/sh2007008609$d2017-02-09
 
-=LDR  01467cx  l2200277   45  
+=LDR  01467cx\\l2200277\\\4500
 =001  FRBNF119805399
 =003  http://catalogue.bnf.fr/ark:/12148/cb11980539x
 =005  20200305
 =039  \\$oOPL$a002183632
-=100  \\$a19850707afrey50      ba0
+=100  \\$a19850707afrey50\\\\\\ba0
 =106  \\$a211
 =152  \\$brameau$c2
 =180  \\$aa
@@ -1335,12 +1335,12 @@
 =822  12$aFilm posters$2LCGFT$uhttp://id.loc.gov/authorities/genreForms/gf2017026118$d2020-03-05
 =822  12$aFilm posters$2LCSH$uhttp://id.loc.gov/authorities/subjects/sh85048229$d2020-02-09
 
-=LDR  01285cx  l2200265   45  
+=LDR  01285cx\\l2200265\\\4500
 =001  FRBNF119497987
 =003  http://catalogue.bnf.fr/ark:/12148/cb11949798b
 =005  20150430
 =039  \\$oOPL$a001760718
-=100  \\$a19821126afrey50      ba0
+=100  \\$a19821126afrey50\\\\\\ba0
 =106  \\$a211
 =152  \\$brameau$c2
 =180  \\$ab
@@ -1357,34 +1357,34 @@
 =822  12$aRoman épistolaire$2RVMLaval$d2015-04-30
 =822  1\$aEpistolary fiction$2LCSH$uhttp://id.loc.gov/authorities/subjects/sh85044453$d2017-02-09
 
-=LDR  00734cx  a2200205   45  
+=LDR  00734cx\\a2200205\\\4500
 =001  FRBNF14623074X
 =003  http://catalogue.bnf.fr/ark:/12148/cb14623074f
 =005  20050602
 =010  \\$a000000000323564X$2ISNI$d20150312
-=100  \\$a20050422afrey50      ba0
+=100  \\$a20050422afrey50\\\\\\ba0
 =101  \\$afre
 =102  \\$aFR
-=103  \\$a 19770413           
+=103  \\$a\19770413\\\\\\\\\\\
 =105  \\$aa
-=106  \\$a1  
+=106  \\$a1\\
 =120  \\$aa
 =200  \|$7ba0yba0y$8fre   $9 0 $aDeschamps$bFanny$f1977-....
 =300  0\$aProfesseur de français et responsable du service éducatif du Musée départemental des antiquités de Rouen (en 2004)
 =801  \\$aFR$bFR-751131015$c20050602
 =810  \\$aLire l'image au collège et au lycée en cours de français : images fixes et images mobiles / Fanny Deschamps, 2004
 
-=LDR  00647cx  a2200217   45  
+=LDR  00647cx\\a2200217\\\4500
 =001  FRBNF140481044
 =003  http://catalogue.bnf.fr/ark:/12148/cb140481044
 =005  20070601
 =010  \\$a0000000115844474$2VIAF$d20130801
 =039  \\$oOPP$a13825564$d20070601
-=100  \\$a20020124afrey50      ba0
+=100  \\$a20020124afrey50\\\\\\ba0
 =102  \\$aUS
-=103  \\$a 19120619  19860522 
+=103  \\$a\19120619\\19860522\
 =105  \\$ai
-=106  \\$a1  
+=106  \\$a1\\
 =120  \\$ab
 =152  \\$c2
 =200  \|$7ba0yba0y$8fre   $9 0 $aGabel$bMartin$f1912-1986
@@ -1392,18 +1392,18 @@
 =801  \\$aFR$bFR-751131015$c20070601
 =810  \\$aThe Macmillan international film encyclopedia, 1994$aIMDB (http://us.imdb.com/), 2002-01-24
 
-=LDR  00690cx  a2200229   45  
+=LDR  00690cx\\a2200229\\\4500
 =001  FRBNF120567500
 =003  http://catalogue.bnf.fr/ark:/12148/cb12056750d
 =005  20161201
 =010  \\$a0000000073585100$2VIAF$d20130724
 =039  \\$oOPL$a003729447
-=100  \\$a19840420afrey50      ba0
+=100  \\$a19840420afrey50\\\\\\ba0
 =101  \\$afre
 =102  \\$aFR
-=103  \\$a 19570521           
+=103  \\$a\19570521\\\\\\\\\\\
 =105  \\$aa
-=106  \\$a1  
+=106  \\$a1\\
 =120  \\$ab
 =200  \|$7ba0yba0y$8fre   $9 0 $aChatain$bJean-Noël$f1957-....
 =300  0\$aTraduit de l'anglais en français
@@ -1411,16 +1411,16 @@
 =810  \\$aTrois témoins qui lui voulaient de bien / S. Radley ; trad. par J.-N. Chatain, 1989
 =815  \\$aBN Cat. gén. 1970-1979
 
-=LDR  00740cx  a2200229   45  
+=LDR  00740cx\\a2200229\\\4500
 =001  FRBNF150729036
 =003  http://catalogue.bnf.fr/ark:/12148/cb150729039
 =005  20171206
 =010  \\$a0000000109899671$2VIAF$d20130805
-=100  \\$a20060614afrey50      ba0
+=100  \\$a20060614afrey50\\\\\\ba0
 =102  \\$aPL
-=103  \\$a 1973               
+=103  \\$a\1973\\\\\\\\\\\\\\\
 =105  \\$aa
-=106  \\$a1  
+=106  \\$a1\\
 =120  \\$ab
 =152  \\$c2
 =200  \|$7ba0yba0y$8fre   $9 0 $aKowalski$bPiotr$f1973-....
@@ -1430,14 +1430,14 @@
 =810  \\$aBD paradiso - http://www.bdparadisio.com (2006-03-14)
 =856  \\$uhttp://www.bdparadisio.com$e2006-03-14
 
-=LDR  04326cx  l2200793   45  
+=LDR  04326cx\\l2200793\\\4500
 =001  FRBNF133189029
 =003  http://catalogue.bnf.fr/ark:/12148/cb13318902d
 =005  20211215
 =039  \\$oOPL$a001990772
 =039  \\$oOPL$a001658414
 =039  \\$oOPP$a13318567$d20110527
-=100  \\$a19841019afrey50      ba0
+=100  \\$a19841019afrey50\\\\\\ba0
 =106  \\$a201
 =152  \\$brameau$c2
 =180  \\$ab
@@ -1496,12 +1496,12 @@
 =822  12$aJeux vidéo$2RVMLaval$d2021-12-08
 =822  14$aJeux d'ordinateur$2RVMLaval$d2021-12-08
 
-=LDR  02292cx  l2200433   45  
+=LDR  02292cx\\l2200433\\\4500
 =001  FRBNF119458219
 =003  http://catalogue.bnf.fr/ark:/12148/cb119458212
 =005  20220530
 =039  \\$oOPL$a001707758
-=100  \\$a19830131afrey50      ba0
+=100  \\$a19830131afrey50\\\\\\ba0
 =106  \\$a211
 =152  \\$brameau$c2
 =180  \\$ab
@@ -1532,11 +1532,11 @@
 =822  12$aRécits d'horreur$2RVMLaval$d2022-05-30
 =822  14$aGothic revival (Literature)$2LCSH$uhttp://id.loc.gov/authorities/subjects/sh85055998$d2022-05-30
 
-=LDR  01536cx  l2200289   45  
+=LDR  01536cx\\l2200289\\\4500
 =001  FRBNF165553836
 =003  http://catalogue.bnf.fr/ark:/12148/cb16555383f
 =005  20140320
-=100  \\$a20111205afrey50      ba0
+=100  \\$a20111205afrey50\\\\\\ba0
 =106  \\$a211
 =152  \\$brameau$c2
 =180  \\$ab
@@ -1556,11 +1556,11 @@
 =822  1\$aFantasy comic books, strips, etc.$2LCSH$uhttp://id.loc.gov/authorities/subjects/sh97000542$d2017-02-09
 =856  \\$uhttp://www.universalis-edu.com$e2014-03-20
 
-=LDR  01425cx  l2200277   45  
+=LDR  01425cx\\l2200277\\\4500
 =001  FRBNF178630115
 =003  http://catalogue.bnf.fr/ark:/12148/cb178630114
 =005  20220524
-=100  \\$a20200123afrey50      ba0
+=100  \\$a20200123afrey50\\\\\\ba0
 =106  \\$a211
 =152  \\$brameau$c2
 =180  \\$ab
@@ -1579,32 +1579,32 @@
 =822  12$aRoman fantastique$2RVMLaval$d2022-05-24
 =856  \\$uhttp://atilf.atilf.fr$e2020-01-27
 
-=LDR  00596cx  a2200193   45  
+=LDR  00596cx\\a2200193\\\4500
 =001  FRBNF121110515
 =003  http://catalogue.bnf.fr/ark:/12148/cb12111051z
 =005  19951128
 =010  \\$a0000000000076233$2VIAF$d20130725
 =039  \\$oOPL$a004533946
-=100  \\$a19890425afrey50      ba0
+=100  \\$a19890425afrey50\\\\\\ba0
 =101  \\$afre
 =102  \\$aFR
 =105  \\$aa
-=106  \\$a1  
+=106  \\$a1\\
 =200  \|$7ba0yba0y$8fre   $9 0 $aLullien$bJean-Claude
 =300  0\$aTraduit de l'anglais en français
 =801  \\$aFR$bFR-751131015$c19951128
 =810  \\$aLe crime d'Oscar Wilde / Walter Satterthwait ; trad. de l'anglais par Jean-Claude Lullien, 1995
 
-=LDR  00777nx  a2200229   45  
+=LDR  00777nx\\a2200229\\\4500
 =001  FRBNF155399852
 =003  http://catalogue.bnf.fr/ark:/12148/cb155399856
 =010  \\$a0000000120204631$2VIAF$d20130806
-=100  \\$a20070614afrey50      ba0
+=100  \\$a20070614afrey50\\\\\\ba0
 =101  \\$afre
 =102  \\$aBE
-=103  \\$a 1970               
+=103  \\$a\1970\\\\\\\\\\\\\\\
 =105  \\$aa
-=106  \\$a1  
+=106  \\$a1\\
 =120  \\$ab
 =152  \\$c2
 =200  \|$7ba0yba0y$8fre   $9 0 $aDufranne$bMichel$f1970-....
@@ -1614,15 +1614,15 @@
 =810  \\$aInternet - http://www.editions-delcourt.fr (2007-06-14)
 =856  \\$uhttp://www.editions-delcourt.fr$e2007-06-14
 
-=LDR  00704cx  a2200193   45  
+=LDR  00704cx\\a2200193\\\4500
 =001  FRBNF141792728
 =003  http://catalogue.bnf.fr/ark:/12148/cb14179272x
 =005  20090525
-=100  \\$a20030310afrey50      ba0
+=100  \\$a20030310afrey50\\\\\\ba0
 =102  \\$aFR
-=103  \\$a 19..               
+=103  \\$a\19..\\\\\\\\\\\\\\\
 =105  \\$ai
-=106  \\$a1  
+=106  \\$a1\\
 =120  \\$ab
 =200  \|$7ba0yba0y$8fre   $9 0 $aFuchs$bArnaud-Didier
 =300  0\$aComédien
@@ -1630,18 +1630,18 @@
 =801  \\$aFR$bFR-751131015$c20090525
 =810  \\$aDracula [Enregistrement sonore] / Bram Stocker, aut. ; Arnaud Saint-Pères. Livraphone$aDracula [Enregistrement sonore] / Bram Stocker, aut. ; Marianne Pitaressi... [et al.], voix. Livraphone LIV 207M (2009-05-25)
 
-=LDR  00812cx  a2200253   45  
+=LDR  00812cx\\a2200253\\\4500
 =001  FRBNF137423860
 =003  http://catalogue.bnf.fr/ark:/12148/cb13742386g
 =005  20050413
 =010  \\$a0000000081161236$2VIAF$d20130731
 =039  \\$oOPL$a015648622
-=100  \\$a20010831afrey50      ba0
+=100  \\$a20010831afrey50\\\\\\ba0
 =101  \\$aeng
 =102  \\$aUS
-=103  \\$a 19..               
+=103  \\$a\19..\\\\\\\\\\\\\\\
 =105  \\$aa
-=106  \\$a1  
+=106  \\$a1\\
 =120  \\$aa
 =152  \\$c2
 =200  \|$7ba0yba0y$8fre   $9 0 $aBelford$bBarbara
@@ -1651,16 +1651,16 @@
 =810  \\$aLCNA - http://authorities.loc.gov (2005-04-07)
 =856  \\$uhttp://authorities.loc.gov$e2005-04-07
 
-=LDR  00792cx  a2200241   45  
+=LDR  00792cx\\a2200241\\\4500
 =001  FRBNF141209894
 =003  http://catalogue.bnf.fr/ark:/12148/cb14120989c
 =005  20060704
 =010  \\$a0000000080014058$2VIAF$d20130801
-=100  \\$a20030310afrey50      ba0
+=100  \\$a20030310afrey50\\\\\\ba0
 =102  \\$aUS
-=103  \\$a 1964               
+=103  \\$a\1964\\\\\\\\\\\\\\\
 =105  \\$aa
-=106  \\$a1  
+=106  \\$a1\\
 =120  \\$ab
 =152  \\$c2
 =200  \|$7ba0yba0y$8fre   $9 0 $aMerhige$bE. Elias$f1964-....
@@ -1671,16 +1671,16 @@
 =810  \\$aIMDB - http://www.us.imdb.com (2006-02-21)
 =856  \\$uhttp://www.us.imdb.com$e2006-02-21
 
-=LDR  00718cx  a2200229   45  
+=LDR  00718cx\\a2200229\\\4500
 =001  FRBNF14169469X
 =003  http://catalogue.bnf.fr/ark:/12148/cb14169469c
 =005  20061206
 =010  \\$a0000000039498521$2VIAF$d20130801
-=100  \\$a20030310afrey50      ba0
+=100  \\$a20030310afrey50\\\\\\ba0
 =102  \\$aGB
-=103  \\$a 19160522  19761122 
+=103  \\$a\19160522\\19761122\
 =105  \\$ai
-=106  \\$a1  
+=106  \\$a1\\
 =120  \\$ab
 =152  \\$c2
 =200  \|$7ba0yba0y$8fre   $9 0 $aDavies$bRupert$f1916-1976
@@ -1690,17 +1690,17 @@
 =810  \\$aIMDB - http://www.us.imdb.com (2006-03-24)
 =856  \\$uhttp://www.us.imdb.com/$e2006-03-24
 
-=LDR  00855cx  a2200229   45  
+=LDR  00855cx\\a2200229\\\4500
 =001  FRBNF15547545X
 =003  http://catalogue.bnf.fr/ark:/12148/cb15547545k
 =005  20070711
 =010  \\$a000000000188825X$2VIAF$d20130806
-=100  \\$a20070711afrey50      ba0
+=100  \\$a20070711afrey50\\\\\\ba0
 =101  \\$afre
 =102  \\$aFR
-=103  \\$a 19541106           
+=103  \\$a\19541106\\\\\\\\\\\
 =105  \\$aa
-=106  \\$a1  
+=106  \\$a1\\
 =120  \\$ab
 =200  \|$7ba0yba0y$8fre   $9 0 $aSirgent$bJacques$f1954-....
 =300  0\$aEnseignant. - Journaliste. - Propriétaire du Musée des vampires aux Lilas, Seine-Saint-Denis (ouvert en 2005)
@@ -1709,17 +1709,17 @@
 =810  \\$aInternet - http://www.linternaute.com/video/week-end/le-musee-des-vampires (2007-07-11)
 =856  \\$uhttp://www.linternaute.com/video/week-end/le-musee-des-vampires/$e2007-07-11
 
-=LDR  23775cx  b2204693   45  
+=LDR  23775cx\\b2204693\\\4500
 =001  FRBNF138904601
 =003  http://catalogue.bnf.fr/ark:/12148/cb13890460s
 =005  20181030
 =039  \\$oOPL$a014006967
 =039  \\$oOPP$a13341658$d20090220
-=100  \\$a19890601afrey50      ba0
+=100  \\$a19890601afrey50\\\\\\ba0
 =102  \\$aFR
 =105  \\$ce$cd$dg$dh
 =106  \\$a010
-=150  \\$ay$bc9  
+=150  \\$ay$bc9\\
 =210  ||$7ba0yba0y$8fre   $9 0 $aWarner music France
 =300  |\$aAncienne adresse : (19..-2001) 102 av. du Président-Kennedy, 75016 Paris. Tél. 01.44.30.40.00. Fax 01.44.30.40.50
 =303  \\$a29 av. Mac-Mahon, 75809 Paris cedex 17
@@ -2100,33 +2100,33 @@
 =810  \\$aMusique info hebdo, n °155, 2001-02-16
 =856  \\$uhttp://www.warnermusic.fr$e2017-03-30
 
-=LDR  00622cx  a2200205   45  
+=LDR  00622cx\\a2200205\\\4500
 =001  FRBNF119124422
 =003  http://catalogue.bnf.fr/ark:/12148/cb11912442k
 =005  19891228
 =010  \\$a0000000110320540$2VIAF$d20130724
 =039  \\$oOPL$a001024495
-=100  \\$a19770621afrey50      ba0
+=100  \\$a19770621afrey50\\\\\\ba0
 =101  \\$afre
 =102  \\$aFR
-=103  \\$a 1946               
+=103  \\$a\1946\\\\\\\\\\\\\\\
 =105  \\$aa
-=106  \\$a1  
+=106  \\$a1\\
 =200  \|$7ba0yba0y$8fre   $9 0 $aLenne$bGérard$f1946-....
 =300  0\$aCritique de cinéma
 =801  \\$aFR$bFR-751131015$c19891228
 =810  \\$aBlake, Jacobs et Mortimer / G. Lenne, 1988$aHistoires du cinéma fantastique / G. Lenne, 1989
 
-=LDR  00720cx  a2200217   45  
+=LDR  00720cx\\a2200217\\\4500
 =001  FRBNF148943855
 =003  http://catalogue.bnf.fr/ark:/12148/cb14894385z
 =005  20070326
 =010  \\$a0000000003528725$2VIAF$d20130802
-=100  \\$a20061016afrey50      ba0
+=100  \\$a20061016afrey50\\\\\\ba0
 =102  \\$aFR
-=103  \\$a 19..               
+=103  \\$a\19..\\\\\\\\\\\\\\\
 =105  \\$aa
-=106  \\$a1  
+=106  \\$a1\\
 =120  \\$ab
 =200  \|$7ba0yba0y$8fre   $9 0 $aGauriat$bVincent
 =300  0\$aGraphiste
@@ -2135,32 +2135,32 @@
 =810  \\$aVincent Gauriat Portfolio - http://www.vgauriat.com/index.html (2007-02-08)
 =856  \\$uhttp://www.vgauriat.com/index.html$e2007-02-08
 
-=LDR  00675cx  a2200193   45  
+=LDR  00675cx\\a2200193\\\4500
 =001  FRBNF142236392
 =003  http://catalogue.bnf.fr/ark:/12148/cb14223639w
 =005  20090525
 =010  \\$a0000000060232891$2VIAF$d20130801
-=100  \\$a20030310afrey50      ba0
+=100  \\$a20030310afrey50\\\\\\ba0
 =102  \\$aFR
-=103  \\$a 19..               
+=103  \\$a\19..\\\\\\\\\\\\\\\
 =105  \\$ai
-=106  \\$a1  
+=106  \\$a1\\
 =120  \\$ab
 =200  \|$7ba0yba0y$8fre   $9 0 $aSaint-Père$bArnaud
 =300  0\$aComédien
 =801  \\$aFR$bFR-751131015$c20090525
 =810  \\$aDracula [Enregistrement sonore] / Bram Stocker, aut. ; Arnaud Saint-Pères. Livraphone$aDracula [Enregistrement sonore] / Bram Stocker, aut. ; Arnaud Saint Père. Livraphone LIV 207M (2009-05-25)
 
-=LDR  00848cx  a2200217   45  
+=LDR  00848cx\\a2200217\\\4500
 =001  FRBNF139382946
 =003  http://catalogue.bnf.fr/ark:/12148/cb13938294d
 =005  20131228
 =010  \\$a0000000001460261$2VIAF$d20130731
-=100  \\$a19910528afrey50      ba0
+=100  \\$a19910528afrey50\\\\\\ba0
 =102  \\$aFR
-=103  \\$a 19..               
+=103  \\$a\19..\\\\\\\\\\\\\\\
 =105  \\$ai
-=106  \\$a1  
+=106  \\$a1\\
 =120  \\$ab
 =200  \|$7ba0yba0y$8fre   $9 0 $aRey$bJean Claude$f19..-....$cacteur
 =300  0\$aActeur, journaliste et speaker. - Responsable de production dans le film "Les Misérables" de Robert Hossein (1985)
@@ -2169,12 +2169,12 @@
 =810  \\$aInternet movie data base - http://french.imdb.com/Nsearch (2004-04-15)
 =856  \\$uhttp://french.imdb.com/Nsearch$e2004-04-15
 
-=LDR  01940cx  l2200349   45  
+=LDR  01940cx\\l2200349\\\4500
 =001  FRBNF119750860
 =003  http://catalogue.bnf.fr/ark:/12148/cb119750862
 =005  20130215
 =039  \\$oOPL$a002110342
-=100  \\$a19850620afrey50      ba0
+=100  \\$a19850620afrey50\\\\\\ba0
 =106  \\$a211
 =152  \\$brameau$c2
 =180  \\$ab
@@ -2198,20 +2198,20 @@
 =822  1\$aRadio plays$2LCSH$uhttp://id.loc.gov/authorities/subjects/sh85110529$d2017-02-09
 =856  \\$uhttp://www.universalis-edu.com$e2013-02-11
 
-=LDR  01314cx  b2200313   45  
+=LDR  01314cx\\b2200313\\\4500
 =001  FRBNF135586182
 =003  http://catalogue.bnf.fr/ark:/12148/cb135586184
 =005  20201116
 =010  \\$a0000000119412476$2ISNI$d20150313
 =039  \\$oOPL$a014956777
 =039  \\$oOPP$a14708945$d20140220
-=100  \\$a20000529afrey50      ba0
+=100  \\$a20000529afrey50\\\\\\ba0
 =101  \\$afre
 =102  \\$aFR
-=103  \\$a 1911               
+=103  \\$a\1911\\\\\\\\\\\\\\\
 =105  \\$ci$aa
 =106  \\$a010
-=150  \\$ay$bl1  
+=150  \\$ay$bl1\\
 =210  ||$7ba0yba0y$8fre   $920 $aImprimerie A. Karcher
 =300  |\$aFondée en 1911 par deux frères alsaciens, Jules et Alfred Karcher, au 23, rue Bichat, 75010, Paris. - Imprime essentiellement des affiches
 =303  \\$a13 rue des Gardinoux, 93300 Aubervilliers
@@ -2224,17 +2224,17 @@
 =810  \\$aMémoire de la rue : souvenirs d'un imprimeur et d'un afficheur, 1986
 =810  \\$aKompass 1995
 
-=LDR  00774cx  a2200229   45  
+=LDR  00774cx\\a2200229\\\4500
 =001  FRBNF141713403
 =003  http://catalogue.bnf.fr/ark:/12148/cb14171340n
 =005  20091201
 =010  \\$a0000000072727189$2VIAF$d20130801
-=100  \\$a20030310afrey50      ba0
+=100  \\$a20030310afrey50\\\\\\ba0
 =101  \\$afre
 =102  \\$aFR
-=103  \\$a 19611124           
+=103  \\$a\19611124\\\\\\\\\\\
 =105  \\$ai
-=106  \\$a1  
+=106  \\$a1\\
 =120  \\$ab
 =200  \|$7ba0yba0y$8fre   $9 0 $aDessaux$bAlexis$f1961-....
 =300  0\$aComédien
@@ -2243,15 +2243,15 @@
 =810  \\$aAlexis Dessau - http://www.alexisdesseaux.net/site.html (2009-11-26)
 =856  \\$uhttp://www.alexisdesseaux.net/site.html$e2009-11-26
 
-=LDR  01210cx  a2200301   45  
+=LDR  01210cx\\a2200301\\\4500
 =001  FRBNF140012577
 =003  http://catalogue.bnf.fr/ark:/12148/cb14001257g
 =005  20110309
 =010  \\$a0000000110447015$2VIAF$d20130801
 =039  \\$oOPP$a14679781$d20070326
-=100  \\$a19970429afrey50      ba0
+=100  \\$a19970429afrey50\\\\\\ba0
 =102  \\$aGB
-=103  \\$a 19171222  20070317 
+=103  \\$a\19171222\\20070317\
 =105  \\$aa$ac
 =106  \\$a010
 =120  \\$ab
@@ -2268,17 +2268,17 @@
 =801  \\$aFR$bFR-751131015$c20110309
 =810  \\$aDict. du cinéma. T1 / Jean Tulard, 1982$aMonde, 2007-03-24
 
-=LDR  00649cx  a2200217   45  
+=LDR  00649cx\\a2200217\\\4500
 =001  FRBNF126262854
 =003  http://catalogue.bnf.fr/ark:/12148/cb126262853
 =005  20041028
 =010  \\$a0000000008916874$2VIAF$d20130729
 =039  \\$oOPL$a001131230
-=100  \\$a19750916afrey50      ba0
+=100  \\$a19750916afrey50\\\\\\ba0
 =101  \\$afre$teng
 =102  \\$aFR
 =105  \\$aa
-=106  \\$a1  
+=106  \\$a1\\
 =120  \\$aa
 =200  \|$7ba0yba0y$8fre   $9 0 $aMolitor$bLucienne
 =300  0\$aTraductrice
@@ -2286,17 +2286,17 @@
 =810  \\$aLa Lettre écarlate / Nathaniel Hawthorne; trad. de l'anglais par Lucienne Molitor, 1958
 =810  \\$aBN Cat. gén. suppl.$aBN Cat. gén. 1960-1969
 
-=LDR  00907cx  b2200241   45  
+=LDR  00907cx\\b2200241\\\4500
 =001  FRBNF13979881X
 =003  http://catalogue.bnf.fr/ark:/12148/cb13979881s
 =005  20200113
 =010  \\$a0000000121939138$2ISNI$d20150313
-=100  \\$a19950818afrey50      ba0
+=100  \\$a19950818afrey50\\\\\\ba0
 =102  \\$aFR
-=103  \\$a 1990               
+=103  \\$a\1990\\\\\\\\\\\\\\\
 =105  \\$ce$ca$dh$cs$cp
 =106  \\$a010
-=150  \\$ay$bc9  
+=150  \\$ay$bc9\\
 =210  ||$7ba0yba0y$8fre   $920 $aStudio Canal plus
 =303  \\$a17 rue Dumont d'Urville, 75116 Paris
 =410  ||$7ba0yba0y$8fre   $9   $aStudio Canal +
@@ -2306,16 +2306,16 @@
 =810  \\$aWikipedia - https://fr.wikipedia.org/wiki/Studiocanal (2020-02-13)
 =856  \\$uhttps://fr.wikipedia.org/wiki/Studiocanal$e2020-02-13
 
-=LDR  00751cx  a2200205   45  
+=LDR  00751cx\\a2200205\\\4500
 =001  FRBNF14029412X
 =003  http://catalogue.bnf.fr/ark:/12148/cb14029412d
 =005  20090525
 =010  \\$a0000000001371437$2VIAF$d20130801
-=100  \\$a20000210afrey50      ba0
+=100  \\$a20000210afrey50\\\\\\ba0
 =102  \\$aFR
-=103  \\$a 19..               
+=103  \\$a\19..\\\\\\\\\\\\\\\
 =105  \\$ai
-=106  \\$a1  
+=106  \\$a1\\
 =120  \\$aa
 =200  \|$7ba0yba0y$8fre   $9 0 $aPitaressi$bMaria
 =300  0\$aComédienne
@@ -2323,15 +2323,15 @@
 =801  \\$aFR$bFR-751131015$c20090525
 =810  \\$aDracula [Enregistrement sonore] / Bram Stocker, aut. ; Arnaud Saint-Pères. Livraphone$aDracula [Enregistrement sonore] / Bram Stocker, aut. ; Marianne Pitaressi... [et al.], voix. Livraphone LIV 207M (2009-05-25)
 
-=LDR  00766cx  a2200253   45  
+=LDR  00766cx\\a2200253\\\4500
 =001  FRBNF138914182
 =003  http://catalogue.bnf.fr/ark:/12148/cb138914187
 =005  20220325
 =010  \\$a0000000116043011$2VIAF$d20130731
-=100  \\$a19890601afrey50      ba0
+=100  \\$a19890601afrey50\\\\\\ba0
 =101  \\$aeng
 =102  \\$aGB
-=103  \\$a 19250920  20010709 
+=103  \\$a\19250920\\20010709\
 =105  \\$aa
 =106  \\$a010
 =120  \\$ab
@@ -2344,17 +2344,17 @@
 =810  \\$aJames Bernard, composer to count Dracula : a critical biography / David Huckvale, 2006
 =810  \\$aFilm composers guide, 1994
 
-=LDR  00889cx  a2200217   45  
+=LDR  00889cx\\a2200217\\\4500
 =001  FRBNF144730265
 =003  http://catalogue.bnf.fr/ark:/12148/cb144730268
 =005  20040325
 =010  \\$a0000000048947827$2VIAF$d20130801
-=100  \\$a20030516afrey50      ba0
+=100  \\$a20030516afrey50\\\\\\ba0
 =101  \\$afre
 =102  \\$aFR
-=103  \\$a 19..      ....     
+=103  \\$a\19..\\\\\\....\\\\\
 =105  \\$aa
-=106  \\$a1  
+=106  \\$a1\\
 =120  \\$aa
 =200  \|$7ba0yba0y$8fre   $9 0 $aCassou-Noguès$bAnne
 =300  0\$aAgrégée de lettres modernes. - Professeur au Lycée Charles-le-Chauve de Roissy-en-Brie, Seine-et-Marne (en 2004)
@@ -2362,29 +2362,29 @@
 =801  \\$aFR$bFR-751131015$c20040325
 =810  \\$aLa controverse de Valladolid / Jean-Claude Carrière ; présentation, notes, chronologie et dossier par Anne Cassou-Noguès et Marie-Aude de Langenhagen, 2003$aRacine / Anne Cassou-Noguès, Marie-Aude de Langenhagen, 2004
 
-=LDR  00955cx  a2200205   45  
+=LDR  00955cx\\a2200205\\\4500
 =001  FRBNF144730272
 =003  http://catalogue.bnf.fr/ark:/12148/cb14473027m
 =005  20130801
 =010  \\$a0000000383167553$2ISNI$d20150313
-=100  \\$a20030516afrey50      ba0
+=100  \\$a20030516afrey50\\\\\\ba0
 =101  \\$afre
 =102  \\$aFR
-=103  \\$a 19750628           
+=103  \\$a\19750628\\\\\\\\\\\
 =105  \\$aa
-=106  \\$a1  
+=106  \\$a1\\
 =120  \\$aa
 =200  \|$7ba0yba0y$8fre   $9 0 $aLangenhagen$bMarie-Aude de$f1975-....
 =300  0\$aNormalienne et agrégée de lettres modernes. - Professeur au Lycée François Couperin de Fontainebleau, Seine-et-Marne (en 2004). - Enseignante en classes préparatoires au lycée la Martinière Montplaisir à Lyon (en 210)
 =801  \\$aFR$bFR-751131015$c20130801
 =810  \\$aLa controverse de Valladolid / Jean-Claude Carrière ; présentation, notes, chronologie et dossier par Anne Cassou-Noguès et Marie-Aude de Langenhagen, 2003$aRacine / Anne Cassou-Noguès, Marie-Aude de Langenhagen, 2004
 
-=LDR  02344cx  l2200409   45  
+=LDR  02344cx\\l2200409\\\4500
 =001  FRBNF119372994
 =003  http://catalogue.bnf.fr/ark:/12148/cb11937299m
 =005  20141231
 =039  \\$oOPL$a001593411
-=100  \\$a19810323afrey50      ba0
+=100  \\$a19810323afrey50\\\\\\ba0
 =106  \\$a211
 =152  \\$brameau$c2
 =180  \\$ab
@@ -2413,35 +2413,35 @@
 =822  1\$aMotion picture music$2LCSH$uhttp://id.loc.gov/authorities/subjects/sh85088056$d2014-12-31
 =856  \\$uhttp://www.universalis-edu.com$e2011-12-02
 
-=LDR  00736cx  a2200229   45  
+=LDR  00736cx\\a2200229\\\4500
 =001  FRBNF119164025
 =003  http://catalogue.bnf.fr/ark:/12148/cb119164029
 =005  20150504
 =010  \\$a000000012122217X$2VIAF$d20131024
 =039  \\$oOPL$a001130388
 =039  \\$oOPP$a16817579$d20150504
-=100  \\$a19771108afrey50      ba0
+=100  \\$a19771108afrey50\\\\\\ba0
 =101  \\$afre$tger$teng
 =102  \\$aFR
-=103  \\$a 19421215           
+=103  \\$a\19421215\\\\\\\\\\\
 =105  \\$aa$ai
-=106  \\$a1  
+=106  \\$a1\\
 =200  \|$7ba0yba0y$8fre   $9 0 $aMoissard$bBoris$f1942-....
 =300  0\$aEcrivain, traducteur. - Pseudonyme de Jean-Jacques Ably
 =801  \\$aFR$bFR-751131015$c20150504
 =810  \\$aL'Enfant pourri / Boris Moissard, 1988
 =810  \\$aGuide des auteurs du livre de jeunesse français, 1989, p. 153
 
-=LDR  00813cx  a2200229   45  
+=LDR  00813cx\\a2200229\\\4500
 =001  FRBNF140281410
 =003  http://catalogue.bnf.fr/ark:/12148/cb14028141x
 =005  20101011
 =010  \\$a0000000114435900$2VIAF$d20130801
-=100  \\$a19991216afrey50      ba0
+=100  \\$a19991216afrey50\\\\\\ba0
 =102  \\$aCA
-=103  \\$a 1966               
+=103  \\$a\1966\\\\\\\\\\\\\\\
 =105  \\$ai
-=106  \\$a1  
+=106  \\$a1\\
 =120  \\$ab
 =152  \\$c2
 =200  \|$7ba0yba0y$8fre   $9 0 $aTrudel$bAlain$f1966-....
@@ -2451,7 +2451,7 @@
 =810  \\$aAlainTrudel.com - http://www.alaintrudel.com (2010-10-11)
 =856  \\$uhttp://www.alaintrudel.com/$e2010-10-11
 
-=LDR  01419cx  b2200337   45  
+=LDR  01419cx\\b2200337\\\4500
 =001  FRBNF131676426
 =003  http://catalogue.bnf.fr/ark:/12148/cb131676428
 =005  20070607
@@ -2459,12 +2459,12 @@
 =039  \\$oOPL$a013415594
 =039  \\$oOPP$a13881066$d20070607
 =039  \\$oOPP$a14281563$d20170731
-=100  \\$a19970908afrey50      ba0
+=100  \\$a19970908afrey50\\\\\\ba0
 =101  \\$aeng
 =102  \\$aGB
 =105  \\$ca$dh$aa
 =106  \\$a010
-=150  \\$ay$bc4  
+=150  \\$ay$bc4\\
 =152  \\$c2
 =210  ||$7ba0yba0y$8fre   $920 $aHammer Film Productions
 =300  |\$aSociété de production cinématographique britannique fondée par William Hammer en 1934 (Hammer Productions ltd.). En 1948, se met en place la Hammer Films. Spécialisée dans les films fantastiques, sous l'impulsion de Terence Fisher, elle deviendra la plus importante des compagnies de production britanniques
@@ -2479,7 +2479,7 @@
 =810  \\$aDict. du ciné. / dir. Passek, 1995
 =815  \\$aBN ACO (en ligne), 1997-09-08
 
-=LDR  01350cx  b2200385   45  
+=LDR  01350cx\\b2200385\\\4500
 =001  FRBNF119416280
 =003  http://catalogue.bnf.fr/ark:/12148/cb11941628z
 =005  20161206
@@ -2490,13 +2490,13 @@
 =039  \\$oOPP$a12745242$d20161206
 =039  \\$oOPP$a13130500$d20151123
 =039  \\$oOPP$a13130501$d20151123
-=100  \\$a19810901afrey50      ba0
+=100  \\$a19810901afrey50\\\\\\ba0
 =101  \\$aeng
 =102  \\$aUS
-=103  \\$a 1927               
+=103  \\$a\1927\\\\\\\\\\\\\\\
 =105  \\$ca
 =106  \\$a010
-=150  \\$ay$bc9  
+=150  \\$ay$bc9\\
 =152  \\$c2
 =210  ||$7ba0yba0y$8fre   $920 $aColumbia broadcasting system
 =300  |\$aGroupe américain de radiotélévision. - Lancement : 18 septembre 1927 (radio), 1er juillet 1941 (télévision)
@@ -2511,14 +2511,14 @@
 =810  \\$aLCNA 1977-1986
 =856  \\$uhttp://www.cbs.com/$e2014-04-28
 
-=LDR  00644cx  a2200193   45  
+=LDR  00644cx\\a2200193\\\4500
 =001  FRBNF13939901X
 =003  http://catalogue.bnf.fr/ark:/12148/cb13939901r
 =005  20140313
 =039  \\$oOPP$a14687700$d20090519
-=100  \\$a19910628afrey50      ba0
+=100  \\$a19910628afrey50\\\\\\ba0
 =102  \\$aFR
-=103  \\$a 19..               
+=103  \\$a\19..\\\\\\\\\\\\\\\
 =105  \\$ai
 =106  \\$a010
 =120  \\$ab
@@ -2527,17 +2527,17 @@
 =801  \\$aFR$bFR-751131015$c20140313
 =810  \\$aLe voyageur imprudent [ Enregistrement sonore] / René Barjavel, aut. ; Eric Dufay, Thierry Leclerc, Sophie Lahayville, Pierre Val... [et al.], voix. Livraphone LIV212
 
-=LDR  00867cx  a2200229   45  
+=LDR  00867cx\\a2200229\\\4500
 =001  FRBNF146740087
 =003  http://catalogue.bnf.fr/ark:/12148/cb14674008x
 =005  20101019
 =010  \\$a0000000003194585$2VIAF$d20130802
 =039  \\$oOPP$a14088520$d20090624
-=100  \\$a20050825afrey50      ba0
+=100  \\$a20050825afrey50\\\\\\ba0
 =102  \\$aFR
-=103  \\$a 19..               
+=103  \\$a\19..\\\\\\\\\\\\\\\
 =105  \\$aa$ac$ap
-=106  \\$a1  
+=106  \\$a1\\
 =120  \\$aa
 =200  \|$7ba0yba0y$8fre   $9 0 $aColladant$bDominique
 =300  0\$aMetteur en scène de théâtre et costumier. - Accessoiriste spécialiste des effets spéciaux
@@ -2546,14 +2546,14 @@
 =810  \\$aThe Internet movie databse - http://www.imdb.com (2009-06-24)
 =856  \\$uhttp://www.imdb.com$e2009-06-24
 
-=LDR  06068cx  l2201021   45  
+=LDR  06068cx\\l2201021\\\4500
 =001  FRBNF119310195
 =003  http://catalogue.bnf.fr/ark:/12148/cb119310194
 =005  20220909
 =039  \\$oOPL$a001515786
 =039  \\$oOPL$a010284218
 =039  \\$oOPP$a12398690$d20220909
-=100  \\$a19840426afrey50      ba0
+=100  \\$a19840426afrey50\\\\\\ba0
 =106  \\$a201
 =152  \\$brameau$c2
 =180  \\$aa
@@ -2631,14 +2631,14 @@
 =822  12$aBandes dessinées$2RVMLaval$d2022-05-30
 =856  \\$uhttp://www.universalis-edu.com$e2016-12-22
 
-=LDR  00794cx  a2200217   45  
+=LDR  00794cx\\a2200217\\\4500
 =001  FRBNF147025118
 =003  http://catalogue.bnf.fr/ark:/12148/cb14702511f
 =005  20161115
 =010  \\$a0000000369530387$2ISNI$d20170201
-=100  \\$a20050825afrey50      ba0
+=100  \\$a20050825afrey50\\\\\\ba0
 =102  \\$aMX
-=103  \\$a 19100727  20161112 
+=103  \\$a\19100727\\20161112\
 =106  \\$a010
 =120  \\$aa
 =152  \\$c2
@@ -2649,12 +2649,12 @@
 =810  \\$aIMDB - http://www.imdb.com/name/nm0869830 (2016-11-15)$aVIAF - http://viaf.org/viaf/6932604 (2016-11-15)
 =856  \\$uhttp://www.imdb.com/name/nm0869830/$e2016-11-15$uhttp://viaf.org/viaf/6932604$e2016-11-15
 
-=LDR  01808cx  j2200253   45  
+=LDR  01808cx\\j2200253\\\4500
 =001  FRBNF119600597
 =003  http://catalogue.bnf.fr/ark:/12148/cb11960059r
 =005  20151007
 =039  \\$oOPL$a00189917X
-=100  \\$a19840124afrey50      ba0
+=100  \\$a19840124afrey50\\\\\\ba0
 =106  \\$a211
 =152  \\$brameau$c2
 =250  \\$7ba0yba0y$8fre   $9   $aDécors de ballet
@@ -2670,7 +2670,7 @@
 =810  \\$aMarc Chagall, le ballet, l'opéra : [exposition], Nice, Musée national Message biblique Marc Chagall, 1er juillet-2 octobre 1995$aL'avant-garde russe et la scène, 1910-1930 : une sélection de la collection N. D. Lobanov-Rostovsky / J. E. Bowlt, 1998$aParades : travaux de peintres et de sculpteurs pour la scène : Miquel Barcelo, Kate Blacker, Ross Bleckner... : [exposition], Espace temporaire ORCOFI... Paris... 1er octobre-30 novembre 1991
 =822  1\$aBallet--Stage-setting and scenery$2LCSH$uhttp://id.loc.gov/authorities/subjects/sh85011279$d2017-02-09
 
-=LDR  04613cx  l2200841   45  
+=LDR  04613cx\\l2200841\\\4500
 =001  FRBNF119357647
 =003  http://catalogue.bnf.fr/ark:/12148/cb11935764v
 =005  20220420
@@ -2678,7 +2678,7 @@
 =039  \\$oOPL$a001790501
 =039  \\$oOPP$a11951987$d20210406
 =039  \\$oOPP$a17913309$d20220420
-=100  \\$a19850529afrey50      ba0
+=100  \\$a19850529afrey50\\\\\\ba0
 =106  \\$a201
 =152  \\$brameau$c2
 =180  \\$ab
@@ -2740,24 +2740,24 @@
 =822  16$aBiographie (genre littéraire)$2RVMLaval$d2022-04-20
 =856  \\$uhttp://atilf.atilf.fr$e2021-04-06
 
-=LDR  00932cx  a2200205   45  
+=LDR  00932cx\\a2200205\\\4500
 =001  FRBNF14179539X
 =003  http://catalogue.bnf.fr/ark:/12148/cb14179539x
 =005  20180911
 =010  \\$a0000000001123548$2VIAF$d20130801
-=100  \\$a20030310afrey50      ba0
+=100  \\$a20030310afrey50\\\\\\ba0
 =101  \\$afre
 =102  \\$aFR
-=103  \\$a 19620107           
+=103  \\$a\19620107\\\\\\\\\\\
 =105  \\$aa$ai
-=106  \\$a1  
+=106  \\$a1\\
 =120  \\$aa
 =200  \|$7ba0yba0y$8fre   $9 0 $aGaber$bFloriane$f1962-....
 =300  0\$aTitulaire d'une thèse de lettres modernes (Paris 3, 1998). - Comédienne, journaliste et chercheuse. - A participé à la création du Centre de recherche sur les arts de la rue, Paris
 =801  \\$aFR$bFR-751131015$c20180911
 =810  \\$aLes hêtres rouges [Enregistrement sonore] / Conan Doyle, aut. ; interprété J. M Fonbonne, Ph Lejour, F. Gaber [et al.]. Livraphone LIV225C$aComment ça commença : les arts de la rue dans le contexte des années 70 / Floriane Gaber, impr. 2009
 
-=LDR  00888cx  a2200253   45  
+=LDR  00888cx\\a2200253\\\4500
 =001  FRBNF120524851
 =003  http://catalogue.bnf.fr/ark:/12148/cb120524858
 =005  20171114
@@ -2765,12 +2765,12 @@
 =039  \\$oOPL$a003593958
 =039  \\$oOPP$a15455464$d20121204
 =039  \\$oOPP$a16783442$d20151229
-=100  \\$a19840420afrey50      ba0
+=100  \\$a19840420afrey50\\\\\\ba0
 =101  \\$afre$teng
 =102  \\$aFR
-=103  \\$a 1957               
+=103  \\$a\1957\\\\\\\\\\\\\\\
 =105  \\$aa
-=106  \\$a1  
+=106  \\$a1\\
 =120  \\$aa
 =200  \|$7ba0yba0y$8fre   $9 0 $aChicheportiche$bJosette$f1957-....
 =300  0\$aAuteur d'ouvrages pour la jeunesse, traductrice
@@ -2778,17 +2778,17 @@
 =801  \\$aFR$bFR-751131015$c20171114
 =810  \\$aLes Saisons du cœur / Cynthia  Freeman ; trad. de l'américain par Josette Chicheportiche, 1987$aUn amoureux pour Loulou / Jo Chicheportiche, DL 2017
 
-=LDR  01057cx  a2200265   45  
+=LDR  01057cx\\a2200265\\\4500
 =001  FRBNF162593964
 =003  http://catalogue.bnf.fr/ark:/12148/cb162593967
 =005  20110126
 =010  \\$a0000000109768225$2VIAF$d20130807
-=100  \\$a20110125afrey50      ba0
+=100  \\$a20110125afrey50\\\\\\ba0
 =101  \\$aeng
 =102  \\$aXX
-=103  \\$a 19..               
+=103  \\$a\19..\\\\\\\\\\\\\\\
 =105  \\$aa
-=106  \\$a1  
+=106  \\$a1\\
 =120  \\$ab
 =152  \\$c2
 =200  \|$7ba0yba0y$8fre   $9 0 $aEighteen-Bisang$bRobert
@@ -2800,17 +2800,17 @@
 =815  \\$aBibliothèque et archives Canada : http://amicus.collectionscanada.gc.ca (2011-01-26)
 =856  \\$uhttp://authorities.loc.gov$e2011-01-25$uhttp://www.bl.uk$e2011-01-26
 
-=LDR  01004cx  a2200253   45  
+=LDR  01004cx\\a2200253\\\4500
 =001  FRBNF140915238
 =003  http://catalogue.bnf.fr/ark:/12148/cb14091523v
 =005  20220408
 =010  \\$a0000000021283813$2VIAF$d20130801
-=100  \\$a20030310afrey50      ba0
+=100  \\$a20030310afrey50\\\\\\ba0
 =101  \\$aeng
 =102  \\$aGB
-=103  \\$a 18791202  19581025 
+=103  \\$a\18791202\\19581025\
 =105  \\$aa
-=106  \\$a1  
+=106  \\$a1\\
 =120  \\$ab
 =152  \\$c2
 =200  \|$7ba0yba0y$8fre   $9 0 $aDeane$bHamilton$f1879-1958
@@ -2821,15 +2821,15 @@
 =810  \\$aIMDb - https://www.imdb.com/name/nm0213019/?ref_=fn_al_nm_1 (2011-02-14) (2022-04-08)$aInternet Broadway database - http://www.ibdb.com (2005-05-30)
 =856  \\$uhttps://www.imdb.com/name/nm0213019/?ref_=fn_al_nm_1$e2011-02-14$e2022-04-08$uhttp://www.ibdb.com/$e2005-05-30
 
-=LDR  00913cx  a2200265   45  
+=LDR  00913cx\\a2200265\\\4500
 =001  FRBNF151212091
 =003  http://catalogue.bnf.fr/ark:/12148/cb15121209b
 =005  20110920
 =010  \\$a0000000063141223$2VIAF$d20130805
-=100  \\$a20061214afrey50      ba0
+=100  \\$a20061214afrey50\\\\\\ba0
 =101  \\$ager
 =102  \\$aDE
-=103  \\$a 18790611  19361126 
+=103  \\$a\18790611\\19361126\
 =105  \\$ai
 =106  \\$a010
 =120  \\$ab
@@ -2843,17 +2843,17 @@
 =810  \\$aIMDB - http://www.us.imdb.com/name/nm0775180 (2006-12-14)
 =856  \\$uhttp://www.us.imdb.com/name/nm0775180/$e2006-12-14
 
-=LDR  01223cx  a2200253   45  
+=LDR  01223cx\\a2200253\\\4500
 =001  FRBNF141227718
 =003  http://catalogue.bnf.fr/ark:/12148/cb141227717
 =005  20200914
 =010  \\$a000000000886412X$2ISNI$d20150312
 =039  \\$oOPP$a14208514$d20070904
-=100  \\$a20030310afrey50      ba0
+=100  \\$a20030310afrey50\\\\\\ba0
 =102  \\$aCH
-=103  \\$a 19..               
+=103  \\$a\19..\\\\\\\\\\\\\\\
 =105  \\$aa$ai
-=106  \\$a1  
+=106  \\$a1\\
 =120  \\$ab
 =152  \\$c2
 =200  \|$7ba0yba0y$8fre   $9 0 $aMoravioff$bGaleshka
@@ -2864,18 +2864,18 @@
 =856  \\$uhttp://www.galeshkamoravioff.com/$e2020-02-10
 =856  \\$uhttps://www.imdb.com/name/nm9480033/$e2020-02-10$uhttps://fr.wikipedia.org/wiki/Galeshka_Moravioff$e2020-02-10
 
-=LDR  00911cx  a2200241   45  
+=LDR  00911cx\\a2200241\\\4500
 =001  FRBNF129385520
 =003  http://catalogue.bnf.fr/ark:/12148/cb129385525
 =005  20080130
 =010  \\$a000000011631511X$2VIAF$d20130730
 =039  \\$oOPL$a008659860
-=100  \\$a19930115afrey50      ba0
+=100  \\$a19930115afrey50\\\\\\ba0
 =101  \\$afre
 =102  \\$aFR
-=103  \\$a 19..               
+=103  \\$a\19..\\\\\\\\\\\\\\\
 =105  \\$aa
-=106  \\$a1  
+=106  \\$a1\\
 =120  \\$aa
 =200  \|$7ba0yba0y$8fre   $9 0 $aSadoul$bBarbara
 =300  0\$aAuteur et illustratrice d'ouvarges pour la jeunesse
@@ -2884,16 +2884,16 @@
 =810  \\$aLa charte des auteurs et illustrateurs pour la jeunesse - http://charte.repertoire.free.fr/s/sadoul.html (2008-01-30)
 =856  \\$uhttp://charte.repertoire.free.fr/s/sadoul.html$e2008-01-30
 
-=LDR  00927cx  a2200229   45  
+=LDR  00927cx\\a2200229\\\4500
 =001  FRBNF139556382
 =003  http://catalogue.bnf.fr/ark:/12148/cb13955638q
 =005  20201029
 =010  \\$a0000000114910388$2VIAF$d20130731
-=100  \\$a19930521afrey50      ba0
+=100  \\$a19930521afrey50\\\\\\ba0
 =102  \\$aGB
-=103  \\$a 19621026           
+=103  \\$a\19621026\\\\\\\\\\\
 =105  \\$ai$aa
-=106  \\$a1  
+=106  \\$a1\\
 =120  \\$ab
 =152  \\$c2
 =200  \|$7ba0yba0y$8fre   $9 0 $aElwes$bCary$f1962-....
@@ -2903,17 +2903,17 @@
 =810  \\$aPremière, n ° 178, Janvier 1992$aIMDB - https://www.imdb.com/name/nm0000144 (2020-10-29)$aWikipedia - https://en.wikipedia.org/wiki/Cary_Elwes (2020-10-29)
 =856  \\$uhttps://www.imdb.com/name/nm0000144/$e2020-10-29$uhttps://en.wikipedia.org/wiki/Cary_Elwes$e2020-10-29
 
-=LDR  02298cx  b2200385   45  
+=LDR  02298cx\\b2200385\\\4500
 =001  FRBNF139055026
 =003  http://catalogue.bnf.fr/ark:/12148/cb13905502d
 =005  20110719
 =010  \\$a0000000123236161$2ISNI$d20131217
-=100  \\$a19890601afrey50      ba0
+=100  \\$a19890601afrey50\\\\\\ba0
 =102  \\$aFR
-=103  \\$a 1669               
+=103  \\$a\1669\\\\\\\\\\\\\\\
 =105  \\$aa$ai
 =106  \\$a010
-=150  \\$az$bv8  
+=150  \\$az$bv8\\
 =210  ||$7ba0yba0y$8fre   $920 $aOpéra national de Paris$bOrchestre
 =300  |\$aRésultat de la fusion des orchestres de  l'Opéra et de l'Opéra comique (1972). - Son histoire est la même que celle de l'Académie de musique fondée en 1669
 =303  \\$a120 rue de Lyon, 75576 Paris Cedex 12
@@ -2935,16 +2935,16 @@
 =856  \\$uhttp://www.opera-de-paris.fr$e2003-06-17
 =856  \\$uhttp://authorities.loc.gov$e2005-05-31
 
-=LDR  01030cx  a2200241   45  
+=LDR  01030cx\\a2200241\\\4500
 =001  FRBNF140512109
 =003  http://catalogue.bnf.fr/ark:/12148/cb14051210v
 =005  20201005
 =010  \\$a0000000119321232$2VIAF$d20130801
-=100  \\$a20020329afrey50      ba0
+=100  \\$a20020329afrey50\\\\\\ba0
 =102  \\$aDE
-=103  \\$a 19440223  20011229 
+=103  \\$a\19440223\\20011229\
 =105  \\$aa$ai
-=106  \\$a1  
+=106  \\$a1\\
 =120  \\$ab
 =152  \\$c2
 =200  \|$7ba0yba0y$8fre   $9 0 $aFricke$bFlorian$f1944-2001
@@ -2955,17 +2955,17 @@
 =810  \\$aAMG - http://allmusic.com (2002-03-29)$aDictionnaire du rock / Michka Assayas, 2000$aDiscogs - https://www.discogs.com/fr/artist/211850-Florian-Fricke (2020-10-05)
 =856  \\$uhttp://allmusic.com$e2002-03-29$uhttps://www.discogs.com/fr/artist/211850-Florian-Fricke$e2020-10-05
 
-=LDR  01153cx  a2200253   45  
+=LDR  01153cx\\a2200253\\\4500
 =001  FRBNF168030549
 =003  http://catalogue.bnf.fr/ark:/12148/cb168030541
 =005  20200212
 =010  \\$a0000000368974373$2ISNI$d20161107
-=100  \\$a20140813afrey50      ba0
+=100  \\$a20140813afrey50\\\\\\ba0
 =101  \\$afre
 =102  \\$aFR
-=103  \\$a 19781011           
+=103  \\$a\19781011\\\\\\\\\\\
 =105  \\$aa
-=106  \\$a1  
+=106  \\$a1\\
 =120  \\$ab
 =200  \|$7ba0yba0y$8fre   $9 0 $aSvart$f1978-....
 =300  0\$aIllustrateur, auteur de bandes dessinées. - Pseudonyme de Fabrice Gagos. - Publie aussi sous son patronyme
@@ -2976,15 +2976,15 @@
 =856  \\$uhttp://svart.fr/$e2016-01-26
 =856  \\$uhttp://www.bedetheque.com/biblio-auteur-29812-BD-Gagos-Fabrice.html$e2016-01-26
 
-=LDR  01007nx  a2200205   45  
+=LDR  01007nx\\a2200205\\\4500
 =001  FRBNF17975514X
 =003  http://catalogue.bnf.fr/ark:/12148/cb17975514d
-=100  \\$a20211021afrey50      ba0
+=100  \\$a20211021afrey50\\\\\\ba0
 =101  \\$aeng
 =102  \\$aGB
-=103  \\$a 19220918  20130930 
+=103  \\$a\19220918\\20130930\
 =105  \\$aa
-=106  \\$a1  
+=106  \\$a1\\
 =120  \\$ab
 =152  \\$c2
 =200  \|$7ba0yba0y$8fre   $9 0 $aElder$bJohn$f1922-2013
@@ -2993,14 +2993,14 @@
 =801  \\$aFR$bFR-751131015$c20211021
 =810  \\$aUne messe pour Dracula / Peter Sasdy, réal.  ; John Elder, scénario ; Bram Stoker, id. orig.  ; Arthur Grant, photo ; James Bernard, comp.  ; Christopher Lee (Dracula), Geoffrey Keen (William Hargood), Gwen Watford (Martha Hargood), Linda Hayden (Alice Hargood)... [et al.], act. . - Paris : Warner home video France [éd.] ; Paris : Warner home video France [distrib.], 1985 (DL). - [Image animée : vidéo]
 
-=LDR  00867cx  a2200229   45  
+=LDR  00867cx\\a2200229\\\4500
 =001  FRBNF139319376
 =003  http://catalogue.bnf.fr/ark:/12148/cb13931937t
 =005  20140724
 =010  \\$a0000000121420985$2VIAF$d20130731
-=100  \\$a19901207afrey50      ba0
+=100  \\$a19901207afrey50\\\\\\ba0
 =102  \\$aUS
-=103  \\$a 19531209           
+=103  \\$a\19531209\\\\\\\\\\\
 =105  \\$ai$aa$ap
 =106  \\$a010
 =120  \\$ab
@@ -3012,14 +3012,14 @@
 =810  \\$aIMDb - http://www.imdb.com/name/nm0000518/?ref_=fn_al_nm_1 (2014-07-24)
 =856  \\$uhttp://www.imdb.com/name/nm0000518/?ref_=fn_al_nm_1$e2014-07-24
 
-=LDR  00884cx  a2200229   45  
+=LDR  00884cx\\a2200229\\\4500
 =001  FRBNF139305405
 =003  http://catalogue.bnf.fr/ark:/12148/cb13930540c
 =005  20131112
 =010  \\$a0000000121204334$2VIAF$d20130731
-=100  \\$a19901018afrey50      ba0
+=100  \\$a19901018afrey50\\\\\\ba0
 =102  \\$aUS
-=103  \\$a 19550722           
+=103  \\$a\19550722\\\\\\\\\\\
 =105  \\$ai
 =106  \\$a010
 =120  \\$ab
@@ -3031,16 +3031,16 @@
 =810  \\$aMacmillan international film encyclopedia, 1994$aIMDb - http://www.imdb.com/name/nm0000353/?ref_=fn_al_nm_1 (2013-11-12)
 =856  \\$uhttp://www.imdb.com/name/nm0000353/?ref_=fn_al_nm_1$e2013-11-12
 
-=LDR  00977cx  a2200241   45  
+=LDR  00977cx\\a2200241\\\4500
 =001  FRBNF146547519
 =003  http://catalogue.bnf.fr/ark:/12148/cb14654751k
 =005  20210728
 =010  \\$a0000000364544704$2VIAF$d20130802
 =039  \\$oOPL$a004837187
-=100  \\$a20000505afrey50      ba0
+=100  \\$a20000505afrey50\\\\\\ba0
 =101  \\$afre
 =102  \\$aFR
-=103  \\$a 1963               
+=103  \\$a\1963\\\\\\\\\\\\\\\
 =105  \\$aa$ac$ap$dh$ai
 =106  \\$a010
 =120  \\$ab
@@ -3051,15 +3051,15 @@
 =810  \\$aHolocauste [Spectacle] : fragments / mise en scène de Claude Régy ; scénographie de Daniel Jeanneteau. - Paris : Théâtre national de la colline, 1998$aDenis Schneider : peintures / [postface de Daniel Jeanneteau], 1999
 =810  \\$aRevue d'esthétique, n° 26, 1994
 
-=LDR  00895cx  a2200229   45  
+=LDR  00895cx\\a2200229\\\4500
 =001  FRBNF146862326
 =003  http://catalogue.bnf.fr/ark:/12148/cb146862321
 =005  20210810
 =010  \\$a0000000503355701$2ISNI$d20210818
-=100  \\$a20050825afrey50      ba0
+=100  \\$a20050825afrey50\\\\\\ba0
 =101  \\$ajpn
 =102  \\$aJP
-=103  \\$a 1935               
+=103  \\$a\1935\\\\\\\\\\\\\\\
 =105  \\$aa$ac
 =106  \\$a010
 =120  \\$aa
@@ -3070,18 +3070,18 @@
 =801  \\$aFR$bFR-751131015$c20210810
 =810  \\$aHôtel de l'Homme Sauvage [spectacle] / mise en scène de Stuart Seide ; costumes de Reiko Kurk ... - Paris : Théâtre national de Chaillot, 1985$aLes libellules rouges / Reiko Kruk-Nishioka ; traduit du japonais par Patrick Honnoré ; illustrations de Reiko Kruk, DL 2020
 
-=LDR  01132cx  a2200229   45  
+=LDR  01132cx\\a2200229\\\4500
 =001  FRBNF150550510
 =003  http://catalogue.bnf.fr/ark:/12148/cb150550510
 =005  20140516
 =010  \\$a0000000120279756$2VIAF$d20130805
 =039  \\$oOPP$a14606583$d20060413
-=100  \\$a20060331afrey50      ba0
+=100  \\$a20060331afrey50\\\\\\ba0
 =101  \\$afre
 =102  \\$aXX
-=103  \\$a 19700602           
+=103  \\$a\19700602\\\\\\\\\\\
 =105  \\$aa$ap
-=106  \\$a1  
+=106  \\$a1\\
 =120  \\$ab
 =152  \\$c2
 =200  \|$7ba0yba0y$8fre   $9 0 $aVezyroglou$bDimitri$f1970-....
@@ -3089,16 +3089,16 @@
 =801  \\$aFR$bFR-751131015$c20140516
 =810  \\$aSilence, on tourne ! : Annie Vernay et le cinéma des années 30 : [exposition, Contes, Médiathèque municipale... 2005] / [organisée par les Amis du Musée de Contes et la Bibliothèque municipale de Contes] ; [textes de Dimitri Vezyroglou], [2005]$aLe cinéma en France à la veille du parlant / Dimitri Vezyroglou, impr. 2011
 
-=LDR  01087cx  a2200289   45  
+=LDR  01087cx\\a2200289\\\4500
 =001  FRBNF139397250
 =003  http://catalogue.bnf.fr/ark:/12148/cb139397256
 =005  20140127
 =010  \\$a0000000081543111$2ISNI$d20170818
 =039  \\$oOPL$a000363090
 =039  \\$oOPP$a11886574$d20100414
-=100  \\$a19910626afrey50      ba0
+=100  \\$a19910626afrey50\\\\\\ba0
 =102  \\$aUS
-=103  \\$a 19020922  19881031 
+=103  \\$a\19020922\\19881031\
 =105  \\$aa$ai
 =106  \\$a010
 =120  \\$ab
@@ -3113,18 +3113,18 @@
 =810  \\$aIMDB - http://www.imdb.com/name/nm0002144/?ref_=fn_nm_nm_1 (2014-01-27)
 =856  \\$uhttp://www.imdb.com/name/nm0002144/?ref_=fn_nm_nm_1$e2014-01-27
 
-=LDR  01345cx  a2200265   45  
+=LDR  01345cx\\a2200265\\\4500
 =001  FRBNF126790150
 =003  http://catalogue.bnf.fr/ark:/12148/cb126790154
 =005  20121210
 =010  \\$a0000000081701706$2VIAF$d20130729
 =039  \\$oOPL$a003012456
-=100  \\$a19840101afrey50      ba0
+=100  \\$a19840101afrey50\\\\\\ba0
 =101  \\$aeng
 =102  \\$aCA
-=103  \\$a 19390226           
+=103  \\$a\19390226\\\\\\\\\\\
 =105  \\$aa
-=106  \\$a1  
+=106  \\$a1\\
 =120  \\$aa
 =152  \\$c2
 =200  \|$7ba0yba0y$8fre   $9 0 $aMiller$bElizabeth Russel$f1939-....
@@ -3135,17 +3135,17 @@
 =810  \\$aBibliothèque nationale, Canada - http://amicus.collectionscanada.ca (2005-08-09)$aLCNA : Miller, Elizabeth - http://authorities.loc.gov (2005-08-09)
 =856  \\$uhttp://amicus.collectionscanada.ca$e2005-08-09$uhttp://authorities.loc.gov$e2005-08-09
 
-=LDR  01079cx  a2200241   45  
+=LDR  01079cx\\a2200241\\\4500
 =001  FRBNF150579056
 =003  http://catalogue.bnf.fr/ark:/12148/cb15057905s
 =005  20210316
 =010  \\$a0000000002546542$2ISNI$d20210324
-=100  \\$a20060413afrey50      ba0
+=100  \\$a20060413afrey50\\\\\\ba0
 =101  \\$aita
 =102  \\$aIT
-=103  \\$a 19710730           
+=103  \\$a\19710730\\\\\\\\\\\
 =105  \\$aa
-=106  \\$a1  
+=106  \\$a1\\
 =120  \\$aa
 =152  \\$c2
 =200  \|$7ba0yba0y$8fre   $9 0 $aPalma$bPaola$f1971-....
@@ -3155,18 +3155,18 @@
 =810  \\$aICCU, Istituto centrale per il catalogo unico - http://opac.sbn.it (2006-04-14)$aLCNA - http://authorities.loc.gov (2006-04-13)
 =856  \\$uhttp://opac.sbn.it$e2006-04-14$uhttp://authorities.loc.gov$e2006-04-13
 
-=LDR  01277cx  a2200253   45  
+=LDR  01277cx\\a2200253\\\4500
 =001  FRBNF11913982X
 =003  http://catalogue.bnf.fr/ark:/12148/cb11913982f
 =005  20160118
 =010  \\$a000000010775791X$2VIAF$d20130724
 =039  \\$oOPL$a001066640
-=100  \\$a19760219afrey50      ba0
+=100  \\$a19760219afrey50\\\\\\ba0
 =101  \\$afre
 =102  \\$aFR
-=103  \\$a 19..               
+=103  \\$a\19..\\\\\\\\\\\\\\\
 =105  \\$aa
-=106  \\$a1  
+=106  \\$a1\\
 =120  \\$ab
 =200  \|$7ba0yba0y$8fre   $9 0 $aMaillet$bDominique$f19..-....$ccinéaste
 =300  0\$aCinéaste et journaliste. - Co-fondateur de la revue "Cinématographe". Producteur de courts métrages et documentariste
@@ -3176,16 +3176,16 @@
 =815  \\$aCourrier, 1994-05, Ed. Veyrier (12 rue de Nesle, 75006, Paris) : retour à l'envoyeur, n'habite plus à l'adresse indiquée
 =856  \\$uhttp://www.imdb.com/name/nm0537608$e2014-01-16$uhttp://www.unifrance.org/annuaires/personne/32029/dominique-maillet$e2016-01-18
 
-=LDR  00939cx  a2200229   45  
+=LDR  00939cx\\a2200229\\\4500
 =001  FRBNF14067231X
 =003  http://catalogue.bnf.fr/ark:/12148/cb14067231g
 =005  20220304
 =010  \\$a0000000072457211$2VIAF$d20130801
-=100  \\$a20021004afrey50      ba0
+=100  \\$a20021004afrey50\\\\\\ba0
 =102  \\$aGB
-=103  \\$a 19440918  20220227 
+=103  \\$a\19440918\\20220227\
 =105  \\$ai
-=106  \\$a1  
+=106  \\$a1\\
 =120  \\$aa
 =152  \\$c2
 =200  \|$7ba0yba0y$8fre   $9 0 $aCarlson$bVeronica$f1944-2022
@@ -3195,7 +3195,7 @@
 =810  \\$aIMDb - https://www.imdb.com/name/nm0138040 (2022-03-04)
 =856  \\$uhttps://www.imdb.com/name/nm0138040/$e2022-03-04
 
-=LDR  01400cx  b2200373   45  
+=LDR  01400cx\\b2200373\\\4500
 =001  FRBNF118785787
 =003  http://catalogue.bnf.fr/ark:/12148/cb11878578c
 =005  20040816
@@ -3203,13 +3203,13 @@
 =010  \\$y0000000115811998$2VIAF$d20130724
 =039  \\$oOPL$a01039304X$zAMA
 =039  \\$oOPL$a000263179$zACO
-=100  \\$a19800512afrey50      ba0
+=100  \\$a19800512afrey50\\\\\\ba0
 =101  \\$afre$aeng
 =102  \\$aCA
-=103  \\$a 19361102           
+=103  \\$a\19361102\\\\\\\\\\\
 =105  \\$aa$ca$dh$ce$cd$cs
 =106  \\$a010
-=150  \\$az$bb6  
+=150  \\$az$bb6\\
 =152  \\$c2
 =210  ||$7ba0yba0y$8frefre$920 $aSociété Radio-Canada
 =300  |\$aRadio-télévision canadienne
@@ -3226,16 +3226,16 @@
 =810  \\$aCanadiana 1988
 =856  \\$uhttp://www.radio-canada.ca/$e2004-08-16
 
-=LDR  01006cx  a2200217   45  
+=LDR  01006cx\\a2200217\\\4500
 =001  FRBNF13930210X
 =003  http://catalogue.bnf.fr/ark:/12148/cb13930210m
 =005  20131223
-=100  \\$a19901009afrey50      ba0
+=100  \\$a19901009afrey50\\\\\\ba0
 =101  \\$afre
 =102  \\$aFR
-=103  \\$a 19..               
+=103  \\$a\19..\\\\\\\\\\\\\\\
 =105  \\$aa$ai
-=106  \\$a1  
+=106  \\$a1\\
 =120  \\$ab
 =200  \|$7ba0yba0y$8fre   $9 0 $aVal$bPierre
 =300  0\$aActeur, metteur en scène et adaptateur
@@ -3244,16 +3244,16 @@
 =810  \\$aIMDB - http://www.imdb.com/name/nm0883427 (2013-12-23)$aWikipedia - http://fr.wikipedia.org/wiki/Pierre_Val (2013-12-23)$aÉcole de musique et de danse de Woippy - http://www.woippymusique.fr/t.htm (2013-12-23)
 =856  \\$uhttp://www.imdb.com/name/nm0883427/$e2013-12-23$uhttp://fr.wikipedia.org/wiki/Pierre_Val$e2013-12-23$uhttp://www.woippymusique.fr/t.htm$e2013-12-23
 
-=LDR  01146cx  a2200277   45  
+=LDR  01146cx\\a2200277\\\4500
 =001  FRBNF141176832
 =003  http://catalogue.bnf.fr/ark:/12148/cb14117683z
 =005  20161021
 =010  \\$a0000000116648619$2VIAF$d20130801
 =039  \\$oOPP$a14268859$d20061122
-=100  \\$a20030310afrey50      ba0
+=100  \\$a20030310afrey50\\\\\\ba0
 =101  \\$aeng
 =102  \\$aCA
-=103  \\$a 19560228           
+=103  \\$a\19560228\\\\\\\\\\\
 =105  \\$aa$ap
 =106  \\$a010
 =120  \\$ab
@@ -3267,7 +3267,7 @@
 =810  \\$aIMDb - http://www.imdb.fr/name/nm0534665 (2012-11-09)$aVIAF - https://viaf.org/viaf/68539079/#Maddin,_Guy,_1956-... (2016-10-21)
 =856  \\$uhttp://www.imdb.fr/name/nm0534665/$e2012-11-09$uhttps://viaf.org/viaf/68539079/#Maddin,_Guy,_1956-....$e2016-10-21
 
-=LDR  01040cx  a2200313   45  
+=LDR  01040cx\\a2200313\\\4500
 =001  FRBNF11925586X
 =003  http://catalogue.bnf.fr/ark:/12148/cb11925586d
 =005  20090514
@@ -3276,10 +3276,10 @@
 =039  \\$oOPL$a001384671$zAPP
 =039  \\$oOPP$a14701059$d20090514
 =039  \\$oOPP$a14865697$d20090514
-=100  \\$a19770222afrey50      ba0
+=100  \\$a19770222afrey50\\\\\\ba0
 =101  \\$aeng
 =102  \\$aIE
-=103  \\$a 18471108  19120420 
+=103  \\$a\18471108\\19120420\
 =105  \\$aa
 =106  \\$a010
 =120  \\$ab
@@ -3293,18 +3293,18 @@
 =810  \\$aDNB$aGDEL
 =810  \\$aBN Cat. gén.
 
-=LDR  01329cx  a2200289   45  
+=LDR  01329cx\\a2200289\\\4500
 =001  FRBNF140074970
 =003  http://catalogue.bnf.fr/ark:/12148/cb14007497q
 =005  20220322
 =010  \\$a0000000081422184$2ISNI$d20150312
 =010  \\$y0000000059455609$2VIAF$d20130801
-=100  \\$a19971206afrey50      ba0
+=100  \\$a19971206afrey50\\\\\\ba0
 =101  \\$aeng
 =102  \\$aUS
-=103  \\$a 18891022  19540308 
+=103  \\$a\18891022\\19540308\
 =105  \\$aa
-=106  \\$a1  
+=106  \\$a1\\
 =120  \\$ab
 =152  \\$c2
 =200  \|$7ba0yba0y$8fre   $9 0 $aBalderston$bJohn L.$f1889-1954
@@ -3317,17 +3317,17 @@
 =810  \\$aIMDb - https://www.imdb.com/name/nm0049721/?ref_=fn_al_nm_1 (2005-04-23) (2022-03-22)$aThe MacMillan international film encyclopedia
 =856  \\$uhttps://www.imdb.com/name/nm0049721/?ref_=fn_al_nm_1$e2005-04-23$e2022-03-22
 
-=LDR  01205cx  a2200301   45  
+=LDR  01205cx\\a2200301\\\4500
 =001  FRBNF138951693
 =003  http://catalogue.bnf.fr/ark:/12148/cb138951698
 =005  20160506
 =010  \\$a0000000121210662$2VIAF$d20130731
 =039  \\$oOPL$a010577281
 =039  \\$oOPP$a16366427$d20160506
-=100  \\$a19890601afrey50      ba0
+=100  \\$a19890601afrey50\\\\\\ba0
 =101  \\$aeng
 =102  \\$aUS
-=103  \\$a 19110629  19751224 
+=103  \\$a\19110629\\19751224\
 =105  \\$aa$ai$ap
 =106  \\$a010
 =120  \\$ab
@@ -3342,7 +3342,7 @@
 =810  \\$aLC authorities - http://authorities.loc.gov (2004-11-15)$aGrove 6
 =856  \\$uhttp://authorities.loc.gov/$e2004-11-15
 
-=LDR  02713cx  b2200493   45  
+=LDR  02713cx\\b2200493\\\4500
 =001  FRBNF118656461
 =003  http://catalogue.bnf.fr/ark:/12148/cb118656463
 =005  20180511
@@ -3354,13 +3354,13 @@
 =039  \\$oOPP$a10757431$d20090622
 =039  \\$oOPP$a11361436$d20090622
 =039  \\$oOPP$a11357806$d20090622
-=100  \\$a19840126afrey50      ba0
+=100  \\$a19840126afrey50\\\\\\ba0
 =101  \\$afre
 =102  \\$aFR
-=103  \\$a 18710712           
+=103  \\$a\18710712\\\\\\\\\\\
 =105  \\$aa$ai$ca$dh$ce$da$dr$cp
 =106  \\$a011
-=150  \\$az$bt   
+=150  \\$az$bt\\\
 =210  ||$7ba0yba0y$8fre   $920 $aOpéra national de Paris
 =300  |\$aA pour origine l'Académie royale (impériale, puis nationale) de musique devenue Théâtre national de l'Opéra le 12-07-1871
 =300  |\$aPrincipales étapes et noms correspondants : nationalisé en 1939, l'Opéra de Paris regroupe le Palais Garnier et la Salle Favart ; 07-01-1978) : Théâtre national de l'Opéra de Paris ; 1990 : Opéra de Paris (D. 90-295 du 02-04-1990) ; 1994 : Opéra national de Paris (D. 94-111 du 05-02-1994)
@@ -3383,7 +3383,7 @@
 =810  \\$aJO, 1990-04-04$aJO, 1994-02-09$aBA 2003$aHistoire de l'Opéra de Paris : 1669-1971, portrait de chanteurs,  cop.  1977$aL'Opéra au Palais Garnier : 1875-1962, 1962$aMourre
 =856  \\$uhttps://www.operadeparis.fr$e2018-05-11
 
-=LDR  00831cx  a2200265   45  
+=LDR  00831cx\\a2200265\\\4500
 =001  FRBNF11909778X
 =003  http://catalogue.bnf.fr/ark:/12148/cb11909778w
 =005  20120924
@@ -3391,10 +3391,10 @@
 =039  \\$oOPL$a001768063$zAMA
 =039  \\$oOPL$a000951930$zAPP
 =039  \\$oOPP$a13896009$d20060922
-=100  \\$a19760721afrey50      ba0
+=100  \\$a19760721afrey50\\\\\\ba0
 =101  \\$ager
 =102  \\$aDE
-=103  \\$a 19261018  19911123 
+=103  \\$a\19261018\\19911123\
 =105  \\$aa$ai$ap
 =106  \\$a010
 =120  \\$ab
@@ -3405,14 +3405,14 @@
 =810  \\$aIch brauche Liebe / Klaus Kinski, 1991
 =810  \\$aBoussinot$aMonde, 1991-11-27$aDict. du cinéma / sous la dir. de Jean-Loup Passek, 1995 : Kinski (Nikolaus Günther Nakszynski, dit Klaus)
 
-=LDR  01111cx  a2200217   45  
+=LDR  01111cx\\a2200217\\\4500
 =001  FRBNF158913390
 =003  http://catalogue.bnf.fr/ark:/12148/cb158913396
 =005  20211006
 =010  \\$a0000000078246722$2VIAF$d20130806
-=100  \\$a20081231afrey50      ba0
+=100  \\$a20081231afrey50\\\\\\ba0
 =102  \\$aES
-=103  \\$a 19690429           
+=103  \\$a\19690429\\\\\\\\\\\
 =105  \\$aa$ai$ap$ac
 =106  \\$a010
 =120  \\$ab
@@ -3423,7 +3423,7 @@
 =810  \\$aLes enfants du paradis, ballet en deux actes d'après le scénario de Jacques Prévert, musique [de] Marc-Olivier Dupin, chorégraphie [de] José Martinez..., Ballet de l'Opéra : [programme, Palais Garnier, 21 octobre 2008] / Opéra national de Paris, 2008
 =810  \\$aJosé Martinez : un hidalgo au Palais Garnier / José Martinez [et al.], participant. In : Danseurs étoiles de l'Opéra de Paris [Images animées] / Jean-Marie David, réal. CasaDei productions, [2012]
 
-=LDR  01174cx  a2200349   45  
+=LDR  01174cx\\a2200349\\\4500
 =001  FRBNF138945313
 =003  http://catalogue.bnf.fr/ark:/12148/cb13894531f
 =005  20210611
@@ -3435,10 +3435,10 @@
 =039  \\$oOPP$a14681361$d20060810
 =039  \\$oOPP$a14895606$d20070118
 =039  \\$oOPP$a14989900$d20070611
-=100  \\$a19890601afrey50      ba0
+=100  \\$a19890601afrey50\\\\\\ba0
 =101  \\$aeng
 =102  \\$aUS
-=103  \\$a 19370131           
+=103  \\$a\19370131\\\\\\\\\\\
 =105  \\$aa$ai$ap$dh
 =106  \\$a010
 =120  \\$ab
@@ -3452,16 +3452,16 @@
 =810  \\$aDict. biogr. des musiciens / Baker, Slonimsky, 1995$aGrove 6$aLCNA (CD), 1996-06$aGDEL
 =856  \\$uhttps://philipglass.com/$e2020-10-06
 
-=LDR  01183cx  a2200253   45  
+=LDR  01183cx\\a2200253\\\4500
 =001  FRBNF138942833
 =003  http://catalogue.bnf.fr/ark:/12148/cb13894283v
 =005  20190219
 =010  \\$a0000000115766840$2VIAF$d20130731
 =039  \\$oOPP$a14655432$d20070605
-=100  \\$a19890601afrey50      ba0
+=100  \\$a19890601afrey50\\\\\\ba0
 =101  \\$ager
 =102  \\$aCH
-=103  \\$a 19410322  20190215 
+=103  \\$a\19410322\\20190215\
 =105  \\$ai$ap
 =106  \\$a010
 =120  \\$ab
@@ -3473,7 +3473,7 @@
 =810  \\$aLes ailes du désir [Enregistrement sonore] : bande originale du film / Jüurgen Knieper, comp.  ; Bruno Ganz, Solveig Dammartin, voix ; Nick Cave and the bad Seeds, groupe voc. et instr.,1987
 =810  \\$aBNF-ASP. Bruno Ganz : dossier biographique, 1977$aDureau$aLes gens du cinéma = The people of the movie world / André Siscot, 1998$aLe Figaro [article nécrologique], 2019-02-18$aLe Monde [article nécrologique], 2019-02-19
 
-=LDR  02227cx  a2200493   45  
+=LDR  02227cx\\a2200493\\\4500
 =001  FRBNF119290515
 =003  http://catalogue.bnf.fr/ark:/12148/cb11929051b
 =005  20170306
@@ -3483,10 +3483,10 @@
 =039  \\$oOPP$a14866845$d20060626
 =039  \\$oOPP$a14704528$d20060626
 =039  \\$oOPP$a14942292$d20070326
-=100  \\$a19821006afrey50      ba0
+=100  \\$a19821006afrey50\\\\\\ba0
 =101  \\$aeng
 =102  \\$aUS
-=103  \\$a 19150506  19851010 
+=103  \\$a\19150506\\19851010\
 =105  \\$aa$ai$ap
 =106  \\$a010
 =120  \\$ab
@@ -3514,17 +3514,17 @@
 =810  \\$aLCNA (CD), 1996-06 : Welles, Orson, 1915-$aDict. des cinéastes / G. Sadoul, 1990
 =810  \\$aBN Cat. gén. 1960-1969 : Welles (Orson)
 
-=LDR  00956cx  a2200253   45  
+=LDR  00956cx\\a2200253\\\4500
 =001  FRBNF125848615
 =003  http://catalogue.bnf.fr/ark:/12148/cb12584861b
 =005  20060222
 =010  \\$a0000000121220369$2VIAF$d20130729
 =039  \\$oOPL$a000381793$zAPP
 =039  \\$oOPL$a003891730$zAMA
-=100  \\$a19801014afrey50      ba0
+=100  \\$a19801014afrey50\\\\\\ba0
 =101  \\$afre
 =102  \\$aFR
-=103  \\$a 19550627           
+=103  \\$a\19550627\\\\\\\\\\\
 =105  \\$aa$ai$ap
 =106  \\$a010
 =120  \\$aa
@@ -3535,18 +3535,18 @@
 =810  \\$aComédiennes aujourd'hui / Isabelle Adjani, Isabelle Huppert, Dominique Laffin, Miou Miou, Christine Pascal, Maria Schneider ; au micro et sous le regard de Jean-Luc Doin, 1980
 =810  \\$aBoussinot, 1995$aLes gens du cinéma / André Siscot, 1998
 
-=LDR  01218cx  a2200241   45  
+=LDR  01218cx\\a2200241\\\4500
 =001  FRBNF119027973
 =003  http://catalogue.bnf.fr/ark:/12148/cb11902797g
 =005  20190405
 =010  \\$a0000000120236609$2VIAF$d20130724
 =039  \\$oOPL$a000764603
-=100  \\$a19750205afrey50      ba0
+=100  \\$a19750205afrey50\\\\\\ba0
 =101  \\$afre
 =102  \\$aBE
-=103  \\$a 19440329           
+=103  \\$a\19440329\\\\\\\\\\\
 =105  \\$aa
-=106  \\$a1  
+=106  \\$a1\\
 =120  \\$ab
 =152  \\$c2
 =200  \|$7ba0yba0y$8fre   $9 0 $aFinné$bJacques$f1944-....
@@ -3555,17 +3555,17 @@
 =801  \\$aFR$bFR-751131015$c20190405
 =810  \\$aL'Anneau : roman / Gust Van Brussel ; traduit du néerlandais et postfacé par Jacques Finné, 1975$aLa Femme de marbre : contes fantastiques / Hugh B. Cave ; choisis, trad. de l'américain et présentés par J. Finné, 1988$aOpéra sans musique : introduction à l'art lyrique / Jacques Finné, 1982$aL'étreint de glace et autres histoires surnaturelles écrites par des Victoriennes / choix des textes et postface de Jacques Finné ; traduction de Jacques Finné & Jessica Stabile. - [Paris] : Éditions Corti, 2019.
 
-=LDR  01102cx  a2200277   45  
+=LDR  01102cx\\a2200277\\\4500
 =001  FRBNF122135293
 =003  http://catalogue.bnf.fr/ark:/12148/cb12213529t
 =005  20220307
 =010  \\$a0000000122843808$2VIAF$d20130725
 =039  \\$oOPL$a007799966$zAMA
 =039  \\$oOPL$a007606132$zAPP
-=100  \\$a19910729afrey50      ba0
+=100  \\$a19910729afrey50\\\\\\ba0
 =101  \\$aeng
 =102  \\$aGB
-=103  \\$a 19220527  20150607 
+=103  \\$a\19220527\\20150607\
 =105  \\$aa$ai
 =106  \\$a010
 =120  \\$ab
@@ -3578,7 +3578,7 @@
 =810  \\$aBLNA, 1994-10$aIntern. WW 1986-1987$aIMDb - http://www.imdb.com (2004-10-11)$aLibération, 2010-01-08 [album de rock symphonique Charlemagne]$aWikipédia - fr.wikipedia.org/wiki/Christopher_Lee (2015-06-12)
 =856  \\$uhttp://www.imdb.com/$e2004-10-11$ufr.wikipedia.org/wiki/Christopher_Lee$e2015-06-12
 
-=LDR  01845cx  a2200397   45  
+=LDR  01845cx\\a2200397\\\4500
 =001  FRBNF119074414
 =003  http://catalogue.bnf.fr/ark:/12148/cb119074417
 =005  20220718
@@ -3586,10 +3586,10 @@
 =039  \\$oOPL$a001827152$zAMA
 =039  \\$oOPL$a000890057$zAPP
 =039  \\$oOPP$a14859774$d20061127
-=100  \\$a19790625afrey50      ba0
+=100  \\$a19790625afrey50\\\\\\ba0
 =101  \\$ager
 =102  \\$aDE
-=103  \\$a 19420905           
+=103  \\$a\19420905\\\\\\\\\\\
 =105  \\$aa$ai$ap
 =106  \\$a010
 =120  \\$ab
@@ -3611,7 +3611,7 @@
 =810  \\$aBibliothèque nationale, autorités, Allemagne - https://d-nb.info/gnd/118550276 (2022-07-18)$aBrockhaus 19. Aufl.$aCent cinéastes allemands. In : Histoire du cinéma allemand / Roland Schneider, 1990, p. 199
 =856  \\$uhttps://d-nb.info/gnd/118550276$e2022-07-18
 
-=LDR  01212cx  a2200289   45  
+=LDR  01212cx\\a2200289\\\4500
 =001  FRBNF119006737
 =003  http://catalogue.bnf.fr/ark:/12148/cb11900673q
 =005  20201209
@@ -3620,10 +3620,10 @@
 =039  \\$oOPL$a001897364$zAMA
 =039  \\$oOPP$a14973100$d20090528
 =039  \\$oOPP$a15459933$d20120125
-=100  \\$a19760408afrey50      ba0
+=100  \\$a19760408afrey50\\\\\\ba0
 =101  \\$afre
 =102  \\$aFR
-=103  \\$a 19440628           
+=103  \\$a\19440628\\\\\\\\\\\
 =105  \\$aa$ap$ac
 =106  \\$a010
 =120  \\$ab
@@ -3635,7 +3635,7 @@
 =810  \\$aGail / [texte et dessins de] Druillet, 1984$aLone Sloane / [scénario et dessins de] Philippe Druillet, 1988-
 =810  \\$aDictionnaire de la bande dessinée / Henri Filippini, 1989$aGuide de la bande dessinée / Philippe Bronson, 1986$aPhilippe Druillet, l'enragé de la BD / par Olivier Delcroix, 2017. In : Le Figaro, ISSN 0182-5852; 2017-01-05
 
-=LDR  01523cx  a2200361   45  
+=LDR  01523cx\\a2200361\\\4500
 =001  FRBNF138969595
 =003  http://catalogue.bnf.fr/ark:/12148/cb13896959d
 =005  20070607
@@ -3645,10 +3645,10 @@
 =039  \\$oOPP$a14792847$d20060519
 =039  \\$oOPP$a14911522$d20070109
 =039  \\$oOPP$a14992539$d20070607
-=100  \\$a19890601afrey50      ba0
+=100  \\$a19890601afrey50\\\\\\ba0
 =101  \\$ager
 =102  \\$aAT
-=103  \\$a 18600707  19110518 
+=103  \\$a\18600707\\19110518\
 =105  \\$aa$ai
 =106  \\$a010
 =120  \\$ab
@@ -3665,7 +3665,7 @@
 =810  \\$aGDEL$aLa musique / Roland de Candé, 1989$aGrove 6$aDictionnaire biographique des musiciens / Baker, Slonimsky, 1995
 =810  \\$aBN Cat. gén. suppl.$aBN Cat. gén. 1960-1969
 
-=LDR  01385cx  a2200289   45  
+=LDR  01385cx\\a2200289\\\4500
 =001  FRBNF138935397
 =003  http://catalogue.bnf.fr/ark:/12148/cb13893539z
 =005  20190429
@@ -3673,10 +3673,10 @@
 =039  \\$oOPL$a010262054$zAMA
 =039  \\$oOPL$a007111722$zAPP
 =039  \\$oOPP$a14788483$d20060503
-=100  \\$a19890601afrey50      ba0
+=100  \\$a19890601afrey50\\\\\\ba0
 =101  \\$afre
 =102  \\$aFR
-=103  \\$a 19550529           
+=103  \\$a\19550529\\\\\\\\\\\
 =105  \\$aa$ap
 =106  \\$a010
 =120  \\$ab
@@ -3689,7 +3689,7 @@
 =810  \\$aWW France, 2005-2006$aGrove music online - http://www.grovemusic.com (2006-05-03)$aBrahms : base de documentation sur la musique contemporaine - http://brahms.ircam.fr (2008-03-21)$aPascal Dusapin : [catalogue des oeuvres]. - Salabert, 1997
 =856  \\$uhttp://www.grovemusic.com$e2006-05-03$uhttp://brahms.ircam.fr$e2008-03-21
 
-=LDR  01582cx  a2200349   45  
+=LDR  01582cx\\a2200349\\\4500
 =001  FRBNF123630151
 =003  http://catalogue.bnf.fr/ark:/12148/cb12363015z
 =005  20191207
@@ -3700,10 +3700,10 @@
 =039  \\$oOPP$a15461933$d20110603
 =039  \\$oOPP$a15461932$d20121010
 =039  \\$oOPP$a16812627$d20181116
-=100  \\$a19940120afrey50      ba0
+=100  \\$a19940120afrey50\\\\\\ba0
 =101  \\$afre
 =102  \\$aFR
-=103  \\$a 18840524  19470531 
+=103  \\$a\18840524\\19470531\
 =105  \\$aa
 =106  \\$a010
 =120  \\$ab
@@ -3718,7 +3718,7 @@
 =810  \\$aBénézit, 1976$aLe coin des pseudonymes et autres recherches biographiques / par Patrick Ramseyer. In : Le Rocambole : Bulletin des amis du roman populaire, n° 88-89, automne-hiver  2019 (p. 317)
 =810  \\$aBN Cat. gén.
 
-=LDR  02095cx  a2200433   45  
+=LDR  02095cx\\a2200433\\\4500
 =001  FRBNF121261182
 =003  http://catalogue.bnf.fr/ark:/12148/cb12126118t
 =005  20210917
@@ -3737,10 +3737,10 @@
 =039  \\$oOPP$a13315038$d20090416
 =039  \\$oOPP$a15480026$d20150924
 =039  \\$oOPP$a17346678$d20210917
-=100  \\$a19891002afrey50      ba0
+=100  \\$a19891002afrey50\\\\\\ba0
 =101  \\$afre$teng
 =102  \\$aFR
-=103  \\$a 18860109  19550510 
+=103  \\$a\18860109\\19550510\
 =105  \\$aa
 =106  \\$a010
 =120  \\$aa
@@ -3754,7 +3754,7 @@
 =810  \\$aBN Cat. gén. ; BN Cat. gén. suppl. ; BN Cat. gén. 1960-1969 : Margueritte (Lucie Paul-)
 =815  \\$aQui était qui, XXe siècle / Béatrice et Michel Wattel, 2005. - Laffont-Bompiani, Auteurs. - Van Tieghem
 
-=LDR  02621cx  a2200469   45  
+=LDR  02621cx\\a2200469\\\4500
 =001  FRBNF126302398
 =003  http://catalogue.bnf.fr/ark:/12148/cb12630239p
 =005  20220603
@@ -3773,10 +3773,10 @@
 =039  \\$oOPP$a11288128$d20090416
 =039  \\$oOPP$a11548442$d20090416
 =039  \\$oOPP$a15480025$d20130607
-=100  \\$a19800320afrey50      ba0
+=100  \\$a19800320afrey50\\\\\\ba0
 =101  \\$afre$teng
 =102  \\$aFR
-=103  \\$a 18850205  19710716 
+=103  \\$a\18850205\\19710716\
 =105  \\$aa
 =106  \\$a010
 =120  \\$aa

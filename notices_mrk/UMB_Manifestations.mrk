@@ -1,11 +1,11 @@
-=LDR  01281ngm#a2200277#i#450#
+=LDR  01281ngm\a2200277\i\4500
 =001  UMLRM0003
 =071  41$aDVD103$bRDM vidéo
 =073  \0$a3125127221033
-=100  \\$a20220924d2012####x##y0frey50######ba
+=100  \\$a20220924d2012\\\\x\\y0frey50\\\\\\ba
 =102  \\$aFR
-=115  \\$ac###aaizxuxz###bkxxc
-=181  \0$601$ab$bxa2ea#
+=115  \\$ac\\\aaizxuxz\\\bkxxc
+=181  \0$601$ab$bxa2ea\
 =181  \\$602$ctdi$2rdacontent
 =182  \0$601$ag
 =182  \\$602$cv$2rdamedia
@@ -21,13 +21,13 @@
 =507  1\$3ULRM0002$7ba0yba0y$8freger$aNosferatu, eine Symphonie des Grauens$cfilm$lVersion restaurée$w60mn$o1995$mFrançais
 =801  \0$aFR$bFR-751131015$c20220924$gRDA-FR$hFRBNF42632683000000X
 
-=LDR  00691cam#a2200193#i#450#
+=LDR  00691cam\a2200193\i\4500
 =001  UMLRM0006
 =005  20220908######.D
 =010  \\$a 0-330-32856-5$bBroché$d4,99 £
-=100  \\$a20220908d1992####x##y0frey50######ba
+=100  \\$a20220908d1992\\\\x\\y0frey50\\\\\\ba
 =102  \\$aGB
-=181  \\$ai#$baxxe##
+=181  \\$ai\$baxxe\\
 =182  \\$an
 =183  \\$anga$2RDAfrCarrier
 =200  1\$aDracula$fBram Stoker
@@ -37,14 +37,14 @@
 =577  11$3UMLRM0005$7ba0yba0y$8freeng$aStoker, Bram (1847-1912)$tDracula$mAnglais$nTexte noté
 =801  \0$aFR$bFR-751131015$c20220908$gRDA-FR$hFRBNF358371710000004
 
-=LDR  01925ngm#a2200349#i#450#
+=LDR  01925ngm\a2200349\i\4500
 =001  UMLRM0009
 =071  41$aFG 317 101$bGaumont vidéo
 =073  \0$a3607483171011
-=100  \\$a20100921d2010####x##y0frey50######ba
+=100  \\$a20100921d2010\\\\x\\y0frey50\\\\\\ba
 =102  \\$aFR
-=115  \\$ac###bai########bl##c
-=181  \\$601$ab$bxa2ae#
+=115  \\$ac\\\bai\\\\\\\\bl\\c
+=181  \\$601$ab$bxa2ae\
 =181  \\$602$ctdi$2rda-frcontent
 =182  \\$601$ag
 =182  \\$602$cv$2rda-frmedia
@@ -66,13 +66,13 @@
 =702  \1$3FRBNF119124422$7ba0yba0y$8frefre$oISNI 0000 0001 1032 0540$aLenne$bGérard$f1946-....$4300
 =801  \0$aFR$b751043001$c20220726$gRDA-FR$hFRBNF42274830000000X 
 
-=LDR  00767cam#a2200205#i#450#
+=LDR  00767cam\a2200205\i\4500
 =001  UMLRM0012
 =005  20220927######.D
 =010  \\$a978-2-35030-689-6$bBroché$d19 EUR
-=100  \\$a20210120d2021####x##y0frey50######ba
+=100  \\$a20210120d2021\\\\x\\y0frey50\\\\\\ba
 =102  \\$aFR
-=181  \\$ai#$baxxe##
+=181  \\$ai\$baxxe\\
 =182  \\$an
 =183  \\$anga$2RDAfrCarrier
 =200  1\$a"Nosferatu le vampire"$fPaola Palma, Dimitri Vezyroglou
@@ -83,13 +83,13 @@
 =577  11$3UMLRM0011$7ba0yba0y$8frefre$aPalma, Paola (1971-….)$aVezyroglou, Dimitri (1970-….)$t"Nosferatu le vampire"$mFrançais$nTexte noté
 =801  \0$aFR$bFR-751052119$c20220927$gRDA-FR$hFRBNF466881440000007
 
-=LDR  00825cam#a2200193#i#450#
+=LDR  00825cam\a2200193\i\4500
 =001  UMLRM0015
 =005  20220712######.D
 =010  \\$bBroché
-=100  \\$a20060703d2005####x##y0frey50######ba
+=100  \\$a20060703d2005\\\\x\\y0frey50\\\\\\ba
 =102  \\$aFR
-=181  \\$ai#$baxxe##$ab$bxb2e##
+=181  \\$ai\$baxxe\\$ab$bxb2e\\
 =182  \\$an
 =183  \\$anga$2RDAfrCarrier
 =200  1\$aJean-Claude Gallotta, Nosferatu, ballet de l'Opéra$e[chorégraphie de Jean-Claude Gallotta, musiques de Pascal Dusapin]$e[programme, 6 mai 2006, Opéra national de Paris, Opéra Bastille]$f Opéra national de Paris
@@ -99,11 +99,11 @@
 =577  11$3 UMLRM0015$7ba0yba0y$8frefre$aJean-Claude Gallotta, Nosferatu, ballet de l'Opéra$cprogramme$d2006-05$nTexte noté. Image fixe
 =801  \0$aFR$bFR-751052119$c20220922$gRDA-FR$hFRBNF401910900000001
 
-=LDR  00539nam#a2200169#i#450#
+=LDR  00539nam\a2200169\i\4500
 =001  UMLRM0018
-=100  \\$a20221030d1912####x##y0frey50######ba
+=100  \\$a20221030d1912\\\\x\\y0frey50\\\\\\ba
 =102  \\$aGB
-=181  \\$ai#$baxxe##
+=181  \\$ai\$baxxe\\
 =182  \\$an
 =183  \\$anga$2RDAfrCarrier
 =200  1\$aDracula$fby Bram Stoker
@@ -113,13 +113,13 @@
 =577  11$3UMLRM0005$7ba0yba0y$8freeng$aStoker, Bram (1847-1912)$tDracula$mAnglais$nTexte noté
 =801  \0$aFR$bFR-751131015$c20220908$gRDA-FR$h FRBNF314099010000003 
 
-=LDR  01000cam#a2200253#i#450#
+=LDR  01000cam\a2200253\i\4500
 =001  UMLRM0021
 =005  202207211917SS.D
 =010  \\$a2-290-34949-6$bBroché$d5,30 EUR
-=100  \\$a20220721d2005####x##y0frey50######ba
+=100  \\$a20220721d2005\\\\x\\y0frey50\\\\\\ba
 =102  \\$aFR
-=181  \\$ai#$baxxe##
+=181  \\$ai\$baxxe\\
 =182  \\$an
 =183  \\$anga$2RDAfrCarrier
 =200  1\$a Dracula$f Bram Stoker$g traduit de l'anglais par Lucienne Molitor
@@ -134,14 +134,14 @@
 =577  11$3UMLRM0020$7ba0yba0y$8freeng$aStoker, Bram (1847-1912)$tDracula$mFrançais$wMolitor$nTexte noté
 =801  \0$aFR$bFR-751043001$c20220721$gRDA-FR$hFRBNF400252900000002
 
-=LDR  00884cam#a2200229#i#450#
+=LDR  00884cam\a2200229\i\4500
 =001  UMLRM0024
 =005  20220905######.D
 =010  \\$d5,85 F.
 =021  \\$aFR$bD. L. 16463-63
-=100  \\$a20220826d1963####x##y0frey50######ba
+=100  \\$a20220826d1963\\\\x\\y0frey50\\\\\\ba
 =102  \\$aBE
-=181  \\$ai#$baxxe##
+=181  \\$ai\$baxxe\\
 =182  \\$an
 =183  \\$anga$2RDAfrCarrier
 =200  1\$aDracula$fBram Stoker$gtraduit de l'anglais par Lucienne Molitor$gintroduction de Tony Faivre
@@ -153,12 +153,12 @@
 =577  11$3UMLRM0020$7ba0yba0y$8freeng$aStoker, Bram (1847-1912)$tDracula$mFrançais$wMolitor$nTexte noté
 =801  \0$aFR$bFR-751052119$c20220905$gRDA-FR$hFRBNF33183738000000X
 
-=LDR  01067cam#a2200241#i#450#
+=LDR  01067cam\a2200241\i\4500
 =001  UMLRM0027
 =005  20220905######.D
 =010  \\$a 2-277-23402-8$bBroché$d38 F
-=100  \\$a20220826d1992####xy0frey50######ba
-=181  \\$ai#$baxxe##
+=100  \\$a20220826d1992\\\\xy0frey50\\\\\\ba
+=181  \\$ai\$baxxe\\
 =182  \\$an
 =183  \\$anga$2RDAfrCarrier
 =200  1\$aDracula$fBram Stoker$gtraduit de l'anglais par Lucienne Molitor$g[notice biographique par Barbara Sadoul]
@@ -173,13 +173,13 @@
 =577  11$3UMLRM0020$7ba0yba0y$8freeng$a Stoker, Bram (1847-1912)$tDracula$mFrançais$wMolitor$nTexte noté
 =801  \0$aFR$bFR-751052119$c20220905$gRDA-FR$h FRBNF355462090000004
 
-=LDR  01120cam#a2200253#i#450#
+=LDR  01120cam\a2200253\i\4500
 =001  UMLRM0030
 =005  20220701######.D
 =010  \\$a2-01-013452-4$bBroché$d30,50 FRF
-=100  \\$a19890210d1988####x##y0frey50######ba
+=100  \\$a19890210d1988\\\\x\\y0frey50\\\\\\ba
 =102  \\$aFR
-=181  \\$ai#$baxxe##
+=181  \\$ai\$baxxe\\
 =182  \\$an
 =183  \\$anga$2RDAfrCarrier
 =200  1\$aDracula$eroman$fBram Stoker$gtraduit de l’anglais par Lucienne Molitor$gdossier établi par Jean-Claude Lullien
@@ -194,14 +194,14 @@
 =577  11$3UMLRM0020$7ba0yba0y$8freeng$aStoker, Bram (1847-1912)$tDracula$mFrançais$wMolitor$nTexte noté
 =801  \0$aFR$bFR-751131015$c20220701$gRDA-FR$hFRBNF349969370000004
 
-=LDR  00969cam#a2200229#i#450#
+=LDR  00969cam\a2200229\i\4500
 =001  UMLRM0033
 =005  20221024######.D
 =010  \\$a978-2-210-74066-2$bBroché$d3,95 EUR
 =073  \0$a9782210740662
-=100  \\$a20140716d2014####x##y0frey50######ba
+=100  \\$a20140716d2014\\\\x\\y0frey50\\\\\\ba
 =102  \\$aFR
-=181  \\$ai#$baxxe##
+=181  \\$ai\$baxxe\\
 =182  \\$an
 =183  \\$anga$2RDAfrCarrier
 =200  1\$aDracula$e[extraits choisis]$fBram Stoker$gtraduction de Lucienne Molitor$gchoix des extraits et appareil pédagogique établi par Nadia Bruneel-Ziane,...$glexique établi par Michèle Sendre
@@ -213,12 +213,12 @@
 =577  11$3UMLRM0032$7ba0yba0y$8freeng$aStoker, Bram (1847-1912)$tDracula$cChoix$kBruneel-Ziane$mFrançais$wMolitor$nTexte noté
 =801  \0$aFR$b FR-751131010$c20061201$gRDA-FR$hFRBNF438628000000006
 
-=LDR  00927nam#a2200205#i#450#
+=LDR  00927nam\a2200205\i\4500
 =001  UMLRM0036
 =010  \\$a2-7098-0973-7$bRelié$d69 F
-=100  \\$a20221031d1998####x##y0frey50######ba
+=100  \\$a20221031d1998\\\\x\\y0frey50\\\\\\ba
 =102  \\$aFR
-=181  \\$ai#$baxxe##$ab#$bxb2e##
+=181  \\$ai\$baxxe\\$ab\$bxb2e\\
 =182  \\$an
 =183  \\$anga$2RDAfrCarrier
 =200  1\$aDracula$e[version abrégée]$fd'après Bram Stoker$gillustré par Tudor Humphries$g[traduit par Michèle Jouve]
@@ -230,13 +230,13 @@
 =577  11$3UMLRM0035$7ba0yba0y$8freeng$aHumphries, Tudor (1953-….)$tDracula$mFrançais$nTexte noté. Image fixe
 =801  \0$aFR$bFR-751052119$c20221031$gRDA-FR$hFRBNF367131730000002
 
-=LDR  01089cam#a2200241#i#450#
+=LDR  01089cam\a2200241\i\4500
 =001  UMLRM0039
 =005  20221005######.D
 =010  \\$a2-08-072306-5$bBroché$d4 EUR
-=100  \\$a20061201d2006####x##y0frey50######ba
+=100  \\$a20061201d2006\\\\x\\y0frey50\\\\\\ba
 =102  \\$aFR
-=181  \\$ai#$baxxe##
+=181  \\$ai\$baxxe\\
 =182  \\$an
 =183  \\$anga$2RDAfrCarrier
 =200  1\$aDracula$e[extraits]$fBram Stoker$gtraduction par Jacques Finné$gprésentation, notes, choix des extraits et dossier par Anne Cassou-Noguès et Marie-Aude de Langenhagen,...
@@ -250,13 +250,13 @@
 =577  11$3UMLRM0038$7ba0yba0y$8freeng$aStoker, Bram (1847-1912)$tDracula$cChoix$kCassou-Noguès ; Langenhagen$mFrançais$wFinné$nTexte noté$o2006
 =801  \0$aFR$b FR-751131010$c20061201$gRDA-FR$hFRBNF409497600000000
 
-=LDR  00940nam#a2200241#i#450#
+=LDR  00940nam\a2200241\i\4500
 =001  UMLRM0042
 =010  \\$a978-2-290-05740-7$bBroché$d4,70 EUR
 =073  \0$a9782290057407
-=100  \\$a20220809d2012####x##y0frey50######ba
+=100  \\$a20220809d2012\\\\x\\y0frey50\\\\\\ba
 =102  \\$aFR
-=181  \\$ai#$baxxe##
+=181  \\$ai\$baxxe\\
 =182  \\$an
 =183  \\$anga$2RDAfrCarrier
 =200  1\$a Dracula$etraduction intégrale$fBram Stoker$gtraduit de l'anglais par Jacques Sirgent
@@ -270,14 +270,14 @@
 =577  11$3UMLRM0041$7ba0yba0y$8freeng$aStoker, Bram (1847-1912)$tDracula$mFrançais$wSirgent$nTexte noté
 =801  \0$aFR$bFR-341725402$c20220809$gRDA-FR$hFRBNF42766364000000X
 
-=LDR  00890cam#a2200241#i#450#
+=LDR  00890cam\a2200241\i\4500
 =001  UMLRM0045
 =005  20220919######.D\
 =010  ##978-2-35779-055-1$bBroché$d36€
 =073  \0$a9782357790551
-=100  \\$a20220919d2010####x##y0frey50######ba
+=100  \\$a20220919d2010\\\\x\\y0frey50\\\\\\ba
 =102  \\$aFR
-=181  \\$ai#$baxxe##
+=181  \\$ai\$baxxe\\
 =182  \\$an
 =183  \\$anga$2RDAfrCarrier
 =200  \1$aDracula$fBram Stoker$gtraduit de l'anglais pas Jacques Sirgent
@@ -290,13 +290,13 @@
 =577  11$3UMLRM0041$7ba0yba0y$8freeng$aStoker, Bram (1847-1912)$tDracula$mFrançais$wSirgent$nTexte noté
 =801  \0$aFR$bFR-751131015$c20220919$gRDA-FR$hFRBNF421875830000001
 
-=LDR  01072cam#a2200241#i#450#
+=LDR  01072cam\a2200241\i\4500
 =001  UMLRM0048
 =005  20221005######.D
 =010  \\$a978-2-08-140438-0$bBroché$d4 EUR
-=100  \\$a20170208d2017####x##y0frey50######ba
+=100  \\$a20170208d2017\\\\x\\y0frey50\\\\\\ba
 =102  \\$aFR
-=181  \\$ai#$baxxe##
+=181  \\$ai\$baxxe\\
 =182  \\$an
 =183  \\$anga$2RDAfrCarrier
 =200  1\$aDracula$fBram Stoker$gtraduction de Jacques Finné$gprésentation, notes, choix des extraits, cahier photos et dossier par Anne Cassou-Noguès et Marie-Aude de Langenhagen,...
@@ -310,12 +310,12 @@
 =577  11$3UMLRM0047$7ba0yba0y$8freeng$aStoker, Bram (1847-1912)$tDracula$cChoix$kCassou-Noguès ; Langenhagen$mFrançais$wFinné$nTexte noté$o2017
 =801  \0$aFR$b FR-751131010$c20061201$gRDA-FR$hFRBNF452075420000008
 
-=LDR  00665cam#a2200181#i#450#
+=LDR  00665cam\a2200181\i\4500
 =001  UMLRM0051
 =005  20220930######.D
 =010  \\$a978-2-36394-134-3$bRelié$d11,90 EUR
-=100  \\$a20220930d2013####x##y0frey50######ba 
-=181  \\$ai#$baxxe##
+=100  \\$a20220930d2013\\\\x\\y0frey50\\\\\\ba\
+=181  \\$ai\$baxxe\\
 =182  \\$an
 =183  \\$anga$2RDAfrCarrier
 =200  1\$aDracula$fBram Stoker$gtraduit de l'anglais par Jacques Finné
@@ -325,13 +325,13 @@
 =577  11$3UMLRM0050$7ba0yba0y$8freeng$aStoker, Bram (1847-1912)$tDracula$mFrançais$wFinné$nTexte noté
 =801  \0$aFR$bFR-751052119$c20220930$gRDA-FR$hFRBNF435396370000008
 
-=LDR  00773nam#a2200205#i#450#
+=LDR  00773nam\a2200205\i\4500
 =001  UMLRM0054
 =010  \\$a978-2-01-181029-8$bBroché$d4,95 EUR
 =073  \0$a9782011810298
-=100  \\$a20160112d2015####x##y0frey50######ba
+=100  \\$a20160112d2015\\\\x\\y0frey50\\\\\\ba
 =102  \\$aFR
-=181  \\$ai#$baxxe##
+=181  \\$ai\$baxxe\\
 =182  \\$an
 =183  \\$anga$2RDAfrCarrier
 =200  1\$aDracula$fBram Stoker$gtraduit de l'anglais par Josette Chicheportiche
@@ -342,12 +342,12 @@
 =577  11$3UMLRM0053$7ba0yba0y$8 freeng$aStoker, Bram (1847-1912)$tDracula$lVersion abrégée$wChichportiche$mFrançais$nTexte noté
 =801  \0$aFR$bFR-751131015$c20160112$gRDA-FR$hFRBNF44486284000000X
 
-=LDR  00974cam#a2200217#i#450#
+=LDR  00974cam\a2200217\i\4500
 =001  UMLRM0057
 =005  20221007######.D
-=100  \\$a20221003d1920####x##y0frey50######ba
+=100  \\$a20221003d1920\\\\x\\y0frey50\\\\\\ba
 =102  \\$aFR
-=181  \\$ai#$baxxe##
+=181  \\$ai\$baxxe\\
 =182  \\$an
 =183  \\$anga$2RDAfrCarrier
 =200  1\$aDracula$el’homme de la nuit$fBrahm Stoker$gtraduit de l'anglais par Ève et Lucie Paul-Margueritte
@@ -360,14 +360,14 @@
 =577  11$3UMLRM0056$7ba0yba0y$8freeng$aStoker, Bram (1847-1912)$tDracula$mFrançais$wPaul-Margueritte$nTexte noté
 =801  \0$aFR$bFR-751052119$c20221003$gRDA-FR$hFRBNF314099020000000
 
-=LDR  01067cam#a2200205#i#450#
+=LDR  01067cam\a2200205\i\4500
 =001  UMLRM0060\
 =005  20221007######.D
-=100  \\$a20221003d1932####x##y0frey50######ba 
-=102  \\$aFR 
-=181  \\$ai#$baxxe##$ab#$bxb2e## 
-=182  \\$an 
-=183  \\$anga$2RDAfrCarrier 
+=100  \\$a20221003d1932\\\\x\\y0frey50\\\\\\ba\
+=102  \\$aFR\
+=181  \\$ai\$baxxe\\$ab\$bxb2e\\\
+=182  \\$an\
+=183  \\$anga$2RDAfrCarrier\
 =200  1\$aDracula$el’homme de la nuit$e roman traduit par Ève et Lucie Paul-Margueritte et illustré de nombreuses photographies du film "Dracula"$fBrahm Stoker
 =214  \0$aParis$cÉditions J. Tallandier$d1932
 =215  \\$a1 volume (96 pages – planches non numérotées)$ccouverture illustrée en couleur$d24 cm
@@ -377,11 +377,11 @@
 =577  11$3UMLRM0153$7ba0yba0y$8frefre$a[Photographies extraites du film « Dracula » de Tod Browning]$kTallandier$d1932$nImage fixe
 =801  \0$aFR$bFR-751052119$c20221007$gRDA-FR$hFRBNF314099030000008
 
-=LDR  00725nam#a2200181#i#450#
+=LDR  00725nam\a2200181\i\4500
 =001  UMLRM0063
-=100  \\$a20221003d1946####x##y0frey50######ba
+=100  \\$a20221003d1946\\\\x\\y0frey50\\\\\\ba
 =102  \\$aFR
-=181  \\$ai#$baxxe##
+=181  \\$ai\$baxxe\\
 =182  \\$an
 =183  \\$anga$2RDAfrCarrier
 =200  1\$aDracula$fBram Stoker$gtraduit de l’anglais par Ève et Lucie Paul-Margueritte
@@ -392,13 +392,13 @@
 =577  11$3UMLRM0056$7ba0yba0y$8freeng$aStoker, Bram (1847-1912)$tDracula$mFrançais$wPaul-Margueritte$nTexte noté
 =801  \0$aFR$bFR-751052119$c20221003$gRDA-FR$hFRBNF314099040000005
 
-=LDR  00653cam#a2200193#i#450#
+=LDR  00653cam\a2200193\i\4500
 =001  UMLRM0066
 =005  20220929######.D
 =010  \\$a979-10-208-0506-5$bBroché$d6 EUR
-=100  \\$a20170922d2017####x##y0frey50######ba
+=100  \\$a20170922d2017\\\\x\\y0frey50\\\\\\ba
 =102  \\$aFR
-=181  \\$ai$baxxe##
+=181  \\$ai$baxxe\\
 =182  \\$an
 =183  \\$anga$2RDAfrCarrier
 =200  1\$aDrácula$fBram Stoker
@@ -408,12 +408,12 @@
 =577  11$3UMLRM0065$7ba0yba0y$8freeng$aStoker, Bram (1847-1912)$tDracula$mEspagnol$nTexte noté
 =801  \0$aFR$bFR-751131015$c20220929$gRDA-FR$tFRBNF453541920000005
 
-=LDR  01821nam#a2200229#i#450#
+=LDR  01821nam\a2200229\i\4500
 =001  UMLRM0069
 =010  \\$a978-2-211-30470-2‎$bBroché‎$d5,50 EUR
-=100  \\$a20220819d2015####x##y0frey50######ba
+=100  \\$a20220819d2015\\\\x\\y0frey50\\\\\\ba
 =102  \\$aFR
-=181  \\$ai#$baxxe##
+=181  \\$ai\$baxxe\\
 =182  \\$an
 =183  \\$anga$2RDAfrCarrier
 =200  1\‎$aDracula‎$fBram Stoker‎$gtraduit de l'anglais par Lucienne Molitor‎$gabrégé par Boris Moissard
@@ -427,12 +427,12 @@
 =577  11$3UMLRM0068$7ba0yba0y$8freeng$aStoker, Bram (1847-1912)$tDracula$mFrançais$wMolitor$lVersion abrégée$wMoissard$nTexte noté
 =801  \0$aFR$bFR-751131015$c20220819$gRDA-FR$hFRBNF45795045000000X
 
-=LDR  00659nam#a2200169#i#450#
+=LDR  00659nam\a2200169\i\4500
 =001  UMLRM0072
 =010  \\$a0-297-81331-5$bRelié
-=100  \\$a20050407d1996####x##y0frey50######ba
+=100  \\$a20050407d1996\\\\x\\y0frey50\\\\\\ba
 =102  \\$aGB
-=181  \\$ai#$baxxe##
+=181  \\$ai\$baxxe\\
 =182  \\$an
 =183  \\$anga$2RDAfrCarrier
 =200  1\$aBram Stoker$ea biography of the author of ""Dracula""$fBarbara Belford
@@ -441,14 +441,14 @@
 =577  11$3UMLRM0071$7ba0yba0y$8freeng$aBelford, Barbara$tBram Stoker : a biography of the author of "Dracula"$mAnglais$nTexte noté
 =801  \0$aFR$bFR-751131015$c20220808$gRDA-FR$hFRBNF399495960000008
 
-=LDR  01272cam#a2200277#i#450#
+=LDR  01272cam\a2200277\i\4500
 =001  UMLRM0077
 =005  20221004######.D
 =010  \\$a978-2-266-21954-9$bBroché$d4,70 EUR
 =073  \0$a9782266219549
-=100  \\$a20221004d2011####xy0frey50######ba
+=100  \\$a20221004d2011\\\\xy0frey50\\\\\\ba
 =102  \\$aFR
-=181  \\$ai#$baxxe##
+=181  \\$ai\$baxxe\\
 =182  \\$an
 =183  \\$anga$2RDAfrCarrier
 =200  1\$aDracula$asuivi de L'invité de Dracula$fBram Stoker$gtraduction de Jacques Finné$gprésentation et commentaires de Claude Aziza
@@ -464,14 +464,14 @@
 =702  \1$3FRBNF11889738$7ba0yba0y$8frefre$oISNI 0000 0001 1044 3110$aAziza$bClaude$f1937-....$4340
 =801  \0$aFR$bFR-751052119$c20221030$gRDA-FR$hFRBNF425150460000007
 
-=LDR  01003ngm#a2200253#i#450#
+=LDR  01003ngm\a2200253\i\4500
 =001  UMLRM0080
 =071  41$aSRLP 5041-2$cSony pictures entertainment
 =073  \0$a4988009704159
-=100  \\$a20120710d1993####x##y0frey50######ba
-=102  \\$a US
-=115  \\$ac###baizxux####bgxxb
-=181  \\$601$ab$bxa2ae#
+=100  \\$a20120710d1993\\\\x\\y0frey50\\\\\\ba
+=102  \\$a\US
+=115  \\$ac\\\baizxux\\\\bgxxb
+=181  \\$601$ab$bxa2ae\
 =181  \\$602$ctdi$2rda-frcontent
 =182  \\$601$ag
 =182  \\$602$cv$2rda-frmedia
@@ -485,14 +485,14 @@
 =507  \\$3UMLRM0079$aBram Stoker's Dracula$cfilm$mAnglais 
 =801  \0$aFR$bFR-141186101$c 20220728$gRDA-FR$hFRBNF427059360000001
 
-=LDR  00772cam#a2200181#i#450#
+=LDR  00772cam\a2200181\i\4500
 =001  UMLRM0083
 =005  20220926
 =010  \\$a2-7298-2533-9$bBroché$d21,50 EUR 
-=100  \\$a20220926d2005####x##y0frey50######ba 
-=181  \\$ai3$baxxe## 
-=182  \\$an 
-=183  \\$anga$2RDAfrCarrier 
+=100  \\$a20220926d2005\\\\x\\y0frey50\\\\\\ba\
+=181  \\$ai3$baxxe\\\
+=182  \\$an\
+=183  \\$anga$2RDAfrCarrier\
 =200  1\$a "Dracula"$el'oeuvre de Bram Stoker et le film de Francis F. Coppola$fouvrage dirigé par Gilles Menegaldo et Dominique Sipière 
 =214  \0$aParis$cEllipses 
 =214  \3$a86-Ligugé$cAubin imprimeur$d2005
@@ -500,13 +500,13 @@
 =507  1\$3UMLRM0082$7ba0yba0y$8frefre$a"Dracula" : l'oeuvre de Bram Stoker et le film de Francis F. Coppola$mFrançais-Anglais$nTexte noté
 =801  \0$aFR$bFR-751045101$c20220926$gRDA-FR$hFRBNF400477840000009
 
-=LDR  00994cam#a2200217#i#450#
+=LDR  00994cam\a2200217\i\4500
 =001  UMLRM0086
 =005  20220908
 =010  \\$a978-2-84734-801-9$bBroché$d11 EUR 
-=100  \\$a20220908d2011####x##y0frey50######ba
-=181  \\$ai3$baxxe## 
-=182  \\$an 
+=100  \\$a20220908d2011\\\\x\\y0frey50\\\\\\ba
+=181  \\$ai3$baxxe\\\
+=182  \\$an\
 =183  \\$anga$2RDAfrCarrier
 =200  1\$aDracula$fMatei Cazacu 
 =214  \0$a Paris$cTallandier
@@ -518,15 +518,15 @@
 =577  11$3UMLRM0085$7ba0yba0y$8frefre$aCazacu, Matei (1946-....)$tDracula$mFrançais$nTexte noté
 =801  \0$aFR$bFR-751045101$c20220908$gRDA-FR$hFRBNF424394870000004
 
-=LDR  00911cam#a2200217#i#450#
+=LDR  00911cam\a2200217\i\4500
 =001  UMLRM0089
 =033  \\$ahttp://catalogue.bnf.fr/ark:/12148/cb400892612$2BnF
 =010  \\$bBroché$d24 EUR
 =020  \\$aFR$b00601070
 =073  \0$a9782844783868
-=100  \\$a20051228d2005####x##y0frey50######ba
+=100  \\$a20051228d2005\\\\x\\y0frey50\\\\\\ba
 =102  \\$aFR
-=181  \\$ai$baxxe##
+=181  \\$ai$baxxe\\
 =182  \\$an
 =183  \\$anga$2RDAfrCarrier
 =200  1\$aLe vampire au fil des siècles$eenquête autour d'un mythe$fEstelle Valls de Gomis
@@ -536,15 +536,15 @@
 =577  11$3UMLRM0088$7ba0yba0y$8frefre$aValls de Gomis, Estelle (1973-...)$tLe vampire au fil des siècles : enquête autour d'un mythe$mFrançais$nTexte noté
 =801  \0$aFR$bFR-751131015$c20220809$gRDA-FR$hFRBNF400892610000000
 
-=LDR  01434nlm#a2200313#i#450#
+=LDR  01434nlm\a2200313\i\4500
 =001  UMLRM0092
 =071  61$aNOF854BF-CD$bMindscape
 =073  \0$a5390102464769$bemboîtage
 =073  \0$a5390102464905$bconteneur
-=100  \\$a20220923d2005####x##y0frey50######ba
+=100  \\$a20220923d2005\\\\x\\y0frey50\\\\\\ba
 =102  \\$aFR
 =135  \\$agocga---uuuuu
-=181  \0$601$af$bxxxae#
+=181  \0$601$af$bxxxae\
 =181  \\$602$ccop$2rdaContent
 =182  \0$601$ab
 =182  \\$602$cc$2rdaMedia
@@ -562,13 +562,13 @@
 =507  \\$3UMLRM0091$aNosferatu, the wrath of Malachi$cjeu vidéo$wPC$mFrançais
 =801  \0$aFR$bFR-751043001$c20220923$gRDA-FR$hFRBNF401412210000007
 
-=LDR  01399nlm#a2200301#i#450#
+=LDR  01399nlm\a2200301\i\4500
 =001  UMLRM0095
 =073  \0$a5032921017794 
-=100  \\$a20221104d2003####x##y0frey50######ba
+=100  \\$a20221104d2003\\\\x\\y0frey50\\\\\\ba
 =102  \\$aFR
 =135  \\$agocga---uuuuu
-=181  \0$601$af$bxxxae#
+=181  \0$601$af$bxxxae\
 =181  \\$602$ccop$2rdaContent
 =182  \0$601$ab
 =182  \\$602$cc$2rdaMedia
@@ -587,13 +587,13 @@
 =507  \\$3UMLRM0091$aNosferatu, the wrath of Malachi$cjeu vidéo$wPC$mFrançais
 =801  \0$aFR$bFR-751043001$c20220923$gRDA-FR$hFRBNF412738270000008
 
-=LDR  00690cam0a#200193###450#
+=LDR  00690cam0a\200193\\\4500
 =001  UMLRM0101
 =005  20220908######.D
 =010  \\$a 2-205-03763-3$bRelié$d61 F
-=100  \\$a20220908d1988####x##y0frey50######ba
+=100  \\$a20220908d1988\\\\x\\y0frey50\\\\\\ba
 =102  \\$aFR
-=181  \\$ai#$baxxe##$ab#$bxb2e##
+=181  \\$ai\$baxxe\\$ab\$bxb2e\\
 =182  \\$an
 =183  \\$anga$2RDAfrCarrier
 =200  1\$aNosferatu$e1977-1978$f[texte et dessins de] Druillet
@@ -603,13 +603,13 @@
 =577  11$3UMLRM100$7ba0yba0y$8frefre$aDruillet, Philippe (1944-….)$tNosferatu$mFrançais$nTexte noté. Image fixe
 =801  \0$aFR$bFR-751045101$c20220809$gRDA-FR$hFRBNF350067400000003
 
-=LDR  00682cam0a#200193###450#
+=LDR  00682cam0a\200193\\\4500
 =001  UMLRM0104
 =005  20221018######.D
 =010  \\$a2-226-12635-X$bRelié$d130 F
-=100  \\$a20221018d2001####x##y0frey50######ba
+=100  \\$a20221018d2001\\\\x\\y0frey50\\\\\\ba
 =102  \\$aFR
-=181  \\$ai#$baxxe##$ab#$bxb2e##
+=181  \\$ai\$baxxe\\$ab\$bxb2e\\
 =182  \\$an
 =183  \\$anga$2RDAfrCarrier
 =200  1\$aNosferatu$fDruillet
@@ -619,13 +619,13 @@
 =577  11$3UMLRM100$7ba0yba0y$8frefre$aDruillet, Philippe (1944-….)$tNosferatu$mFrançais$nTexte noté. Image fixe
 =801  \0$aFR$bFR-751045101$c20220118$gRDA-FR$hFRBNF376872460000003
 
-=LDR  01090ngm#a2200241#i#450#
+=LDR  01090ngm\a2200241\i\4500
 =001  UMLRM0107
 =073  \0$a085391106937
-=100  \\$a20220830d1995####x##y0frey50######ba
+=100  \\$a20220830d1995\\\\x\\y0frey50\\\\\\ba
 =102  \\$aUS
-=115  \\$ac###bahoxux####cbxxb
-=181  \\$601$ab$bxa2ae#
+=115  \\$ac\\\bahoxux\\\\cbxxb
+=181  \\$601$ab$bxa2ae\
 =181  \\$602$ctdi$2rda-frcontent
 =182  \\$601$ag
 =182  \\$602$cv$2rda-frmedia
@@ -639,13 +639,13 @@
 =512  02$3FRBNF13890456$7ba0yba0y$8freeng$oISNI0000000121626641$aWarner home video France$4310
 =801  \0$aFR$bFR-341725402$c20220803$gRDA-FR$hFRBNF457811890000008
 
-=LDR  01098nam#a2200241#i#450#
+=LDR  01098nam\a2200241\i\4500
 =001  UMLRM0110
 =033  \\$ahttp://catalogue.bnf.fr/ark:/12148/cb331837399
 =035  \\$aFRBNF331837390000007
-=100  \\$a20220928d1968####x##y0frey50######ba
+=100  \\$a20220928d1968\\\\x\\y0frey50\\\\\\ba
 =102  \\$aFR
-=181  \\$ai#$baxxe##$ab#$bxb2e##
+=181  \\$ai\$baxxe\\$ab\$bxb2e\\
 =182  \\$an
 =183  \\$anga$2RDAfrCarrier
 =200  1\$aDracula$fBram Stoker$gillustrations originales de Philippe Druillet$gIntroduction de Tony Faivre
@@ -659,15 +659,15 @@
 =577  11$3UMLRM0151$7$7ba0yba0y$8frefre$aDruillet, Philippe (1944-....)$tIllustrations pour "Dracula" de Bram Stoker$nImage fixe
 =801  \0$aFR$bFR-751045101$c20220928$gRDA-FR$hFRBNF331837390000007
 
-=LDR  00774cam#a2200217#i#450#
+=LDR  00774cam\a2200217\i\4500
 =001  UMLRM0113
 =005  20220920######.D
 =010  \\$a9780826495372$bBroché
-=100  \\$a20220920d2009####x##y0frey50######ba
+=100  \\$a20220920d2009\\\\x\\y0frey50\\\\\\ba
 =102  \\$aGB
-=181  \\$ai3$baxxe## 
+=181  \\$ai3$baxxe\\\
 =182  \\$an
-=183  \\$anga$2RDAfrCarrier 
+=183  \\$anga$2RDAfrCarrier\
 =200  1\$a Bram Stoker’s Dracula$ea reader’s guide$fWilliam Hughes
 =214  \0$a London$aNew York$cContinuum
 =214  \4$dcopyright 2009
@@ -677,13 +677,13 @@
 =577  11$3UMLRM0112$7ba0yba0y$8freeng$aHughes, William (1964-....)$tBram Stoker’s Dracula : a reader’s guide$mAnglais$nTexte noté
 =801  \0$aFR$bFR-751045101$c20220920$hFRBNF423251010000009
 
-=LDR  00883cam#a2200205#i#450#
+=LDR  00883cam\a2200205\i\4500
 =001  UMLRM0116
 =005  202210171342SS.D
 =010  \\$a 978-2-7499-1109-0$bBroché$d22,95 EUR
-=100  \\$a20221017d2009####x##y0frey50######ba
+=100  \\$a20221017d2009\\\\x\\y0frey50\\\\\\ba
 =102  \\$aFR
-=181  \\$ai#$baxxe##
+=181  \\$ai\$baxxe\\
 =182  \\$an
 =183  \\$anga$2RDAfrCarrier
 =200  1\$aDracula l'immortel$fDacre Stoker et Ian Holt$gtraduit de l'anglais (États-Unis) par Jean-Noël Chatain
@@ -694,15 +694,15 @@
 =577  11$3UMLRM0115$7ba0yba0y$8freeng$aStoker, Dacre$aHolt, Ian (1964-….)$tDracula, the un-dead$mFrançais$nTexte noté
 =801  \0$aFR$bFR-751131015$c20221017$gRDA-FR$h FRBNF421138410000004
 
-=LDR  01369cam0a#200229###450#
+=LDR  01369cam0a\200229\\\4500
 =001  UMLRM0119
 =005  202208301048##.D
 =010  \\$a 978-2-203-03785-4$bRelié$d12,95 EUR
 =073  \0$a9782203037854
-=100  \\$a 20120504d2012####x##y0frey50######ba
-=102  \\$a FR 
-=181  \\$ai#$baxxe##$ab#$bxb2e##
-=182  \\$an 
+=100  \\$a\20120504d2012\\\\x\\y0frey50\\\\\\ba
+=102  \\$a\FR\
+=181  \\$ai\$baxxe\\$ab\$bxb2e\\
+=182  \\$an\
 =183  \\$anga$2RDAfrCarrier
 =200  1\$aDracula l'immortel$h2$fscénario, Michel Dufranne$gdessin, Piotr Kowalski$gcouleurs, Svart$gd'après l'ouvrage de Dacre Stoker et Ian Holt...
 =214  \0$a[Neuilly-sur-Seine]$cMichel Lafon$a [Paris]$cCasterman 
@@ -713,14 +713,14 @@
 =577  11$3UMLRM0118$7ba0yba0y$8frefre$aDufranne, Michel (1970-....)$aKowalski, Piotr (1973-....)$tDracula l’immortel$h2$mFrançais$nTexte noté. Image fixe
 =801  \0$a FR$bFR-751131015$c20120504$gRDA-FR$hFRBNF426598260000003
 
-=LDR  01864ngm#a2200337#i#450#
+=LDR  01864ngm\a2200337\i\4500
 =001  UMLRM0122\
 =071  41$aFG 315 880$bEDV 1504
 =073  \0$a3607483158807
-=100  \\$a20221004d2009####x##y0frey50######ba 
-=102  \\$aFR 
-=115  \\$ac###baizxuxz###bkxxc
-=181  \\$601$ab$bxa2ae#
+=100  \\$a20221004d2009\\\\x\\y0frey50\\\\\\ba\
+=102  \\$aFR\
+=115  \\$ac\\\baizxuxz\\\bkxxc
+=181  \\$601$ab$bxa2ae\
 =181  \\$602$ctdi$2rda-frcontent
 =182  \\$601$ag
 =182  \\$602$cv$2rda-frmedia
@@ -741,15 +741,15 @@
 =712  02$7ba0yba0y$8frefre$aGaumont vidéo$4650
 =801  \0$aFR$bFR-751052119$c20221004$hFRBNF44368309000000X
 
-=LDR  01156cam#a2200229#i#450#
+=LDR  01156cam\a2200229\i\4500
 =001  UMLRM0128
 =005  20220921######.D
 =010  \\$a978-0-7864-3410-7$Relié
-=100  \\$a20220921d2008####x##y0frey50######ba 
-=102  \\$aUS 
-=181  \\$ai#$baxxe## 
-=182  \\$an 
-=183  \\$anga$2RDAfrCarrier 
+=100  \\$a20220921d2008\\\\x\\y0frey50\\\\\\ba\
+=102  \\$aUS\
+=181  \\$ai\$baxxe\\\
+=182  \\$an\
+=183  \\$anga$2RDAfrCarrier\
 =200  1\$aBram Stoker’s notes for “Dracula “$eafacsimile edition$fBram Stoker$gannotated and transcribed by Robert Eighteen-Bisang and Elizabeth Miller$gforeword by Michael Barsanti 
 =214  \0$aJefferson (N.C.)$cMcFarland & Company Inc. Publishers$d2008 
 =215  \\$a1 volume (VII-331 pages)$d26 cm 
@@ -760,14 +760,14 @@
 =577  11$3UMLRM0127$7ba0yba0y$8freeng$aStoker, Bram (1847-1912)$tManuscrits$cChoix$kEighteen-Bisang ; Miller$mAnglais$nTexte noté 
 =801  \0$aFR$bFR-751131015$c20220921$gRDA-FR$hFRBNF421342340000009
 
-=LDR  01131ngm#a2200277#i#450#
+=LDR  01131ngm\a2200277\i\4500
 =001  UMLRM0131
 =071  41$a196 241-3$cBoite$bStudio Canal
 =073  \0$a3259119624134
-=100  \\$a20011009d2001####x##y0frey50######ba
+=100  \\$a20011009d2001\\\\x\\y0frey50\\\\\\ba
 =102  \\$aFR
-=115  \\$ac###cahozuxz###cbxxd
-=181  \0$601$ab$bxa2ea#
+=115  \\$ac\\\cahozuxz\\\cbxxd
+=181  \0$601$ab$bxa2ea\
 =181  \\$602$ctdi$2rda-frcontent
 =182  \0$601$ag
 =182  \\$602$cv$2rda-frmedia
@@ -783,10 +783,10 @@
 =712  02$3FRBNF14033208$aUniversal pictures vidéo France SA$4310
 =801  \0$aFR$bFR-751131015$c20221019$gRDA-FR$hFRBNF38556577000000X
 
-=LDR  00740nam#a2200217#i#450#
+=LDR  00740nam\a2200217\i\4500
 =001  UMLRM0134
 =010  \\$a978-3-936298-54-3$bRelié
-=100  \\$a20110920d2009####x##y0frey50######ba
+=100  \\$a20110920d2009\\\\x\\y0frey50\\\\\\ba
 =101  0\$ager
 =102  \\$aDE
 =181  \0$601$ai$bxxxe$ab$bxb2e
@@ -801,14 +801,14 @@
 =577  11$3ULRM00133$7ba0yba0y$8freger$aEickhoff, Stefan$tMax Schreck : Gespenstertheater$mAllemand$nTexte noté
 =801  \0$aFR$bFR-751131015$c20221110$gRDA-FR$hFRBNF424332410000007
 
-=LDR  01733ngm#a2200337#i#450#
+=LDR  01733ngm\a2200337\i\4500
 =001  UMLRM0137
 =071  41$aED 019D$bED Distribution
 =073  \0$a3341348720715 
-=100  \\$a20221021d2005####x##y0frey50######ba
+=100  \\$a20221021d2005\\\\x\\y0frey50\\\\\\ba
 =102  \\$aFR
-=115  \\$ac###caiz#######bk##c
-=181  \\$601$ab$bxa2ae#
+=115  \\$ac\\\caiz\\\\\\\bk\\c
+=181  \\$601$ab$bxa2ae\
 =181  \\$602$ctdi$2rda-frcontent
 =182  \\$601$ag
 =182  \\$602$cv$2rda-frmedia
@@ -829,11 +829,11 @@
 =712  20$3FRBNF14010888$7ba0yba0y$8frefre$aED Distribution$4650$4310
 =801  \0$aFR$bFR-751131015$c20221021$gRDA-FR$hFRBNF399530650000000
 
-=LDR  00600nkm#a2200157#i#450#
+=LDR  00600nkm\a2200157\i\4500
 =001  UMLRM0140
-=100  \\$a20221025d2001####x##y0frey50######ba
+=100  \\$a20221025d2001\\\\x\\y0frey50\\\\\\ba
 =102  \\$aFR
-=181  \\$ab#$bxb2e##
+=181  \\$ab\$bxb2e\\
 =182  \\$an
 =183  \\$aned$2RDAfrCarrier
 =200  1\$a[Maquette de décor en volume pour "Nosferatu"]$f[Daniel Jeanneteau et Laure Deratte]
@@ -842,14 +842,14 @@
 =577  11$3UMLRM0139$7ba0yba0y$8frefre$aJeanneteau, Daniel (1963-....)$aDeratte, Laure (19..-....)$t[Maquette de décor en volume pour "Nosferatu"]$nImage fixe
 =801  \0$aFR$bFR-751045101$c20220928$gRDA-FR$hFRBNF442290500000007
 
-=LDR  00986nim#a2200253#i#450#
+=LDR  00986nim\a2200253\i\4500
 =001  UMLRM0158
 =071  01$bNonesuch$a7559795842$ccoffret
 =073  \0$a0075597958423
-=100  \\$a20000203d1999####x##y0frey50######ba
+=100  \\$a20000203d1999\\\\x\\y0frey50\\\\\\ba
 =102  \\$aEU
-=126  \\$aagbxhxxd#####cd$bbex
-=181  \\$ad#$bbxxa##
+=126  \\$aagbxhxxd\\\\\cd$bbex
+=181  \\$ad\$bbxxa\\
 =182  \\$aa
 =183  \\$asec$2RDAfrCarrier
 =200  1\$aDracula$fmusic by Philip Glass$gperformed by Kronos quartet
@@ -863,14 +863,14 @@
 =577  11$3UMLRM0157$7ba0yba0y$8fre###$aGlass, Philip (1937-....)$tDracula$nMusique exécutée$wKronos quartet
 =801  \0$aFR$bFR-751131015$c20000203$gRDA-FR$hFRBNF384673640000006
 
-=LDR  01657ngm#a2200277#i#450#
+=LDR  01657ngm\a2200277\i\4500
 =001  UMLRM0160
 =071  41$a830 098-5$bEDV 764
 =073  \0$a5053083009854
-=100  \\$a20140919d2014####x##y0frey50######ba
-=102  \\$a FR
-=115  \\$ac###aaizzuuz###bk##c
-=181  \\$601$ab$bxa2ae#
+=100  \\$a20140919d2014\\\\x\\y0frey50\\\\\\ba
+=102  \\$a\FR
+=115  \\$ac\\\aaizzuuz\\\bk\\c
+=181  \\$601$ab$bxa2ae\
 =181  \\$602$ctdi$2rda-frcontent
 =182  \\$601$ag
 =182  \\$602$cv$2rda-frmedia
@@ -886,14 +886,14 @@
 =577  01$3UMLRM0157$7ba0yba0y$8fre###$a$aGlass, Philip (1937-....)$tDracula$nMusique exécutée$wKronos quartet
 =801  \0$aFR$bFR-751131015$c20140919$gRDA-FR$hFRBNF438976740000002
 
-=LDR  01647ngm#a2200301#i#450#
+=LDR  01647ngm\a2200301\i\4500
 =001  UMLRM0168
 =071  41$aED 020D$bED Distribution$cen coffret
 =073  \0$a3341348720739
-=100  \\$a20221021d2005####x##y0frey50######ba
+=100  \\$a20221021d2005\\\\x\\y0frey50\\\\\\ba
 =102  \\$aFR
-=115  \\$ac###caiz#######bk##c
-=181  \\$601$ab$bxa2ae#
+=115  \\$ac\\\caiz\\\\\\\bk\\c
+=181  \\$601$ab$bxa2ae\
 =181  \\$602$ctdi$2rda-frcontent
 =182  \\$601$ag
 =182  \\$602$cv$2rda-frmedia
@@ -911,11 +911,11 @@
 =712  20$3FRBNF14010888$7ba0yba0y$8frefre$aED Distribution$4650$4310
 =801  \0$aFR$bFR-751131015$c20221021$gRDA-FR$hFRBNF427494470000000
 
-=LDR  00777nkm#a2200181#i#450#
+=LDR  00777nkm\a2200181\i\4500
 =001  UMLRM0171
-=100  \\$a20221024d2003####x##y0frey50######ba
+=100  \\$a20221024d2003\\\\x\\y0frey50\\\\\\ba
 =102  \\$aFR
-=181  \\$ab#$bxb2e##
+=181  \\$ab\$bxb2e\\
 =182  \\$an
 =183  \\$anda$2RDAfrCarrier
 =200  1\$aDracula, pages tirées du journal d’une vierge, un film de Guy Maddin$e[affiche]$f[V. Gauriat]
@@ -926,13 +926,13 @@
 =712  02$3FRBNF13558618$7$7ba0yba0y$8frefre$oISNI 0000 0001 1941 2476$aImprimerie A. Karcher$4610
 =801  \0$aFR$bFR-751045101$c20220928$gRDA-FR$hFRBNF405661520000009
 
-=LDR  01063cam#a2200229#i#450#
+=LDR  01063cam\a2200229\i\4500
 =001  UMLRM0173
 =005  20221005######.D
 =010  \\$a2-08-072188-7$bBroché$d3,90 EUR
-=100  \\$a20040503d2004####x##y0frey50######ba
+=100  \\$a20040503d2004\\\\x\\y0frey50\\\\\\ba
 =102  \\$aFR
-=181  \\$ai#$baxxe##
+=181  \\$ai\$baxxe\\
 =182  \\$an
 =183  \\$anga$2RDAfrCarrier
 =200  1\$aDracula$e[extraits]$fBram Stoker$gtraduction par Jacques Finné$gprésentation, notes, choix des extraits et dossier par Anne Cassou-Noguès et Marie-Aude de Langenhagen,...
@@ -945,14 +945,14 @@
 =577  11$3UMLRM0172$7ba0yba0y$8freeng$aStoker, Bram (1847-1912)$tDracula$cChoix$kCassou-Noguès ; Langenhagen$mFrançais$wFinné$nTexte noté$o2004
 =801  \0$aFR$b FR-751131010$c20061201$gRDA-FR$hFRBNF391694880000006
 
-=LDR  02387ngm#a2200325#i#450#
+=LDR  02387ngm\a2200325\i\4500
 =001  UMLRM0176
 =071  41$aDVD 167$bRDM vidéo$cen coffret
 =073  \0$a3125127221675
-=100  \\$a20221029d2013####x##y0frey50######ba
+=100  \\$a20221029d2013\\\\x\\y0frey50\\\\\\ba
 =102  \\$aFR
-=115  \\$ac###caiz#######bk##c
-=181  \\$601$ab$bxa2ae#
+=115  \\$ac\\\caiz\\\\\\\bk\\c
+=181  \\$601$ab$bxa2ae\
 =181  \\$602$ctdi$2rda-frcontent
 =182  \\$601$ag
 =182  \\$602$cv$2rda-frmedia
@@ -972,12 +972,12 @@
 =712  20$7ba0yba0y$8frefre$aRDM vidéo$4650$4310
 =801  \0$aFR$bFR-751131015$c20221029$gRDA-FR$hFRBNF436064770000000
 
-=LDR  00706nam#a2200193#i#450#
+=LDR  00706nam\a2200193\i\4500
 =001  UMLRM0177
 =010  \\$a0751370703$bRelié$d9.99 £
-=100  \\$a20221031d1997####x##y0frey50######ba
+=100  \\$a20221031d1997\\\\x\\y0frey50\\\\\\ba
 =102  \\$aGB
-=181  \\$ai#$baxxe##$ab#$bxb2e##
+=181  \\$ai\$baxxe\\$ab\$bxb2e\\
 =182  \\$an
 =183  \\$anga$2RDAfrCarrier
 =200  1\$aDracula$fBram Stoker$gillustrated by Tudor Humphries 
@@ -988,13 +988,13 @@
 =577  11$3UMLRM0161$7ba0yba0y$8freeng$aHumphries, Tudor (1953-….)$tDracula$mAnglais$nTexte noté. Image fixe
 =801  \0$aFR$bFR-751052119$c20221031$gRDA-FR
 
-=LDR  01432nam#a2200253#i#450#
+=LDR  01432nam\a2200253\i\4500
 =001  UMLRM0178
 =010  \\$a978-2-01-202687-2$bBroché$d12 EUR
 =073  \0$a9782012026872
-=100  \\$a20221011d2011####x##y0frey50######ba
+=100  \\$a20221011d2011\\\\x\\y0frey50\\\\\\ba
 =102  \\$aFR
-=181  \\$ai#$baxxe##
+=181  \\$ai\$baxxe\\
 =182  \\$an
 =183  \\$anga$2RDAfrCarrier
 =200  1\$aDracula$fBram Stoker$gtraduit de l'anglais par Josette Chicheportiche
@@ -1009,13 +1009,13 @@
 =577  11$3UMLRM0053$7ba0yba0y$8freeng$aStoker, Bram (1847-1912)$tDracula$lVersion abrégée$wChichportiche$mFrançais$nTexte noté
 =801  \0$aFR$bFR-751131015$c20221011$gRDA-FR$hFRBNF425259810000009
 
-=LDR  01172nam#a2200265#i#450#
+=LDR  01172nam\a2200265\i\4500
 =001  UMLRM0179
 =010  \\$978-2-218-96671-2$bBroché$d4,95 EUR
 =073  \0$a9782218966712
-=100  \\$a20221018d2013####x##y0frey50######ba
+=100  \\$a20221018d2013\\\\x\\y0frey50\\\\\\ba
 =102  \\$aFR
-=181  \\$ai#$baxxe##
+=181  \\$ai\$baxxe\\
 =182  \\$an
 =183  \\$anga$2RDAfrCarrier
 =200  1\$aDracula$evers 1897$fBram Stoker$gtraduit de l'anglais par Josette Chicheportiche$gnotes et dossier, Fanny Deschamps[...]
@@ -1031,13 +1031,13 @@
 =702  \1$3FRBNF14623074$7ba0yba0y$8fre###$oISNI000000000323564X$aDeschamps$bFanny$f1977-....$4340
 =801  \0$aFR$bFR-751131015$c20221018$gRDA-FR$h FRBNF437120060000005
 
-=LDR  01109ngm#a2200241#i#450#
+=LDR  01109ngm\a2200241\i\4500
 =001  UMLRM0182
 =071  41$aZFP61069$bWarner home video$cBoîte
-=100  \\$a20221104d1985####x##y0frey50######ba
+=100  \\$a20221104d1985\\\\x\\y0frey50\\\\\\ba
 =102  \\$aFR
-=115  \\$ac###bahoxux####cbxxd
-=181  \\$601$ab$bxa2ae#
+=115  \\$ac\\\bahoxux\\\\cbxxd
+=181  \\$601$ab$bxa2ae\
 =181  \\$602$ctdi$2rda-frcontent
 =182  \\$601$ag
 =182  \\$602$cv$2rda-frmedia
@@ -1051,14 +1051,14 @@
 =712  02$3FRBNF13890456$7ba0yba0y$8freeng$oISNI0000000121626641$aWarner home video France$4310$4650
 =801  \0$aFR$bFR-751131015$c20220803$gRDA-FR$hFRBNF381583240000003
 
-=LDR  01544ngm#a2200325#i#450#
+=LDR  01544ngm\a2200325\i\4500
 =001  UMLRM0185
 =071  41$a1962412$bStudio Canal$cBoite
 =073  \0$a3259119624127
-=100  \\$a20020212d2001####x##y0frey50######ba
+=100  \\$a20020212d2001\\\\x\\y0frey50\\\\\\ba
 =102  \\$aFR
-=115  \\$ac###caizxuxz###bkxxc
-=181  \0$601$ab$bxa2ae#
+=115  \\$ac\\\caizxuxz\\\bkxxc
+=181  \0$601$ab$bxa2ae\
 =181  \\$602$ctdi$2rda-frcontent
 =182  \0$601$ag
 =182  \\$602$cv$2rda-frmedia
@@ -1078,16 +1078,16 @@
 =712  02$3FRBNF13881836$aLions gate productions$4310
 =801  \0$aFR$bFR-751131015$c20221108$gRDA-FR$hFRBNF385708020000005
 
-=LDR  01023ngm#a2200241#i#450#
+=LDR  01023ngm\a2200241\i\4500
 =001  UMLRM0188
 =071  01$aLIV 207M$bLivraphone$cAlbum
 =073  \0$a3358950010004 
-=100  \\$a20221110d2009####x##y0frey50######ba
-=102  \\$aFR 
-=181  \0$601$ah$bxxxa##
-=181  \\$602$cspw$2rda-frcontent 
-=182  \0$601$aa 
-=182  \\$602$cs$2rda-frmedia 
+=100  \\$a20221110d2009\\\\x\\y0frey50\\\\\\ba
+=102  \\$aFR\
+=181  \0$601$ah$bxxxa\\
+=181  \\$602$cspw$2rda-frcontent\
+=182  \0$601$aa\
+=182  \\$602$cs$2rda-frmedia\
 =183  \\$602$asea$2rda-frcarrier
 =200  1\$aDracula$etexte intégral$fBram Stoker$ginterprété par Philippe Hérisson, Pierre Val, Jean-Claude Rey... [et autres] 
 =214  \0$aParis$cLivraphone$d[DL 2009] 
@@ -1098,14 +1098,14 @@
 =716  \\$3FRBNF13876179$aLivraphone
 =801  \0$aFR$bFR-751131015$c20221110$gRDA-FR$hFRBNF414399590000005
 
-=LDR  02143ngm#a2200337#i#450#
+=LDR  02143ngm\a2200337\i\4500
 =001  UMLRM0190
 =071  41$aFG 315 648$bEDV 1504$cEn coffret
 =073  \0$a3607483156483
-=100  \\$a20221110d2015####x##y0frey50######ba
+=100  \\$a20221110d2015\\\\x\\y0frey50\\\\\\ba
 =102  \\$aFR
-=115  \\$ac###baizxuxz###bkxxc
-=181  \\$601$ab$bxa2ae#
+=115  \\$ac\\\baizxuxz\\\bkxxc
+=181  \\$601$ab$bxa2ae\
 =181  \\$602$ctdi$2rda-frcontent
 =182  \\$601$ag
 =182  \\$602$cv$2rda-frmedia
@@ -1126,14 +1126,14 @@
 =712  02$7ba0yba0y$8frefre$aGaumont vidéo$4650
 =801  \0$aFR$bFR-751131015$c20221110$gRDA-FR$hFRBNF443681220000000
 
-=LDR  01103nim#a2200241#i#450#
+=LDR  01103nim\a2200241\i\4500
 =001  UMLRM0193
 =071  41$a7031$bRadio Spirits$cCoffret
 =073  \0$a9781570194283
-=100  \\$a20221114d2001####x##y0frey50######ba
+=100  \\$a20221114d2001\\\\x\\y0frey50\\\\\\ba
 =102  \\$aUS
-=126  \\$aaguxhxx######cd 
-=181  \\$601$ah$bxxxa##$ad$bbxxa##
+=126  \\$aaguxhxx\\\\\\cd\
+=181  \\$601$ah$bxxxa\\$ad$bbxxa\\
 =181  \\$602$cspw$cprm$2rda-frcontent
 =182  \\$601$aa
 =182  \\$602$cs$2rda-frmedia
@@ -1146,12 +1146,12 @@
 =507  0\$3UMLRM0192$7ba0yba0y$8freeng$aDracula$cémission radiophonique$d1938$mAnglais$nParole énoncée. Musique exécutée=712 02$aRadio spirits$cFirme$4650$4665
 =801  \0$aFR$bFR-751131015$c20221114$gRDA-FR$hFRBNF412752010000008
 
-=LDR  00695nam#a2200205#i#450#
+=LDR  00695nam\a2200205\i\4500
 =001  UMLRM0197
 =010  \\$bBroché
-=100  \\$a20221116d1986####x##y0frey50######ba
+=100  \\$a20221116d1986\\\\x\\y0frey50\\\\\\ba
 =102  \\$aCH
-=181  \\$ai#$baxxe##
+=181  \\$ai\$baxxe\\
 =182  \\$an
 =183  \\$anga$2RDAfrCarrier
 =200  1\$aBibliographie de Dracula$fJacques Finné
@@ -1163,12 +1163,12 @@
 =577  11$3UMLRM0196$7ba0yba0y$8frefre$aFinné, Jacques (1944-….)$tBibliographie de Dracula$mFrançais$nTexte noté
 =801  \0$aFR$bFR-751131015$c2022116$gRDA-FR$hFRBNF399923520000009
 
-=LDR  00887nam#a2200205#i#450#
+=LDR  00887nam\a2200205\i\4500
 =001  UMLRM0199
 =010  \\$a978-2-84362-674-6$bBroché
-=100  \\$a20221116d2020####x##y0frey50######ba
+=100  \\$a20221116d2020\\\\x\\y0frey50\\\\\\ba
 =102  \\$aFR
-=181  \\$ai#$baxxe##
+=181  \\$ai\$baxxe\\
 =182  \\$an
 =183  \\$anga$2RDAfrCarrier
 =200  1\$aDictionnaire des littératures vampiriques$fJacques Finné, Jean Marigny$gpréface d'Alain Pozzuoli
