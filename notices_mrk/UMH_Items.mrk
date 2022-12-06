@@ -45,7 +45,7 @@
 =100  \\$a20221024frey01\\\\\\ba0
 =170  \\$aaa\\\\\\\\\
 =171  \\$afb\\\x001
-=252  \\$aBM_CELESTEVILLE$bADULTES$jCOTE_UMLRM1=004$mCV0000000005
+=252  \\$aBM_CELESTEVILLE$bADULTES$jCOTE_UMLRM1004$mCV0000000005
 =801  0\$aFR$bBibliothèque municipale de Célesteville
 
 =LDR  00328na\aa220012110\4500
@@ -105,7 +105,7 @@
 =100  \\$a20221024frey01\\\\\\ba0
 =170  \\$aaa\\\\\\\\\
 =171  \\$afb\\\x001
-=252  \\$aBM_CELESTEVILLE$bJEUNESSE$j COTE_UMLRM1010$mCV0000000011
+=252  \\$aBM_CELESTEVILLE$bJEUNESSE$jCOTE_UMLRM1010$mCV0000000011
 =801  0\$aFR$bBibliothèque municipale de Célesteville
 
 =LDR  00329na\aa220012110\4500
@@ -275,7 +275,7 @@
 =100  \\$a20221024frey01\\\\\\ba0
 =170  \\$aaa\\\\\\\\\
 =171  \\$afb\\\x001
-=252  \\$aBM_CELESTEVILLE$bADULTES$jCOTE_UMLRM1027 $mCV0000000028
+=252  \\$aBM_CELESTEVILLE$bADULTES$jCOTE_UMLRM1027$mCV0000000028
 =801  0\$aFR$bBibliothèque municipale de Célesteville
 
 =LDR  00328na\aa220012110\4500
@@ -295,7 +295,7 @@
 =100  \\$a20221024frey01\\\\\\ba0
 =170  \\$aaa\\\\\\\\\
 =171  \\$afb\\\x001
-=252  \\$aBM_CELESTEVILLE$b MEZZANINE$j COTE_UMLRM1029$mCV0000000030
+=252  \\$aBM_CELESTEVILLE$b MEZZANINE$jCOTE_UMLRM1029$mCV0000000030
 =801  0\$aFR$bBibliothèque municipale de Célesteville
 
 =LDR  00330na\aa220012110\4500
