@@ -361,7 +361,7 @@
 =801  \0$aFR$bFR-751052119$c20221003$gRDA-FR$hFRBNF314099020000000
 
 =LDR  01067cam\a2200205\i\4500
-=001  UMLRM0060\
+=001  UMLRM0060
 =005  20221007######.D
 =100  \\$a20221003d1932\\\\x\\y0frey50\\\\\\ba\
 =102  \\$aFR\
@@ -600,7 +600,7 @@
 =214  \0$aParis$aBruxelles$cDargaud$d1988
 =214  \3$aParis$cImprimerie Publiphotoffset
 =215  \\$a1 volume (63 pages)$d32 cm
-=577  11$3UMLRM100$7ba0yba0y$8frefre$aDruillet, Philippe (1944-….)$tNosferatu$mFrançais$nTexte noté. Image fixe
+=577  11$3UMLRM0100$7ba0yba0y$8frefre$aDruillet, Philippe (1944-….)$tNosferatu$mFrançais$nTexte noté. Image fixe
 =801  \0$aFR$bFR-751045101$c20220809$gRDA-FR$hFRBNF350067400000003
 
 =LDR  00682cam0a\200193\\\4500
@@ -616,7 +616,7 @@
 =214  \0$aParis$cAlbin Michel$d2001
 =214  \3$a37-Tours$g Imprimerie Mame
 =215  \\$a1 volume (non paginé [55] pages)$ccouverture illustrée$d32 cm
-=577  11$3UMLRM100$7ba0yba0y$8frefre$aDruillet, Philippe (1944-….)$tNosferatu$mFrançais$nTexte noté. Image fixe
+=577  11$3UMLRM0100$7ba0yba0y$8frefre$aDruillet, Philippe (1944-….)$tNosferatu$mFrançais$nTexte noté. Image fixe
 =801  \0$aFR$bFR-751045101$c20220118$gRDA-FR$hFRBNF376872460000003
 
 =LDR  01090ngm\a2200241\i\4500
@@ -714,7 +714,7 @@
 =801  \0$a FR$bFR-751131015$c20120504$gRDA-FR$hFRBNF426598260000003
 
 =LDR  01864ngm\a2200337\i\4500
-=001  UMLRM0122\
+=001  UMLRM0122
 =071  41$aFG 315 880$bEDV 1504
 =073  \0$a3607483158807
 =100  \\$a20221004d2009\\\\x\\y0frey50\\\\\\ba\
