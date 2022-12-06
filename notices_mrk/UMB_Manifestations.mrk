@@ -49,12 +49,12 @@
 =182  \\$601$ag
 =182  \\$602$cv$2rda-frmedia
 =183  \\$602$avcc$2rda-frcarrier
-=200  1\$a Nosferatu, fantôme de la nuit$f un film de Werner Herzog$g [musique de Popol Vuh, Florian Fricke]$g Isabelle Adjani, Klaus Kinski, [Bruno Ganz... et autres, acteurs]
+=200  1\$aNosferatu, fantôme de la nuit$f un film de Werner Herzog$g[musique de Popol Vuh, Florian Fricke]$gIsabelle Adjani, Klaus Kinski, [Bruno Ganz... et autres, acteurs]
 =214  \0$a[Neuilly-sur-Seine]$c Gaumont vidéo$d[DL 2010]
 =214  \2$a[Neuilly-sur-Seine]$c Gaumont vidéo
 =215  \\$a1 BD vidéo
-=304  \\$a Notice rédigée d'après la jaquette
-=327  2\$a Contient aussi : "Voyage au pays de l'indicible" de Dominique Maillet (37 min) avec les témoignages de Dominique Colladant, Harald Maury, Anne Demoulin, Serge Moati et Freddy Buache. "Klaus Kinski, la métamorphose" (20 min) par Dominique Colladant et Reiko Kruk. "Histoire de vampire(s)" (11 min) par Gérard Lenne. Bande-annonce
+=304  \\$aNotice rédigée d'après la jaquette
+=327  2\$aContient aussi : "Voyage au pays de l'indicible" de Dominique Maillet (37 min) avec les témoignages de Dominique Colladant, Harald Maury, Anne Demoulin, Serge Moati et Freddy Buache. "Klaus Kinski, la métamorphose" (20 min) par Dominique Colladant et Reiko Kruk. "Histoire de vampire(s)" (11 min) par Gérard Lenne. Bande-annonce
 =371  1\$aInterdit à la location
 =507  1\$3UMLRM0008$7ba0yba0y$8freger$aNosferatu, Phantom der Nacht$cfilm$mfrançais
 =506  0\$aVoyage au pays de l'indicible$cfilm
@@ -75,7 +75,7 @@
 =181  \\$ai\$baxxe\\
 =182  \\$an
 =183  \\$anga$2RDAfrCarrier
-=200  1\$a"Nosferatu le vampire"$fPaola Palma, Dimitri Vezyroglou
+=200  1\$a"Nosferatu le vampire$"fPaola Palma, Dimitri Vezyroglou
 =214  \0$aNeuilly$cAtlande$dDL 2021
 =215  \\$a1 volume (221 pages)$d18 cm
 =225  2\$aClefs concours$iCinéma
@@ -96,7 +96,7 @@
 =214  \0$aParis$cOpéra national de Paris
 =214  \4$dC 2005
 =215  \\$a1 volume (54 pages)$d24 cm
-=577  11$3 UMLRM0015$7ba0yba0y$8frefre$aJean-Claude Gallotta, Nosferatu, ballet de l'Opéra$cprogramme$d2006-05$nTexte noté. Image fixe
+=577  11$3UMLRM0015$7ba0yba0y$8frefre$aJean-Claude Gallotta, Nosferatu, ballet de l'Opéra$cprogramme$d2006-05$nTexte noté. Image fixe
 =801  \0$aFR$bFR-751052119$c20220922$gRDA-FR$hFRBNF401910900000001
 
 =LDR  00539nam\a2200169\i\4500
@@ -122,8 +122,8 @@
 =181  \\$ai\$baxxe\\
 =182  \\$an
 =183  \\$anga$2RDAfrCarrier
-=200  1\$a Dracula$f Bram Stoker$g traduit de l'anglais par Lucienne Molitor
-=214  \0$a Paris$cJ'ai lu
+=200  1\$aDracula$fBram Stoker$gtraduit de l'anglais par Lucienne Molitor
+=214  \0$aParis$cJ'ai lu
 =214  \3$a72-La Flèche$cmprimerie Brodard et Taupin$d2005
 =215  \\$a1 volume (574 pages)$ccouverture illustrée en couleur$d 18 cm
 =225  2\$aJ'ai lu$iFantastique
@@ -259,8 +259,8 @@
 =181  \\$ai\$baxxe\\
 =182  \\$an
 =183  \\$anga$2RDAfrCarrier
-=200  1\$a Dracula$etraduction intégrale$fBram Stoker$gtraduit de l'anglais par Jacques Sirgent
-=214  \0$a Paris$cJ'ai lu
+=200  1\$aDracula$etraduction intégrale$fBram Stoker$gtraduit de l'anglais par Jacques Sirgent
+=214  \0$aParis$cJ'ai lu
 =214  \3$aSlovaquie$d2012
 =215  \\$a1 volume (679 pages)$ccouverture illustrée en couleur$d 18 cm
 =225  2\$aJ'ai lu$iFantastique
@@ -338,8 +338,8 @@
 =205  \\$aTexte abrégé
 =214  \0$aVanves$cle Livre de poche jeunesse$dDL 2015
 =214  \3$aEspagne
-=215  \\$a 1 volume (321 pages)$ccouverture illustrée en couleur$d18 cm
-=577  11$3UMLRM0053$7ba0yba0y$8 freeng$aStoker, Bram (1847-1912)$tDracula$lVersion abrégée$wChichportiche$mFrançais$nTexte noté
+=215  \\$a1 volume (321 pages)$ccouverture illustrée en couleur$d18 cm
+=577  11$3UMLRM0053$7ba0yba0y$8freeng$aStoker, Bram (1847-1912)$tDracula$lVersion abrégée$wChichportiche$mFrançais$nTexte noté
 =801  \0$aFR$bFR-751131015$c20160112$gRDA-FR$hFRBNF44486284000000X
 
 =LDR  00974cam\a2200217\i\4500
@@ -437,7 +437,7 @@
 =183  \\$anga$2RDAfrCarrier
 =200  1\$aBram Stoker$ea biography of the author of ""Dracula""$fBarbara Belford
 =214  \0$aLondon$cWeidenfeld and Nicolson$d1996
-=215  \\$a1 volume(XV-381 pages)$c couverture illustrée$d25 cm
+=215  \\$a1 volume(XV-381 pages)$ccouverture illustrée$d25 cm
 =577  11$3UMLRM0071$7ba0yba0y$8freeng$aBelford, Barbara$tBram Stoker : a biography of the author of "Dracula"$mAnglais$nTexte noté
 =801  \0$aFR$bFR-751131015$c20220808$gRDA-FR$hFRBNF399495960000008
 
@@ -458,7 +458,7 @@
 =225  0\$aPocket$x0244-6405$v4669
 =320  \\$aBibliographie, pages 567-569$aFilmographie, pages 571-573
 =410  \0$0FRBNF34228117$tPresses pocket (Paris)$x0244-6405$v4669
-=423  \0$tNSBL’NSEinvité de Dracula
+=423  \0$tL’invité de Dracula
 =577  11$3UMLRM0050$7ba0yba0y$8freeng$aStoker, Bram (1847-1912)$tDracula$mFrançais$wFinné$nTexte noté
 =577  11$3UMLRM0076$7ba0yba0y$8freeng$aStoker, Bram (1847-1912)$tDracula’s guest$mFrançais$wFinné$nTexte noté
 =702  \1$3FRBNF11889738$7ba0yba0y$8frefre$oISNI 0000 0001 1044 3110$aAziza$bClaude$f1937-....$4340
@@ -480,7 +480,7 @@
 =214  \0$aTokyo$cSony pictures entertainment$d1993
 =214  \4$d1992
 =215  \\$a2 LaserDiscs$c 4/3, NTSC
-=304  \\$a Notice rédigée d'après la jaquette
+=304  \\$aNotice rédigée d'après la jaquette
 =306  \\$aSiège de Sony pictures entertainment : Culver City en Californie
 =507  \\$3UMLRM0079$aBram Stoker's Dracula$cfilm$mAnglais
 =801  \0$aFR$bFR-141186101$c 20220728$gRDA-FR$hFRBNF427059360000001
@@ -493,7 +493,7 @@
 =181  \\$ai3$baxxe\\\
 =182  \\$an\
 =183  \\$anga$2RDAfrCarrier\
-=200  1\$a "Dracula"$el'oeuvre de Bram Stoker et le film de Francis F. Coppola$fouvrage dirigé par Gilles Menegaldo et Dominique Sipière
+=200  1\$a"Dracula"$el'oeuvre de Bram Stoker et le film de Francis F. Coppola$fouvrage dirigé par Gilles Menegaldo et Dominique Sipière
 =214  \0$aParis$cEllipses
 =214  \3$a86-Ligugé$cAubin imprimeur$d2005
 =215  \\$a1 volume (379 pages)$ccouverture illustrée$d24 cm
@@ -509,7 +509,7 @@
 =182  \\$an\
 =183  \\$anga$2RDAfrCarrier
 =200  1\$aDracula$fMatei Cazacu
-=214  \0$a Paris$cTallandier
+=214  \0$aParis$cTallandier
 =214  \3$a61-Lonrai$cNormandie roto impression$d2011
 =215  \\$a1 volume (497 pages)$ccouverture illustrée en couleur$d18 cm
 =225  0\$aTexto$ele goût de l'histoire$x1957-9322
@@ -552,7 +552,7 @@
 =200  1\$aNosferatu$ethe wrath of Malachi$fIdol FX AB, Pan vision
 =214  \0$a[Clichy]$cEidos$aBoulogne-Billancourt$cMindscape$d[2005]
 =214  \4$d2005
-=215  \\$a 1 disque optique numérique (CD-ROM)$d12 cm
+=215  \\$a1 disque optique numérique (CD-ROM)$d12 cm
 =225  2\$aHits collection$x1775-4402
 =230  \\$aJeu multimédia
 =304  \\$aTitre provenant de l'étiquette du support
@@ -590,7 +590,7 @@
 =LDR  00690cam0a\200193\\\4500
 =001  UMLRM0101
 =005  20220908######.D
-=010  \\$a 2-205-03763-3$bRelié$d61 F
+=010  \\$a2-205-03763-3$bRelié$d61 F
 =100  \\$a20220908d1988\\\\x\\y0frey50\\\\\\ba
 =102  \\$aFR
 =181  \\$ai\$baxxe\\$ab\$bxb2e\\
@@ -671,7 +671,7 @@
 =200  1\$a Bram Stoker’s Dracula$ea reader’s guide$fWilliam Hughes
 =214  \0$a London$aNew York$cContinuum
 =214  \4$dcopyright 2009
-=215  \\$a 1 volume (VII-150 pages)$d22 cm
+=215  \\$a1 volume (VII-150 pages)$d22 cm
 =225  2\$aContinuum reader’s guide
 =410  \0$341139828$tContinuum reader’s guide
 =577  11$3UMLRM0112$7ba0yba0y$8freeng$aHughes, William (1964-....)$tBram Stoker’s Dracula : a reader’s guide$mAnglais$nTexte noté
@@ -680,7 +680,7 @@
 =LDR  00883cam\a2200205\i\4500
 =001  UMLRM0116
 =005  202210171342SS.D
-=010  \\$a 978-2-7499-1109-0$bBroché$d22,95 EUR
+=010  \\$a978-2-7499-1109-0$bBroché$d22,95 EUR
 =100  \\$a20221017d2009\\\\x\\y0frey50\\\\\\ba
 =102  \\$aFR
 =181  \\$ai\$baxxe\\
@@ -707,7 +707,7 @@
 =200  1\$aDracula l'immortel$h2$fscénario, Michel Dufranne$gdessin, Piotr Kowalski$gcouleurs, Svart$gd'après l'ouvrage de Dacre Stoker et Ian Holt...
 =214  \0$a[Neuilly-sur-Seine]$cMichel Lafon$a [Paris]$cCasterman
 =214  \3$a85-Luçon$cImprimerie Pollina$d2012
-=215  \\$a 1 volume (48 pages)$ccouverture illustrée en couleur$d32 cm
+=215  \\$a1 volume (48 pages)$ccouverture illustrée en couleur$d32 cm
 =330  \\$a 1912, entre Paris et Londres, des éléments troublants viennent faire remonter à la surface une peur qui semblait avoir été oubliée depuis 25 ans, depuis la destruction du vampire.$2Electre
 =461  \0$tDracula l'immortel$fscénario, Michel Dufranne$gdessin, Piotr Kowalski$gcouleurs, Svart$gd'après l'ouvrage de Dacre Stoker et Ian Holt$c[Neuilly-sur-Seine]$nMichel Lafon$c[Paris]$nCasterman$dimpr. 2012$p3 volumes
 =577  11$3UMLRM0118$7ba0yba0y$8frefre$aDufranne, Michel (1970-....)$aKowalski, Piotr (1973-....)$tDracula l’immortel$h2$mFrançais$nTexte noté. Image fixe
@@ -729,7 +729,7 @@
 =214  \0$aNeuilly-sur-Seine$cGaumont vidéo$d2009
 =214  \2$aBoulogne-Billancourt$cParamount home entertainment
 =215  \\$a1 DVD vidéo$cmonoface double couche, 16/9 compatible 3/4, PAL, Dolby surround 2.0, zone 2
-=304  \\$a Notice rédigée d'après la jaquette
+=304  \\$aNotice rédigée d'après la jaquette
 =306  \\$aCopyright : Borgo Pass productions, 1994$aCopyright : Gaumont vidéo, 2009
 =327  2\$aCommentaires audio de Mel Brooks et de son équipe, version originale sous-titrée$aBande-annonce
 =371  1\$aInterdit à la location
@@ -1042,7 +1042,7 @@
 =182  \\$601$ag
 =182  \\$602$cv$2rda-frmedia
 =183  \\$602$avba$2rda-frcarrier
-=200  1\$a Dracula et les femmes$dDracula has risen from the grave‎$favec Christopher Lee, Rupert Davies$g[réalisation Freddie Francis]$g[scénario de John Elder d’après l’oeuvre de Bram Stoker]$g[musique de James Bernard]$gune production Hammer film$zeng
+=200  1\$aDracula et les femmes$dDracula has risen from the grave‎$favec Christopher Lee, Rupert Davies$g[réalisation Freddie Francis]$g[scénario de John Elder d’après l’oeuvre de Bram Stoker]$g[musique de James Bernard]$gune production Hammer film$zeng
 =214  \0$a[Paris]$cWarner home video France$dDL 1985
 =214  \2$aParis$cWarner home video France
 =215  \\$a1 cassette vidéo$cVHS, SECAM
@@ -1114,7 +1114,7 @@
 =214  \0$a[Neuilly-sur-Seine]$cGaumont vidéo$d[2015]
 =214  \2$aBoulogne-Billancourt$cParamount home entertainment
 =215  \\$a2 DVD vidéo$cmonoface double couche, 16/9 compatible 3/4, PAL, Dolby surround 2.0, toutes zones
-=304  \\$a Notice rédigée d'après la jaquette
+=304  \\$aNotice rédigée d'après la jaquette
 =305  \\$aNouvelle édition sous coffret
 =371  1\$aInterdit à la location
 =451  \1$tSacré Robin des bois$lRobin Hood, men in tights$fun film de Mel Brooks$gCary Elwes, Richard Lewis, Roger Rees... [et autres], [acteurs]$gmusique, Hummie Mann$gsujet, J. David Shapiro et Evan Chandler$gscénario de Mel Brooks et Evan Chandler et J. David Shapiro$gproduit et réalisé par Mel Brooks$cNeuilly-sur-Seine$nGaumont vidéo$d2015$p1 DVD vidéo
