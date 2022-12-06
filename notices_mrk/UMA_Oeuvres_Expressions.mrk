@@ -58,7 +58,7 @@
 =147  \\$aa$ed$ha
 =152  \\$aRDA-FR
 =154  \\$axb
-=232  \\$3ULRM0001$7ba0yba0y$8freger$aNosferatu, eine Symphonie des Grauens$cfilm$lVersion restaurée$w60mn$o1995$mFrançais
+=232  \\$3UMLRM0001$7ba0yba0y$8freger$aNosferatu, eine Symphonie des Grauens$cfilm$lVersion restaurée$w60mn$o1995$mFrançais
 =371  \\$fFilm muet avec intertitres en français$fVersion restaurée, restauration de 1995 : 60 min (24 im./s), musique de Galeshka Moravioff
 =502  \1$3FRBNF14122771$7ba0yba0y$8fre###$oISNI 0000 0000 0886 412X$aMoravioff$bGaleshka$4230
 =532  \\$5xxq$3UMLRM0175$7ba0yba0y$8frefre$aLes grands classiques du cinéma allemand$kRDM vidéo$mAnglais, allemand, français ; sous-titrage en français$nImage animée
@@ -94,7 +94,7 @@
 =531  \\$5xxm$3UMLRM0135$7ba0yba0y$8freeng$aDracula, pages from a virgin's diary$cfilm
 =531  \\$5xxm$3UMLRM0090$7ba0yba0y$8freeng$aNosferatu, the wrath of Malachi$cjeu vidéo
 =531  \\$5xxm$3UMLRM0105$7ba0yba0y$8freeng$aDracula has risen from the grave$cfilm
-=531  \\$5xxm$3UMLRM01XX$7ba0yba0y$8freeng$aDracula$cfilm ; série
+=531  \\$5xxm$3UMLRM0180$7ba0yba0y$8freeng$aDracula$cfilm ; série
 =531  \\$5xxc$pA pour adaptation dans un autre mode de création de [œuvre]$3UMLRM0001$7ba0yba0y$8freger$aNosferatu, eine Symphonie des Grauens$cfilm
 =531  \\$5xxc$pA pour adaptation dans un autre mode de création de [œuvre]$3UMLRM0078$7ba0yba0y$8freeng$aBram Stoker's Dracula$cfilm
 =531  \\$5xxc$pA pour adaptation dans un autre mode de création de [œuvre]$3UMLRM0191$7ba0yba0y$8freeng$aDracula$cémission radiophonique$d1938
@@ -445,7 +445,7 @@
 =154  \\$axb
 =242  \1$3UMLRM0037$7ba0yba0y$8freeng$aStoker, Bram (1847-1912)$tDracula$cChoix$kCassou-Noguès ; Langenhagen$mFrançais$wFinné$nTexte noté$o2006
 =371  \\$fÉdition revue avec ajout d’un glossaire
-=502  \1$311902797$7ba0yba0y$8frefre$oISNI 0000 0001 2023 6609$aFinné$bJacques$f1944-....$4730
+=502  \1$3FRBNF11902797$7ba0yba0y$8frefre$oISNI 0000 0001 2023 6609$aFinné$bJacques$f1944-....$4730
 =542  \1$5xxp$pEst une sélection de [expression]$3UMLRM0050$7ba0yba0y$8freeng$aStoker, Bram (1847-1912)$tDracula$mFrançais$wFinné$nTexte noté
 =640  6\$0Date de première publication$f#2006#####
 =801  \0$aFR$bFR-751131010$c20221005
@@ -483,7 +483,7 @@
 =154  \\$axb
 =242  \1$3UMLRM0037$7ba0yba0y$8freeng$aStoker, Bram (1847-1912)$tDracula$cChoix$kCassou-Noguès ; Langenhagen$mFrançais$wFinné$nTexte noté$o2017
 =371  \\$fÉdition revue$fCahier photographique en couleur
-=502  \1$311902797$7ba0yba0y$8frefre$oISNI0000 0001 2023 6609$aFinné$bJacques$f1944-....$4730
+=502  \1$3FRBNF11902797$7ba0yba0y$8frefre$oISNI0000 0001 2023 6609$aFinné$bJacques$f1944-....$4730
 =542  \1$5xxp$pEst une sélection de [expression]$3UMLRM0050$7ba0yba0y$8freeng$aStoker, Bram (1847-1912)$tDracula$mFrançais$wFinné$nTexte noté
 =640  6\$0Date de première publication$f#2017#####
 =801  \0$aFR$bFR-751131010$c20221005
@@ -829,7 +829,7 @@
 =501  \1$3FRBNF120861936$7ba0yba0y$8fre###$oISNI 0000 0001 08832 117$aCazacu$bMatei$f1946-….$4070
 =600  \0$3FRBNF11948734$7ba0yba0y$8fre###$aVlad$dIII$f1430?-1476?$cprince de Valachie
 =606  \0$3FRBNF11962841$7ba0yba0y$8fre###$aDracula$cpersonnage fictif
-=607  \\$3FRBNF11949103$7ba0yba0y$8frefre$aValachie (Roumanie)$311976234$z15e siècle$2rameau
+=607  \\$3FRBNF11949103$7ba0yba0y$8frefre$aValachie (Roumanie)$3FRBNF11976234$z15e siècle$2rameau
 =608  \\$3FRBNF11935764$aBiographie$2rameau-Genre
 =640  6\$0Date de première publication$f#2011#####
 =676  \\$a949.801 4092$v23
@@ -1185,7 +1185,7 @@
 =810  \\$ahttp://ark.bnf.fr/ark:/12148/cb42659826w
 
 =LDR  04340cx\\a2200589\\\4500
-=001  UMLR0120
+=001  UMLRM0120
 =005  20221004########
 =033  \\$ahttps://www.wikidata.org/wiki/Q1254469$2Wikidata
 =052  \\$a0000-0000-295F-0000-O-0000-0000-2
@@ -1234,7 +1234,7 @@
 =810  \\$aCiné-ressources : catalogue collectif des bibliothèques et archives de cinéma : http://www.cineressources.net (2022-11-10)
 
 =LDR  04852cx\\a2200793\\\4500
-=001  UMLRM0121\
+=001  UMLRM0121
 =005  20221004####.D
 =100  \\$a20221004afrey50\\\\\\ba0\
 =101  1\$afre$ceng$jfre\
