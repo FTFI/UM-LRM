@@ -171,7 +171,7 @@
 =501  \1$3FRBNF11909778$7ba0yba0y$8freger$oISNI 0000 0001 1028 1684$a Kinski$bKlaus$f1926-1991$4005
 =501  \1$3FRBNF12584861$7ba0yba0y$8frefre$oISNI 0000 0001 2122 0369$aAdjani$bIsabelle$f1955-....$4005
 =511  02$3FRBNF13905863$7ba0yba0y$8freger$oISNI 0000 0001 2308 4612$aPopol Vuh$4230
-=531  \\$5xxl$3UMLRMXXXX$tNosferatu : eine Symphonie des Grauens$cfilm
+=531  \\$5xxl$3UMLRM0001$aNosferatu : eine Symphonie des Grauens$cfilm
 =541  \1$5xxl$3UMLRM0004$aStoker$bBram (1847-1912)$tDracula
 =608  \\$3FRBNF11931407$aFilms de vampires$2rameauGenre
 =640  6\$0Date de copyright$f#1978#####
@@ -503,7 +503,7 @@
 =242  \1$3UMLRM0004$7ba0yba0y$8freeng$aStoker, Bram (1847-1912)$tDracula$mFrançais$wFinné$nTexte noté
 =502  \1$3FRBNF11902797$7ba0yba0y$8frefre$oISNI 0000 0001 2023 6609$aFinné$bJacques$f1944-....$4730
 =542  \1$5xxo$pEst une traduction de$3UMLRM0005$7ba0yba0y$8freeng$aStoker, Bram (1847-1912)$tDracula$mAnglais$nTexte noté
-=542  \1$5xxq$pA pour sélection [expression]$3 MLRM0172$7ba0yba0y$8freeng$aStoker, Bram (1847-1912)$tDracula$cChoix$kCassou-Noguès ; Langenhagen$mFrançais$wFinné$nTexte noté$o2004
+=542  \1$5xxq$pA pour sélection [expression]$3UMLRM0172$7ba0yba0y$8freeng$aStoker, Bram (1847-1912)$tDracula$cChoix$kCassou-Noguès ; Langenhagen$mFrançais$wFinné$nTexte noté$o2004
 =542  \1$5xxq$pA pour sélection [expression]$3UMLRM0038$7ba0yba0y$8freeng$aStoker, Bram (1847-1912)$tDracula$cChoix$kCassou-Noguès ; Langenhagen$mFrançais$wFinné$nTexte noté$o2006
 =542  \1$5xxq$pA pour sélection [expression]$3UMLRM0047$7ba0yba0y$8freeng$aStoker, Bram (1847-1912)$tDracula$cChoix$kCassou-Noguès ; Langenhagen$mFrançais$wFinné$nTexte noté$o2017
 =640  6\$0Date de première publication$f#1979#####
@@ -629,7 +629,7 @@
 =154  \\$axa
 =241  \1$3FRBNF13742386$oISNI 0000 0000 8116 1236$aBelford, Barbara$tBram Stoker : a biography of the author of "Dracula$7ba0yba0y$8freeng
 =370  \\$aIllustrations dont des portraits et fac-similés$aBibliographie (5 pages)$aIndex
-=501  \1$3 FRBNF13742386$7ba0yba0y$8fre###$oISNI 0000 0000 8116 1236$aBelford$bBarbara$4070
+=501  \1$3FRBNF13742386$7ba0yba0y$8fre###$oISNI 0000 0000 8116 1236$aBelford$bBarbara$4070
 =600  \1$3FRBNF11925586$7ba0yba0y$8freeng$oISNI 0000 0001 2122 2356$aStoker$bBram$f1847-1912
 =608  \\$3FRBNF11935764$aBiographie$2rameau-Genre
 =640  6\$0Date de première publication$f#1996#####
@@ -1228,8 +1228,8 @@
 =640  6\$0Date de sortie en salle$aFR$f#19960410#
 =640  5\$0Date de tournage$f#19950508#$i#19950726#
 =801  \0$aFR$bFR-751052119$c20221004
-=810  \\$a Dracula, mort et heureux de l'être = Dracula dead and loving it / un film de Mel Brooks ; Leslie Nielsen, Peter MacNicol, Steven Weber... [et autres], [acteurs] ; musique, Hummie Mann ; histoire de Rudy De Luca & Steve Haberman ; scénario de Mel Brooks & Rudy De Luca & Steve Haberman ; produit et réalisé par Mel Brooks. – Neuilly-sur-Seine : Gaumont vidéo [éditeur] ; Boulogne-Billancourt : Paramount home entertainment France [distributeur], 2009. – [Image animée : vidéo]. – Référence commerciale : FG 315 880 (EDV 1504)
-=810  \\$a Wikipedia : https://en.wikipedia.org/wiki/Dracula:_Dead_and_Loving_It (2022-10-04)
+=810  \\$aDracula, mort et heureux de l'être = Dracula dead and loving it / un film de Mel Brooks ; Leslie Nielsen, Peter MacNicol, Steven Weber... [et autres], [acteurs] ; musique, Hummie Mann ; histoire de Rudy De Luca & Steve Haberman ; scénario de Mel Brooks & Rudy De Luca & Steve Haberman ; produit et réalisé par Mel Brooks. – Neuilly-sur-Seine : Gaumont vidéo [éditeur] ; Boulogne-Billancourt : Paramount home entertainment France [distributeur], 2009. – [Image animée : vidéo]. – Référence commerciale : FG 315 880 (EDV 1504)
+=810  \\$aWikipedia : https://en.wikipedia.org/wiki/Dracula:_Dead_and_Loving_It (2022-10-04)
 =810  \\$aIMDB (Internet movie database) : https://www.imdb.com/title/tt0112896/ (2022-11-10)
 =810  \\$aCiné-ressources : catalogue collectif des bibliothèques et archives de cinéma : http://www.cineressources.net (2022-11-10)
 
@@ -1251,7 +1251,7 @@
 =432  \\$7ba0yba0y$8frefre$aDracula, mort et heureux de l’être$cfilm$mFrançais$o2009
 =640  0\$0Date de copyright$f#2009#####
 =801  \0$aFR$bFR-751052119$c20221004
-=810  \\$a Dracula, mort et heureux de l'être = Dracula dead and loving it / un film de Mel Brooks ; Leslie Nielsen, Peter MacNicol, Steven Weber... [et autres], [acteurs] ; musique, Hummie Mann ; histoire de Rudy De Luca & Steve Haberman ; scénario de Mel Brooks & Rudy De Luca & Steve Haberman ; produit et réalisé par Mel Brooks. – Neuilly-sur-Seine : Gaumont vidéo [éditeur] ; Boulogne-Billancourt : Paramount home entertainment France [distributeur], 2009. – [Image animée : vidéo]. – Référence commerciale : FG 315 880 (EDV 1504)
+=810  \\$aDracula, mort et heureux de l'être = Dracula dead and loving it / un film de Mel Brooks ; Leslie Nielsen, Peter MacNicol, Steven Weber... [et autres], [acteurs] ; musique, Hummie Mann ; histoire de Rudy De Luca & Steve Haberman ; scénario de Mel Brooks & Rudy De Luca & Steve Haberman ; produit et réalisé par Mel Brooks. – Neuilly-sur-Seine : Gaumont vidéo [éditeur] ; Boulogne-Billancourt : Paramount home entertainment France [distributeur], 2009. – [Image animée : vidéo]. – Référence commerciale : FG 315 880 (EDV 1504)
 
 =LDR  02432nx\\h2200361\\\4500
 =001  UMLRM0126
@@ -1314,7 +1314,7 @@
 =140  \\$aic$bffho$2BnF-GenreFilm
 =145  0\$ab$bxa2ae\
 =147  0\$ah$ec
-=152  \\$a\RDA-FR
+=152  \\$aRDA-FR
 =154  \\$axa
 =231  \\$7ba0yba0y$8freeng$aShadow of the vampire$cfilm
 =333  \\$aAdultes, tout public
@@ -1853,7 +1853,7 @@
 =531  \\$5xxr$pA pour selection [oeuvre]$3UMLRM0152$7ba0yba0y$8frefre$a[Photographies extraites du film "Dracula" de Tod Browning]$kTallandier$d1932
 =531  \\$5xxc$pA pour remake$3UMLRM0163$7ba0yba0y$8frespa$aDrácula$cfilm$d1931$fespagnol
 =531  \\$5xxc$pA pour parodie$3UMLRM0120$7ba0yba0y$8freeng$aDracula, dead and loving it$cfilm
-=541  \1$5xxa$pEst une adaptation dans un autre mode de création de [œuvre]$3UMLRM155$7ba0yba0y$8fre###$aDeane, Hamilton (1879-1958)$aBalderston, John L. (1889-1954)$tDracula
+=541  \1$5xxa$pEst une adaptation dans un autre mode de création de [œuvre]$3UMLRM0155$7ba0yba0y$8fre###$aDeane, Hamilton (1879-1958)$aBalderston, John L. (1889-1954)$tDracula
 =541  \1$5xxl$3UMLRM0004$7ba0yba0y$8fre###$aStoker$bBram (1847-1912)$tDracula
 =541  \1$5xxf$pA pour complément$3UMLRM0156$7ba0yba0y$8fre###$aGlass, Philip (1937-....)$tDracula
 =608  \\$3FRBNF11980577$aFilms d’horreur$2rameauGenre
@@ -1974,7 +1974,7 @@
 =152  \\$aRDA-FR
 =154  \\$axb
 =242  \1$3UMLRM0034$7ba0yba0y$8freeng$aHumphries, Tudor (1953-….)$tDracula$mAnglais$nTexte noté. Image fixe
-=542  \1$5xxn$pA pour traduction$3 UMLRM0035$7ba0yba0y$8freeng$aHumphries, Tudor (1953-….)$tDracula$mFrançais$nTexte noté. Image fixe
+=542  \1$5xxn$pA pour traduction$3UMLRM0035$7ba0yba0y$8freeng$aHumphries, Tudor (1953-….)$tDracula$mFrançais$nTexte noté. Image fixe
 =640  6\$0Date de première publication$f#1997#####
 =801  \0$aFR$bFR-751052119$c20221031
 =810  \\$aDracula / Bram Stoker ; illustrated by Tudor Humphries. – Abridged edition for young readers. – London : Dorling Kindersley, 1997. – [Texte noté. Image fixe : sans médiation]. – ISBN 0751370703
@@ -2454,7 +2454,7 @@
 =154  \\$axa
 =241  \1$3FRBNF11902797$oISNI 0000 0001 2023 6609$aFinné, Jacques (1944-….)$tBibliographie de Dracula $7ba0yba0y$8frefre
 =300  \\$aNotes bibliographiques
-=501  \1$3 FRBNF11902797$7ba0yba0y$8frefre$oISNI 0000 0001 2023 6609$aFinné$Jacques$f1944-….$4070
+=501  \1$3FRBNF11902797$7ba0yba0y$8frefre$oISNI 0000 0001 2023 6609$aFinné$Jacques$f1944-….$4070
 =600  \0$3FRBNF11962841$7ba0yba0y$8frefre$aDracula$cpersonnage fictif
 =606  \\$3FRBNF11945972$7ba0yba0y$8frefre$aVampires$3FRBNF11996647$aDans la littérature$2rameau
 =606  \\$3FRBNF11936508$7ba0yba0y$8frefre$aLittérature$xThèmes, motifs
