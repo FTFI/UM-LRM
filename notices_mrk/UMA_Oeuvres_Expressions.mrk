@@ -893,7 +893,7 @@
 =145  \\$ab1$bxb2e\\
 =147  \\$ah
 =152  \\$aRDA-FR
-=242  \1$3UMLRM087$7ba0yba0y$8frefre$aValls de Gomis, Estelle (1973-...)$tLe vampire au fil des siècles : enquête autour d'un mythe$mFrançais$nTexte noté
+=242  \1$3UMLRM0087$7ba0yba0y$8frefre$aValls de Gomis, Estelle (1973-...)$tLe vampire au fil des siècles : enquête autour d'un mythe$mFrançais$nTexte noté
 =801  \0$aFR$b FR-751045101$c20220809
 =810  \\$a Le vampire au fil des siècles : enquête autour d'un / Estelle Valls de Gomis. - Coudray-Macouard : Cheminements, DL 2005. – [Texte noté : sans médiation]
 
@@ -940,7 +940,7 @@
 =147  \\$ag$eb
 =152  \\$a\RDA-FR
 =154  \\$axb
-=232  \\$3UMLRM090$7ba0yba0y$8freeng$aNosferatu, the wrath of Malachi$cjeu vidéo$wPC$mFrançais
+=232  \\$3UMLRM0090$7ba0yba0y$8freeng$aNosferatu, the wrath of Malachi$cjeu vidéo$wPC$mFrançais
 =371  \\$fPlateforme : PC$fVersion française
 =640  6\$0Date de première mise à disposition$aFR$f#20030830#
 =801  \0$aFR$bFR-751131015$c20221104
@@ -1072,7 +1072,7 @@
 =154  \\$axa\
 =241  \1$3FRBNF136162418$oISNI 0000 0001 1059 1869$aHughes, William (1964-....)$tBram Stoker’s Dracula : a reader’s guide$7ba0yba0y$8freeng
 =370  \\$aBibliographie (5 pages)$aIndex
-=501  \1$3FRBNF1361624187ba0yba0y$8freeng$oISNI 0000 0001 1059 1869$aHughes$bWilliam$f1964-….$4070
+=501  \1$3FRBNF1361624187$7ba0yba0y$8freeng$oISNI 0000 0001 1059 1869$aHughes$bWilliam$f1964-….$4070
 =541  \1$5xxr$pEst une étude de [œuvre]$3UMLRM0004$7ba0yba0y$8freeng$aStoker, Bram (1847-1912)$tDracula
 =640  6\$0Date de première publication$f#2009#####
 =676  \\$a823$v23
@@ -1716,7 +1716,7 @@
 =145  0\$ad$bbxxae
 =152  \\$aRDA-FR
 =154  \\$axb
-=232  \\$3 UMLRM0147$7ba0yba0y$8frefre$aNosferatu$cspectacle$d2001$eParis ; Opéra Bastille$lRéalisation
+=232  \\$3UMLRM0147$7ba0yba0y$8frefre$aNosferatu$cspectacle$d2001$eParis ; Opéra Bastille$lRéalisation
 =502  \1$3FRBNF15891339$7ba0yba0y$8frespa$oISNI 0000 0000 7824 6722$aMartinez$b José$f1969-....$cdanseur$4275
 =502  \1$3FRBNF13893539$7ba0yba0y$8frefre$oISNI 0000 0000 6309 2513$aKontarsky$bBernhard$f1937-....$4250
 =512  02$3FRBNF11945309$7ba0yba0y$8frefre$oISNI 0000 0001 2375 3986$aOpéra national de Paris$bBallet$4275
@@ -1912,7 +1912,7 @@
 =241  \1$3FRBNF13894531$oISNI 0000 0001 2136 7029$aGlass, Philip (1937-....)$tDracula$7ba0yba0y$8fre###
 =370  \\$aMusique composée pour le film du même titre de Tod Browning, réalisé en 1931$aRéunit : Dracula ; Journey to the inn ; The inn ; The crypt ; Carriage without a driver ; The castle ; The drawing room ; Excellent, Mr. Renfield ; The three consorts of Dracula ; The storm ; Horrible tragedy ; London fog ; In the theatre ; Lucy's bitten ; Steward sanatorium ; Renfield ; In his cell ; When the dream comes ; Dracula enters ; Or a wolf ; Women in white ; Renfield in the drawing room ; Dr. van Helsing and Dracula ; Mina's
 =501  \1$3FRBNF13894531$7ba0yba0y$8freeng$oISNI 0000 0001 2136 7029$aGlass$bPhilip$f1937-....$4230
-=531  \\$5xxg$pEst un complément de]$3UMLRM154$aDracula$cfilm$d1931$7ba0yba0y$8fre###
+=531  \\$5xxg$pEst un complément de]$3UMLRM0154$aDracula$cfilm$d1931$7ba0yba0y$8fre###
 =608  \\$3FRBNF11937299$aMusique de film$2rameauGenre
 =640  6\$0Date de première publication$f#1999#####
 =801  \\$aFR$bFR-751131015$c20180220
@@ -2024,7 +2024,7 @@
 =501  \1$3FRBNF14702511$7ba0yba0y$8fre###$oISNI 0000 0003 6953 0387$a‏Tovar‏$bLupita$f1910-2016$4005
 =501  \1$7ba0yba0y$8fre###$aNorton$bBarry$f1905-1956$4$4005
 =531  \\$5xxa$pEst un remake de$3UMLRM0154$aDracula$cfilm$d1931$7ba0yba0y$8fre###
-=541  \1$5xxa$pEst une adaptation dans un autre mode de création de [œuvre]$3UMLRM155$7ba0yba0y$8fre###$aDeane, Hamilton (1879-1958)$aBalderston, John L. (1889-1954)$tDracula
+=541  \1$5xxa$pEst une adaptation dans un autre mode de création de [œuvre]$3UMLRM0155$7ba0yba0y$8fre###$aDeane, Hamilton (1879-1958)$aBalderston, John L. (1889-1954)$tDracula
 =541  \1$5xxl$3UMLRM0004$7ba0yba0y$8fre###$aStoker$bBram (1847-1912)$tDracula
 =640  5\$0Dates de tournage$f#19301010#$i#19301108#
 =640  6\$0Date de première sortie en salle$aES$dMadrid$f#19310320#
