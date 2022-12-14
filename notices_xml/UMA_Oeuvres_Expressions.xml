@@ -1,7 +1,7 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
   <marc:record>
-    <marc:leader>04287nx  a2200565   4500</marc:leader>
+    <marc:leader>04287nx  f2200565   45  </marc:leader>
     <marc:controlfield tag="001">UMLRM0001</marc:controlfield>
     <marc:datafield tag="033" ind1=" " ind2=" ">
       <marc:subfield code="a">https://data.bnf.fr/ark:/12148/cb11943761j</marc:subfield>
