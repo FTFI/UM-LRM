@@ -1180,8 +1180,8 @@
     </marc:datafield>
     <marc:datafield tag="140" ind1=" " ind2=" ">
       <marc:subfield code="a">mi</marc:subfield>
-      <marc:subfield code="b">prosp</marc:subfield>
-      <marc:subfield code="2">BnF-FonctTexMix</marc:subfield>
+      <marc:subfield code="b">progr</marc:subfield>
+      <marc:subfield code="2">BnF-FonctIco</marc:subfield>
     </marc:datafield>
     <marc:datafield tag="145" ind1="0" ind2=" ">
       <marc:subfield code="a">b</marc:subfield>
@@ -3796,7 +3796,7 @@
     <marc:datafield tag="140" ind1=" " ind2=" ">
       <marc:subfield code="a">te</marc:subfield>
       <marc:subfield code="b">v</marc:subfield>
-      <marc:subfield code="2">UM/B105pos4</marc:subfield>
+      <marc:subfield code="2">UM/B105pos4-7</marc:subfield>
     </marc:datafield>
     <marc:datafield tag="145" ind1="0" ind2=" ">
       <marc:subfield code="a">i</marc:subfield>
@@ -6582,7 +6582,7 @@
     <marc:datafield tag="140" ind1=" " ind2=" ">
       <marc:subfield code="a">te</marc:subfield>
       <marc:subfield code="b">m</marc:subfield>
-      <marc:subfield code="2">UMB105pos4</marc:subfield>
+      <marc:subfield code="2">UMB105pos4-7</marc:subfield>
     </marc:datafield>
     <marc:datafield tag="145" ind1="0" ind2=" ">
       <marc:subfield code="a">i</marc:subfield>
@@ -8671,7 +8671,6 @@
     <marc:datafield tag="140" ind1=" " ind2=" ">
       <marc:subfield code="a">ic</marc:subfield>
       <marc:subfield code="b">fffa</marc:subfield>
-      <marc:subfield code="2">BnF-</marc:subfield>
       <marc:subfield code="2">BnF-GenreFilm</marc:subfield>
     </marc:datafield>
     <marc:datafield tag="145" ind1="0" ind2=" ">
@@ -9039,8 +9038,8 @@
     </marc:datafield>
     <marc:datafield tag="140" ind1=" " ind2=" ">
       <marc:subfield code="a">ic</marc:subfield>
-      <marc:subfield code="b">ff  </marc:subfield>
-      <marc:subfield code="2">BnF-GenreFilm</marc:subfield>
+      <marc:subfield code="b">fi</marc:subfield>
+      <marc:subfield code="2">BnF-ImAnim</marc:subfield>
     </marc:datafield>
     <marc:datafield tag="145" ind1="0" ind2=" ">
       <marc:subfield code="a">b</marc:subfield>
@@ -9446,8 +9445,8 @@
     </marc:datafield>
     <marc:datafield tag="140" ind1=" " ind2=" ">
       <marc:subfield code="a">ic</marc:subfield>
-      <marc:subfield code="b">ff  </marc:subfield>
-      <marc:subfield code="2">BnF-GenreFilm</marc:subfield>
+      <marc:subfield code="b">fi</marc:subfield>
+      <marc:subfield code="2">BnF-ImAnim</marc:subfield>
     </marc:datafield>
     <marc:datafield tag="145" ind1="0" ind2=" ">
       <marc:subfield code="a">b</marc:subfield>
@@ -10354,6 +10353,11 @@
       <marc:subfield code="b">thrad</marc:subfield>
       <marc:subfield code="2">BnF-GenrLitt</marc:subfield>
     </marc:datafield>
+    <marc:datafield tag="140" ind1=" " ind2=" ">
+      <marc:subfield code="a">te</marc:subfield>
+      <marc:subfield code="b">er</marc:subfield>
+      <marc:subfield code="2">BnF-ImAnim</marc:subfield>
+    </marc:datafield>
     <marc:datafield tag="145" ind1="0" ind2=" ">
       <marc:subfield code="a">h</marc:subfield>
       <marc:subfield code="b">xxxa  </marc:subfield>
@@ -10567,8 +10571,12 @@
     <marc:datafield tag="140" ind1=" " ind2=" ">
       <marc:subfield code="a">te</marc:subfield>
       <marc:subfield code="b">thrad</marc:subfield>
-      <marc:subfield code="2">BnF-</marc:subfield>
-      <marc:subfield code="2">BnF-GenreFilm</marc:subfield>
+      <marc:subfield code="2">BnF-GenreLitt</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="140" ind1=" " ind2=" ">
+      <marc:subfield code="a">te</marc:subfield>
+      <marc:subfield code="b">sr</marc:subfield>
+      <marc:subfield code="2">BnF-ImAnim</marc:subfield>
     </marc:datafield>
     <marc:datafield tag="145" ind1="0" ind2=" ">
       <marc:subfield code="a">h</marc:subfield>
